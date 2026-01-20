@@ -1,7 +1,10 @@
 # NFL-Coaching-Network
 Developed an NFL Coaching Network and did some analysis based on potential under-rated candidates for Head coach, Offensive coordinator, and Defensive Coordinator
+
 Project Overview
--
+- This project at a high level has scraped wikipedia for all coaching staff data I could find to create a robust coaching network for further analysis.
+- I have used this network to create some metrics to try and assess coaching quality based on the staff around you and what you might have learned from them.
+- Finally, I was able to generate potential coaching staffs that a prospective Head Coach might select based on their personal coaching network
 
 Repo Outline
 - Scrapers
