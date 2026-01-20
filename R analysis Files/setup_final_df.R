@@ -471,7 +471,6 @@ final_output <- base_df_pos %>%
   mutate(MeanValue.y = percent_rank(MeanValue.y),
             CompositeValue = (MeanValue.y * 2 + MeanValue.x + MaxValue.x * 3)/6
             )
-
 write_rds(final_output, 'COACHING CANDIDATES.csv')
 
 filtered_list <- final_output  %>% 

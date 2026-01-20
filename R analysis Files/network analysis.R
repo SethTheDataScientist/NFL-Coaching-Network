@@ -60,7 +60,7 @@ plot(
   main = "Sample Coaching Tree (Directed)"
 )
 
-sample_nodes <- sample(V(g_costaff), 500)
+sample_nodes <- sample(V(g_costaff), 300)
 g_sub2 <- induced_subgraph(g_costaff, sample_nodes)
 
 plot(
