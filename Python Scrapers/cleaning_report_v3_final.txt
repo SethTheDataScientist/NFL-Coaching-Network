@@ -1,0 +1,89 @@
+================================================================================
+NFL STAFF DATA CLEANING REPORT - VERSION 3 (FINAL)
+================================================================================
+
+Total records: 32,322
+Unique teams: 32
+Year range: 1980 - 2025
+Unique individuals: 4,032
+
+CLASSIFICATION BREAKDOWN
+--------------------------------------------------------------------------------
+  Position Coach - Offense: 6,214 (19.2%)
+  Position Coach - Defense: 4,607 (14.3%)
+  Scouting & Personnel: 3,642 (11.3%)
+  Coordinator: 3,361 (10.4%)
+  Specialist Coach: 3,097 (9.6%)
+  Ownership/Executive: 2,593 (8.0%)
+  Strength & Conditioning: 2,047 (6.3%)
+  General Manager: 2,014 (6.2%)
+  Head Coach: 1,301 (4.0%)
+  Position Coach - Special Teams: 1,253 (3.9%)
+  Administrative & Operations: 1,076 (3.3%)
+  Medical & Training: 505 (1.6%)
+  Analytics & Research: 294 (0.9%)
+  Assistant Head Coach: 205 (0.6%)
+  Uncategorized: 113 (0.3%)
+
+SIDE OF BALL BREAKDOWN
+--------------------------------------------------------------------------------
+  Offense: 8,783 (27.2%)
+  Both: 7,769 (24.0%)
+  Defense: 7,182 (22.2%)
+  N/A: 6,628 (20.5%)
+  Special Teams: 1,960 (6.1%)
+
+Uncategorized roles: 113 (0.3%)
+
+Top 30 uncategorized roles:
+  assistant to the president: 14
+  coaches’ assistant: 7
+  vice president of administration: 5
+  sports scientist: 3
+  bob fry: 2
+  carroll huntress: 2
+  jim royer: 2
+  connie carberg: 2
+  mike hickey: 2
+  bob ledbetter: 2
+  senior vice president/tertiary football executive: 2
+  clyde emrich: 2
+  johnny roland: 2
+  dick stanfel: 2
+  brian mccaskey: 2
+  jim larue: 2
+  pete mcgrane: 2
+  ray earley: 2
+  dan sekanovich: 1
+  executive vice president of administration: 1
+  defensive nickel: 1
+  gary haeger: 1
+  ted plumb: 1
+  john levra: 1
+  dale haupt: 1
+  pete mcculley: 1
+  advanced projects coordinator: 1
+  training camp volunteer: 1
+  steelers tv/steelers.com reporter: 1
+  hr manager: 1
+
+POSITION GROUP BREAKDOWN (Position Coaches Only)
+--------------------------------------------------------------------------------
+  OL: 1,689
+  DB: 1,688
+  DL: 1,465
+  LB: 1,454
+  ST: 1,253
+  WR: 1,247
+  RB: 1,234
+  TE: 1,061
+  QB: 983
+
+Interim/Acting roles: 100 (0.3%)
+
+MISSING DATA
+--------------------------------------------------------------------------------
+  position_group: 20,248 (62.6%)
+  position_subgroup: 31,594 (97.7%)
+
+================================================================================

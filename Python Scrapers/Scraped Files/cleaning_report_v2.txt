@@ -1,0 +1,80 @@
+================================================================================
+NFL STAFF DATA CLEANING REPORT - VERSION 2
+================================================================================
+
+Total records: 32,322
+Unique teams: 32
+Year range: 1980 - 2025
+Unique individuals: 4,174
+
+CLASSIFICATION BREAKDOWN
+--------------------------------------------------------------------------------
+  Position Coach - Offense: 9,039 (28.0%)
+  Position Coach - Defense: 4,557 (14.1%)
+  Coordinator: 3,181 (9.8%)
+  Scouting & Personnel: 2,573 (8.0%)
+  Ownership/Executive: 2,420 (7.5%)
+  Specialist Coach: 2,344 (7.3%)
+  Head Coach: 2,226 (6.9%)
+  Strength & Conditioning: 2,041 (6.3%)
+  General Manager: 1,959 (6.1%)
+  Administrative & Operations: 906 (2.8%)
+  Medical & Training: 446 (1.4%)
+  Uncategorized: 367 (1.1%)
+  Analytics & Research: 234 (0.7%)
+  Position Coach - Special Teams: 29 (0.1%)
+
+Uncategorized roles: 367 (1.1%)
+
+Top 30 uncategorized roles:
+  vice president: 82
+  assistant to the president: 14
+  vice-president: 13
+  coaches’ assistant: 7
+  vice-president of administration: 6
+  punting: 5
+  vice president of administration: 5
+  director of compliance: 5
+  owning entity: 5
+  vice president of player engagement: 5
+  executive vice president/chief brand officer: 5
+  run game specialist: 4
+  bill willis diversity coaching fellow: 4
+  chief investment officer: 4
+  co-chairmen: 4
+  specialists: 4
+  senior vice-president: 4
+  executive vp: 4
+  kicking: 4
+  special assistant to the defense: 4
+  film coordinator: 4
+  squad development: 4
+  nfl coaching fellowship/defense: 3
+  assistant offensive coordinator/passing game: 3
+  bill walsh diversity coaching fellowship: 3
+  chief negotiator: 3
+  office manager: 3
+  executive assistant: 3
+  coordinator of football administration: 3
+  sports scientist: 3
+
+POSITION GROUP BREAKDOWN (Position Coaches Only)
+--------------------------------------------------------------------------------
+  OL: 2,745
+  TE: 2,687
+  DB: 1,624
+  LB: 1,467
+  DL: 1,466
+  RB: 1,317
+  WR: 1,266
+  QB: 1,024
+  ST: 29
+
+Interim/Acting roles: 100 (0.3%)
+
+MISSING DATA
+--------------------------------------------------------------------------------
+  position_group: 18,697 (57.8%)
+  position_subgroup: 31,694 (98.1%)
+
+================================================================================

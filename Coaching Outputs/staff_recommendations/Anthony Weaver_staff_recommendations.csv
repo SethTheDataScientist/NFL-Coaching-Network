@@ -1,0 +1,51 @@
+position_key,coach_id,candidate_name,current_role,current_side,target_position,target_side,degree,years_together,coach_value,connection_score
+Defensive Coordinator_Defense,1558,Ryan Downard,Position Coach - Defense,Defense,Defensive Coordinator,Defense,1,2,0.722290792396939,1.0834361885954085
+Defensive Coordinator_Defense,1181,Chris Hewitt,Specialist Coordinator,Defense,Defensive Coordinator,Defense,1,3,0.5052192066805845,1.010438413361169
+Defensive Coordinator_Defense,1757,Bobby King,Position Coach - Defense,Defense,Defensive Coordinator,Defense,1,1,0.8847198222661071,0.8847198222661071
+Defensive Coordinator_Defense,1763,Anthony Midget,Position Coach - Defense,Defense,Defensive Coordinator,Defense,1,4,0.33028881757590717,0.8257220439397679
+Defensive Coordinator_Defense,965,Joe Barry,Specialist Coordinator,Defense,Defensive Coordinator,Defense,1,2,0.546972860125261,0.8204592901878915
+Offensive Coordinator_Offense,1188,Keith Williams,Position Coach - Offense,Offense,Offensive Coordinator,Offense,1,3,0.732164897556159,1.464329795112318
+Offensive Coordinator_Offense,1177,Travis Switzer,Specialist Coordinator,Offense,Offensive Coordinator,Offense,1,2,0.8496868475991649,1.2745302713987474
+Offensive Coordinator_Offense,1034,Jon Embree,Position Coach - Offense,Offense,Offensive Coordinator,Offense,1,2,0.8173290545544311,1.2259935818316465
+Offensive Coordinator_Offense,1057,Ike Hilliard,Position Coach - Offense,Offense,Offensive Coordinator,Offense,1,1,0.9461861268822513,0.9461861268822513
+Offensive Coordinator_Offense,1175,Todd Monken,Offensive Coordinator,Offense,Offensive Coordinator,Offense,1,1,0.8663883089770354,0.8663883089770354
+Position Coach - Defense_Defense,1757,Bobby King,Position Coach - Defense,Defense,Position Coach - Defense,Defense,1,1,0.8847198222661071,0.8847198222661071
+Position Coach - Defense_Defense,1763,Anthony Midget,Position Coach - Defense,Defense,Position Coach - Defense,Defense,1,4,0.33028881757590717,0.8257220439397679
+Position Coach - Defense_Defense,1264,Karl Dunbar,Position Coach - Defense,Defense,Position Coach - Defense,Defense,1,1,0.7027894347074797,0.7027894347074797
+Position Coach - Defense_Defense,1220,Jason Rebrovich,Position Coach - Defense,Defense,Position Coach - Defense,Defense,1,1,0.6966181189829672,0.6966181189829672
+Position Coach - Defense_Defense,1761,Matt O'Donnell,Position Coach - Defense,Defense,Position Coach - Defense,Defense,1,2,0.41397185880029624,0.6209577882004443
+Position Coach - Offense_Offense,1034,Jon Embree,Position Coach - Offense,Offense,Position Coach - Offense,Offense,1,2,0.8173290545544311,1.2259935818316465
+Position Coach - Offense_Offense,1057,Ike Hilliard,Position Coach - Offense,Offense,Position Coach - Offense,Offense,1,1,0.9461861268822513,0.9461861268822513
+Position Coach - Offense_Offense,703,Eric Studesville,Position Coach - Offense,Offense,Position Coach - Offense,Offense,1,2,0.5645519624784004,0.8468279437176007
+Position Coach - Offense_Offense,1262,Tony Sparano Jr.,Position Coach - Offense,Offense,Position Coach - Offense,Offense,1,1,0.7827696864971612,0.7827696864971612
+Position Coach - Offense_Offense,1260,Sanjay Lal,Position Coach - Offense,Offense,Position Coach - Offense,Offense,1,1,0.7558627499382868,0.7558627499382868
+Position Coach - Special Teams_Special Teams,1706,Cory Harkey,Specialist Coach,Special Teams,Position Coach - Special Teams,Special Teams,2,0,NA,0
+Position Coach - Special Teams_Special Teams,1723,Kyle Wilber,Specialist Coach,Special Teams,Position Coach - Special Teams,Special Teams,2,0,NA,0
+Position Coach - Special Teams_Special Teams,2292,Ronald Blair III,Specialist Coach,Special Teams,Position Coach - Special Teams,Special Teams,2,0,NA,0
+Specialist Coach_Defense,9,Dom Capers,Specialist Coach,Defense,Specialist Coach,Defense,2,0,NA,0
+Specialist Coach_Defense,66,John Pagano,Specialist Coach,Defense,Specialist Coach,Defense,2,0,NA,0
+Specialist Coach_Defense,112,Bill Johnson,Specialist Coach,Defense,Specialist Coach,Defense,2,0,NA,0
+Specialist Coach_Defense,130,Joe Vitt,Specialist Coach,Defense,Specialist Coach,Defense,2,0,NA,0
+Specialist Coach_Defense,290,Peter Giunta,Specialist Coach,Defense,Specialist Coach,Defense,2,0,NA,0
+Specialist Coach_Offense,330,Marc Trestman,Specialist Coach,Offense,Specialist Coach,Offense,2,0,NA,0
+Specialist Coach_Offense,350,Ken Zampese,Specialist Coach,Offense,Specialist Coach,Offense,2,0,NA,0
+Specialist Coach_Offense,532,Mike Sullivan,Specialist Coach,Offense,Specialist Coach,Offense,2,0,NA,0
+Specialist Coach_Offense,571,Pete Carmichael,Specialist Coach,Offense,Specialist Coach,Offense,2,0,NA,0
+Specialist Coach_Offense,715,Joe Philbin,Specialist Coach,Offense,Specialist Coach,Offense,2,0,NA,0
+Specialist Coach_Special Teams,1723,Kyle Wilber,Specialist Coach,Special Teams,Specialist Coach,Special Teams,2,0,NA,0
+Specialist Coach_Special Teams,2292,Ronald Blair III,Specialist Coach,Special Teams,Specialist Coach,Special Teams,2,0,NA,0
+Specialist Coordinator_Defense,1181,Chris Hewitt,Specialist Coordinator,Defense,Specialist Coordinator,Defense,1,3,0.5052192066805845,1.010438413361169
+Specialist Coordinator_Defense,1757,Bobby King,Position Coach - Defense,Defense,Specialist Coordinator,Defense,1,1,0.8847198222661071,0.8847198222661071
+Specialist Coordinator_Defense,1763,Anthony Midget,Position Coach - Defense,Defense,Specialist Coordinator,Defense,1,4,0.33028881757590717,0.8257220439397679
+Specialist Coordinator_Defense,965,Joe Barry,Specialist Coordinator,Defense,Specialist Coordinator,Defense,1,2,0.546972860125261,0.8204592901878915
+Specialist Coordinator_Defense,1264,Karl Dunbar,Position Coach - Defense,Defense,Specialist Coordinator,Defense,1,1,0.7027894347074797,0.7027894347074797
+Specialist Coordinator_Offense,1177,Travis Switzer,Specialist Coordinator,Offense,Specialist Coordinator,Offense,1,2,0.8496868475991649,1.2745302713987474
+Specialist Coordinator_Offense,1034,Jon Embree,Position Coach - Offense,Offense,Specialist Coordinator,Offense,1,2,0.8173290545544311,1.2259935818316465
+Specialist Coordinator_Offense,1057,Ike Hilliard,Position Coach - Offense,Offense,Specialist Coordinator,Offense,1,1,0.9461861268822513,0.9461861268822513
+Specialist Coordinator_Offense,1255,Jason Vrable,Specialist Coordinator,Offense,Specialist Coordinator,Offense,1,1,0.860125260960334,0.860125260960334
+Specialist Coordinator_Offense,703,Eric Studesville,Position Coach - Offense,Offense,Specialist Coordinator,Offense,1,2,0.5645519624784004,0.8468279437176007
+Specialist Coordinator_Special Teams,507,Jeff Rodgers,Specialist Coordinator,Special Teams,Specialist Coordinator,Special Teams,2,0,NA,0
+Specialist Coordinator_Special Teams,675,Danny Crossman,Specialist Coordinator,Special Teams,Specialist Coordinator,Special Teams,1,2,NA,0
+Specialist Coordinator_Special Teams,706,Danny Smith,Specialist Coordinator,Special Teams,Specialist Coordinator,Special Teams,2,0,NA,0
+Specialist Coordinator_Special Teams,1030,Marquice Williams,Specialist Coordinator,Special Teams,Specialist Coordinator,Special Teams,2,0,NA,0
+Specialist Coordinator_Special Teams,1118,Ben Kotwica,Specialist Coordinator,Special Teams,Specialist Coordinator,Special Teams,2,0,NA,0

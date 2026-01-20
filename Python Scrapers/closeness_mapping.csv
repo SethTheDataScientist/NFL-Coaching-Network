@@ -1,0 +1,170 @@
+role_category.x,side_of_ball.x,role_category.y,side_of_ball.y
+Specialist Coach,Defense,Specialist Coach,Defense
+Specialist Coach,Defense,Position Coach - Offense,Offense
+Specialist Coach,Defense,Specialist Coach,Offense
+Specialist Coach,Defense,Specialist Coach,Both
+Specialist Coach,Defense,Position Coach - Defense,Defense
+Specialist Coach,Defense,Specialist Coordinator,Special Teams
+Specialist Coach,Defense,Defensive Coordinator,Defense
+Specialist Coach,Defense,Head Coach,Both
+Specialist Coach,Defense,Offensive Coordinator,Offense
+Specialist Coach,Defense,Specialist Coordinator,Offense
+Specialist Coach,Defense,Position Coach - Special Teams,Special Teams
+Specialist Coach,Defense,Specialist Coordinator,Defense
+Specialist Coach,Defense,Specialist Coach,Special Teams
+Position Coach - Offense,Offense,Specialist Coach,Defense
+Position Coach - Offense,Offense,Position Coach - Offense,Offense
+Position Coach - Offense,Offense,Specialist Coach,Offense
+Position Coach - Offense,Offense,Specialist Coach,Both
+Position Coach - Offense,Offense,Position Coach - Defense,Defense
+Position Coach - Offense,Offense,Specialist Coordinator,Special Teams
+Position Coach - Offense,Offense,Defensive Coordinator,Defense
+Position Coach - Offense,Offense,Head Coach,Both
+Position Coach - Offense,Offense,Offensive Coordinator,Offense
+Position Coach - Offense,Offense,Specialist Coordinator,Offense
+Position Coach - Offense,Offense,Position Coach - Special Teams,Special Teams
+Position Coach - Offense,Offense,Specialist Coordinator,Defense
+Position Coach - Offense,Offense,Specialist Coach,Special Teams
+Specialist Coach,Offense,Specialist Coach,Defense
+Specialist Coach,Offense,Position Coach - Offense,Offense
+Specialist Coach,Offense,Specialist Coach,Offense
+Specialist Coach,Offense,Specialist Coach,Both
+Specialist Coach,Offense,Position Coach - Defense,Defense
+Specialist Coach,Offense,Specialist Coordinator,Special Teams
+Specialist Coach,Offense,Defensive Coordinator,Defense
+Specialist Coach,Offense,Head Coach,Both
+Specialist Coach,Offense,Offensive Coordinator,Offense
+Specialist Coach,Offense,Specialist Coordinator,Offense
+Specialist Coach,Offense,Position Coach - Special Teams,Special Teams
+Specialist Coach,Offense,Specialist Coordinator,Defense
+Specialist Coach,Offense,Specialist Coach,Special Teams
+Specialist Coach,Both,Specialist Coach,Defense
+Specialist Coach,Both,Position Coach - Offense,Offense
+Specialist Coach,Both,Specialist Coach,Offense
+Specialist Coach,Both,Specialist Coach,Both
+Specialist Coach,Both,Position Coach - Defense,Defense
+Specialist Coach,Both,Specialist Coordinator,Special Teams
+Specialist Coach,Both,Defensive Coordinator,Defense
+Specialist Coach,Both,Head Coach,Both
+Specialist Coach,Both,Offensive Coordinator,Offense
+Specialist Coach,Both,Specialist Coordinator,Offense
+Specialist Coach,Both,Position Coach - Special Teams,Special Teams
+Specialist Coach,Both,Specialist Coordinator,Defense
+Specialist Coach,Both,Specialist Coach,Special Teams
+Position Coach - Defense,Defense,Specialist Coach,Defense
+Position Coach - Defense,Defense,Position Coach - Offense,Offense
+Position Coach - Defense,Defense,Specialist Coach,Offense
+Position Coach - Defense,Defense,Specialist Coach,Both
+Position Coach - Defense,Defense,Position Coach - Defense,Defense
+Position Coach - Defense,Defense,Specialist Coordinator,Special Teams
+Position Coach - Defense,Defense,Defensive Coordinator,Defense
+Position Coach - Defense,Defense,Head Coach,Both
+Position Coach - Defense,Defense,Offensive Coordinator,Offense
+Position Coach - Defense,Defense,Specialist Coordinator,Offense
+Position Coach - Defense,Defense,Position Coach - Special Teams,Special Teams
+Position Coach - Defense,Defense,Specialist Coordinator,Defense
+Position Coach - Defense,Defense,Specialist Coach,Special Teams
+Specialist Coordinator,Special Teams,Specialist Coach,Defense
+Specialist Coordinator,Special Teams,Position Coach - Offense,Offense
+Specialist Coordinator,Special Teams,Specialist Coach,Offense
+Specialist Coordinator,Special Teams,Specialist Coach,Both
+Specialist Coordinator,Special Teams,Position Coach - Defense,Defense
+Specialist Coordinator,Special Teams,Specialist Coordinator,Special Teams
+Specialist Coordinator,Special Teams,Defensive Coordinator,Defense
+Specialist Coordinator,Special Teams,Head Coach,Both
+Specialist Coordinator,Special Teams,Offensive Coordinator,Offense
+Specialist Coordinator,Special Teams,Specialist Coordinator,Offense
+Specialist Coordinator,Special Teams,Position Coach - Special Teams,Special Teams
+Specialist Coordinator,Special Teams,Specialist Coordinator,Defense
+Specialist Coordinator,Special Teams,Specialist Coach,Special Teams
+Defensive Coordinator,Defense,Specialist Coach,Defense
+Defensive Coordinator,Defense,Position Coach - Offense,Offense
+Defensive Coordinator,Defense,Specialist Coach,Offense
+Defensive Coordinator,Defense,Specialist Coach,Both
+Defensive Coordinator,Defense,Position Coach - Defense,Defense
+Defensive Coordinator,Defense,Specialist Coordinator,Special Teams
+Defensive Coordinator,Defense,Defensive Coordinator,Defense
+Defensive Coordinator,Defense,Head Coach,Both
+Defensive Coordinator,Defense,Offensive Coordinator,Offense
+Defensive Coordinator,Defense,Specialist Coordinator,Offense
+Defensive Coordinator,Defense,Position Coach - Special Teams,Special Teams
+Defensive Coordinator,Defense,Specialist Coordinator,Defense
+Defensive Coordinator,Defense,Specialist Coach,Special Teams
+Head Coach,Both,Specialist Coach,Defense
+Head Coach,Both,Position Coach - Offense,Offense
+Head Coach,Both,Specialist Coach,Offense
+Head Coach,Both,Specialist Coach,Both
+Head Coach,Both,Position Coach - Defense,Defense
+Head Coach,Both,Specialist Coordinator,Special Teams
+Head Coach,Both,Defensive Coordinator,Defense
+Head Coach,Both,Head Coach,Both
+Head Coach,Both,Offensive Coordinator,Offense
+Head Coach,Both,Specialist Coordinator,Offense
+Head Coach,Both,Position Coach - Special Teams,Special Teams
+Head Coach,Both,Specialist Coordinator,Defense
+Head Coach,Both,Specialist Coach,Special Teams
+Offensive Coordinator,Offense,Specialist Coach,Defense
+Offensive Coordinator,Offense,Position Coach - Offense,Offense
+Offensive Coordinator,Offense,Specialist Coach,Offense
+Offensive Coordinator,Offense,Specialist Coach,Both
+Offensive Coordinator,Offense,Position Coach - Defense,Defense
+Offensive Coordinator,Offense,Specialist Coordinator,Special Teams
+Offensive Coordinator,Offense,Defensive Coordinator,Defense
+Offensive Coordinator,Offense,Head Coach,Both
+Offensive Coordinator,Offense,Offensive Coordinator,Offense
+Offensive Coordinator,Offense,Specialist Coordinator,Offense
+Offensive Coordinator,Offense,Position Coach - Special Teams,Special Teams
+Offensive Coordinator,Offense,Specialist Coordinator,Defense
+Offensive Coordinator,Offense,Specialist Coach,Special Teams
+Specialist Coordinator,Offense,Specialist Coach,Defense
+Specialist Coordinator,Offense,Position Coach - Offense,Offense
+Specialist Coordinator,Offense,Specialist Coach,Offense
+Specialist Coordinator,Offense,Specialist Coach,Both
+Specialist Coordinator,Offense,Position Coach - Defense,Defense
+Specialist Coordinator,Offense,Specialist Coordinator,Special Teams
+Specialist Coordinator,Offense,Defensive Coordinator,Defense
+Specialist Coordinator,Offense,Head Coach,Both
+Specialist Coordinator,Offense,Offensive Coordinator,Offense
+Specialist Coordinator,Offense,Specialist Coordinator,Offense
+Specialist Coordinator,Offense,Position Coach - Special Teams,Special Teams
+Specialist Coordinator,Offense,Specialist Coordinator,Defense
+Specialist Coordinator,Offense,Specialist Coach,Special Teams
+Position Coach - Special Teams,Special Teams,Specialist Coach,Defense
+Position Coach - Special Teams,Special Teams,Position Coach - Offense,Offense
+Position Coach - Special Teams,Special Teams,Specialist Coach,Offense
+Position Coach - Special Teams,Special Teams,Specialist Coach,Both
+Position Coach - Special Teams,Special Teams,Position Coach - Defense,Defense
+Position Coach - Special Teams,Special Teams,Specialist Coordinator,Special Teams
+Position Coach - Special Teams,Special Teams,Defensive Coordinator,Defense
+Position Coach - Special Teams,Special Teams,Head Coach,Both
+Position Coach - Special Teams,Special Teams,Offensive Coordinator,Offense
+Position Coach - Special Teams,Special Teams,Specialist Coordinator,Offense
+Position Coach - Special Teams,Special Teams,Position Coach - Special Teams,Special Teams
+Position Coach - Special Teams,Special Teams,Specialist Coordinator,Defense
+Position Coach - Special Teams,Special Teams,Specialist Coach,Special Teams
+Specialist Coordinator,Defense,Specialist Coach,Defense
+Specialist Coordinator,Defense,Position Coach - Offense,Offense
+Specialist Coordinator,Defense,Specialist Coach,Offense
+Specialist Coordinator,Defense,Specialist Coach,Both
+Specialist Coordinator,Defense,Position Coach - Defense,Defense
+Specialist Coordinator,Defense,Specialist Coordinator,Special Teams
+Specialist Coordinator,Defense,Defensive Coordinator,Defense
+Specialist Coordinator,Defense,Head Coach,Both
+Specialist Coordinator,Defense,Offensive Coordinator,Offense
+Specialist Coordinator,Defense,Specialist Coordinator,Offense
+Specialist Coordinator,Defense,Position Coach - Special Teams,Special Teams
+Specialist Coordinator,Defense,Specialist Coordinator,Defense
+Specialist Coordinator,Defense,Specialist Coach,Special Teams
+Specialist Coach,Special Teams,Specialist Coach,Defense
+Specialist Coach,Special Teams,Position Coach - Offense,Offense
+Specialist Coach,Special Teams,Specialist Coach,Offense
+Specialist Coach,Special Teams,Specialist Coach,Both
+Specialist Coach,Special Teams,Position Coach - Defense,Defense
+Specialist Coach,Special Teams,Specialist Coordinator,Special Teams
+Specialist Coach,Special Teams,Defensive Coordinator,Defense
+Specialist Coach,Special Teams,Head Coach,Both
+Specialist Coach,Special Teams,Offensive Coordinator,Offense
+Specialist Coach,Special Teams,Specialist Coordinator,Offense
+Specialist Coach,Special Teams,Position Coach - Special Teams,Special Teams
+Specialist Coach,Special Teams,Specialist Coordinator,Defense
+Specialist Coach,Special Teams,Specialist Coach,Special Teams

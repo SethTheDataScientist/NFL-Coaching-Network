@@ -1,0 +1,69 @@
+================================================================================
+NFL STAFF DATA CLEANING REPORT
+================================================================================
+
+Total records: 32,327
+Unique teams: 32
+Year range: 1980 - 2025
+Unique individuals: 4,242
+
+CLASSIFICATION BREAKDOWN
+--------------------------------------------------------------------------------
+  Position Coach - Offense: 9,987 (30.9%)
+  Position Coach - Defense: 4,488 (13.9%)
+  Coordinator: 3,258 (10.1%)
+  Ownership/Executive: 2,878 (8.9%)
+  Strength & Conditioning: 2,194 (6.8%)
+  Scouting & Personnel: 2,177 (6.7%)
+  General Manager: 1,722 (5.3%)
+  Specialist Coach: 1,330 (4.1%)
+  Administrative & Operations: 1,326 (4.1%)
+  Head Coach: 1,295 (4.0%)
+  Uncategorized: 681 (2.1%)
+  Assistant Head Coach: 570 (1.8%)
+  Medical & Training: 257 (0.8%)
+  Analytics & Research: 164 (0.5%)
+
+Uncategorized roles: 681 (2.1%)
+
+Top 20 uncategorized roles:
+  statistical analysis coordinator: 15
+  vice-president: 13
+  human relations/office coordinator: 10
+  director of ticket sales: 10
+  treasurer: 9
+  marketing coordinator: 9
+  special assignments: 9
+  merchandising manager: 8
+  vice president of pro personnel: 8
+  defensive nickel package: 8
+  community relations manager: 8
+  staff assistant: 8
+  weight room assistant: 8
+  vice president of player evaluation: 8
+  defensive staff assistant: 8
+  director of sports science: 8
+  director of draft management: 8
+  ticket manager: 8
+  defensive ends: 7
+  editor: 7
+
+POSITION GROUP BREAKDOWN (Position Coaches Only)
+--------------------------------------------------------------------------------
+  OL: 3,687
+  TE: 2,704
+  DB: 1,590
+  LB: 1,467
+  DL: 1,431
+  RB: 1,317
+  WR: 1,267
+  QB: 1,012
+
+Interim/Acting roles: 100 (0.3%)
+
+MISSING DATA
+--------------------------------------------------------------------------------
+  position_group: 17,852 (55.2%)
+  position_subgroup: 31,729 (98.2%)
+
+================================================================================

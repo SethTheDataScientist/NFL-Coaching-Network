@@ -1,0 +1,13 @@
+# Requirements for Optimized NFL Scraper
+
+# Core dependencies (required)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Optimization dependencies (required for optimized version)
+lxml>=4.9.0           # Fast HTML parser (5-10x faster than html.parser)
+
+# Optional but recommended
+tqdm>=4.65.0          # Progress bars (improves user experience)
