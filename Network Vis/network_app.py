@@ -11,14 +11,14 @@ st.set_page_config(page_title="NFL Coaching Network Analysis", layout="wide")
 st.title("NFL Coaching Network Analysis (1980-2025)")
 
 # Load all data files
-nodes_df = pd.read_csv("NFL-Coaching-Network/Network Vis/nodes_costaff.csv")
-edges_df = pd.read_csv("NFL-Coaching-Network/Network Vis/edges_df.csv")
+nodes_df = pd.read_csv("Network Vis/nodes_costaff.csv")
+edges_df = pd.read_csv("Network Vis/edges_df.csv")
 edges_df_full = edges_df.copy()  # Keep a copy of the full edges for connection tables
-centrality_df = pd.read_csv("NFL-Coaching-Network/Network Vis/centrality_measures.csv")
-community_summary_df = pd.read_csv("NFL-Coaching-Network/Network Vis/community_summary.csv")
-avg_downstream_by_year_df = pd.read_csv("NFL-Coaching-Network/Network Vis/avg_downstream_by_year.csv")
-avg_downstream_overall_df = pd.read_csv("NFL-Coaching-Network/Network Vis/avg_downstream_overall.csv")
-influence_scores_df = pd.read_csv("NFL-Coaching-Network/Network Vis/influence_scores.csv")
+centrality_df = pd.read_csv("Network Vis/centrality_measures.csv")
+community_summary_df = pd.read_csv("Network Vis/community_summary.csv")
+avg_downstream_by_year_df = pd.read_csv("Network Vis/avg_downstream_by_year.csv")
+avg_downstream_overall_df = pd.read_csv("Network Vis/avg_downstream_overall.csv")
+influence_scores_df = pd.read_csv("Network Vis/influence_scores.csv")
 
 # Create tabs for different sections
 tab1, tab3 = st.tabs(["Network Visualization", "Coaching Tree Analysis"])
