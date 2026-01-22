@@ -1,0 +1,1729 @@
+coach_id,coach,last_role,last_team,last_year,Combined_influence_score
+1142,Andy Reid,Head Coach,Kansas City Chiefs,2025,1
+818,Gary Kubiak,Coordinator,Minnesota Vikings,2020,0.746507559911998
+170,John Fox,Specialist Coach,Detroit Lions,2023,0.7397326284435713
+136,Bill Belichick,Head Coach,New England Patriots,2023,0.7268337135419708
+273,Marty Schottenheimer,Head Coach,Los Angeles Chargers,2005,0.7158448778641833
+161,Pete Carroll,Head Coach,Las Vegas Raiders,2025,0.7104452047195778
+409,Mike Shanahan,Head Coach,Washington Commanders,2013,0.7002140101711912
+621,John Harbaugh,Head Coach,Baltimore Ravens,2025,0.6987055354385602
+545,Mike Zimmer,Coordinator,Dallas Cowboys,2024,0.6933580039278305
+425,Mike Holmgren,Head Coach,Seattle Seahawks,2008,0.6834329426079746
+1363,Jon Gruden,Head Coach,Las Vegas Raiders,2020,0.6830352165593907
+121,Dan Reeves,Head Coach,Atlanta Falcons,2003,0.6741527085194403
+37,Mike McCarthy,Head Coach,Dallas Cowboys,2024,0.6622660101321259
+931,Dan Quinn,Head Coach,Washington Commanders,2025,0.6615712814714906
+131,Sean Payton,Head Coach,Denver Broncos,2025,0.6593360920811101
+96,Bill Parcells,Head Coach,Dallas Cowboys,2006,0.6511070371147231
+404,Jeff Fisher,Head Coach,Los Angeles Rams,2016,0.6383498375004427
+378,Bill Walsh,Specialist Coach,San Francisco 49ers,1996,0.6331312831621579
+9,Dom Capers,Specialist Coach,Carolina Panthers,2025,0.6228442048283814
+1149,Ron Rivera,Coordinator,Washington Commanders,2023,0.6063099220296925
+399,Mike Tomlin,Head Coach,Pittsburgh Steelers,2025,0.597663034196977
+926,Gus Bradley,Coordinator,Indianapolis Colts,2024,0.5938221610805592
+466,Marvin Lewis,Head Coach,Cincinnati Bengals,2018,0.5911138933974421
+8,Jim Mora,Head Coach,Seattle Seahawks,2009,0.5836922942470272
+365,Bill Cowher,Head Coach,Pittsburgh Steelers,2006,0.5825762027235277
+1046,Norv Turner,Coordinator,Carolina Panthers,2019,0.581853716214558
+682,Mike McCoy,Head Coach,Tennessee Titans,2025,0.581095721372304
+421,Steve Mariucci,Head Coach,Detroit Lions,2005,0.5802464274187414
+366,Mike Mularkey,Position Coach - Offense,Atlanta Falcons,2019,0.579050260531215
+374,George Seifert,Head Coach,Carolina Panthers,2001,0.5775724214476479
+1037,Kyle Shanahan,Head Coach,San Francisco 49ers,2025,0.575866679296669
+11,Jack Del Rio,Coordinator,Washington Commanders,2022,0.5746825095065958
+1358,Jay Gruden,Specialist Coach,Los Angeles Rams,2022,0.5716892962642487
+1144,Doug Pederson,Head Coach,Jacksonville Jaguars,2024,0.5690306526144256
+583,Chuck Pagano,Specialist Coach,Baltimore Ravens,2025,0.5678220816295413
+1807,Brian Billick,Head Coach,Baltimore Ravens,2005,0.5554900113251146
+51,Wade Phillips,Coordinator,Los Angeles Rams,2019,0.5549451649215403
+388,Tony Dungy,Head Coach,Indianapolis Colts,2008,0.5548322207277819
+2157,Berj Najarian,Head Coach,New England Patriots,2023,0.5488383211921862
+1596,Jason Garrett,Coordinator,New York Giants,2021,0.5474770165968118
+716,Jim Johnson,Coordinator,Philadelphia Eagles,2008,0.5451980796088024
+105,Bruce Arians,Head Coach,Tampa Bay Buccaneers,2021,0.5376309929495141
+1283,Dave Wannstedt,Coordinator,Tampa Bay Buccaneers,2013,0.5342155644294696
+377,Sherman Lewis,Coordinator,Detroit Lions,2004,0.533013665169228
+722,Mike Sherman,Coordinator,Miami Dolphins,2013,0.5317290252661947
+773,Jim Caldwell,Position Coach - Offense,Miami Dolphins,2019,0.5278178697855886
+57,Monte Kiffin,Specialist Coach,Jacksonville Jaguars,2016,0.5273861677574294
+189,Tom Coughlin,Head Coach,New York Giants,2015,0.525493319607179
+485,Sam Rutigliano,Head Coach,Cleveland Browns,1984,0.5241464175074446
+263,Dan Henning,Coordinator,Miami Dolphins,2010,0.5238804994916174
+1033,Sean McVay,Head Coach,Los Angeles Rams,2025,0.5230103592525053
+1703,Bill O'Brien,Coordinator,New England Patriots,2023,0.5225898131528953
+386,Chuck Noll,Head Coach,Pittsburgh Steelers,1991,0.5224645399228035
+720,Darrell Bevell,Coordinator,Miami Dolphins,2025,0.5194513206014526
+3,Steve Sidwell,Coordinator,Seattle Seahawks,2002,0.5189073883047759
+38,Jim Haslett,Position Coach - Defense,Tennessee Titans,2021,0.5183021177141817
+420,Marty Mornhinweg,Specialist Coach,Philadelphia Eagles,2020,0.516858699431289
+22,Vic Fangio,Coordinator,Philadelphia Eagles,2025,0.5162268085628613
+330,Marc Trestman,Specialist Coach,Los Angeles Chargers,2025,0.5140530692567836
+1147,Brad Childress,Specialist Coach,Chicago Bears,2019,0.5134031104894534
+1435,Adam Gase,Head Coach,New York Jets,2020,0.5117687780421297
+123,Mike Nolan,Coordinator,Dallas Cowboys,2020,0.5075596425370675
+412,Greg Knapp,Position Coach - Offense,Atlanta Falcons,2020,0.5049716233051534
+88,Romeo Crennel,Coordinator,Houston Texans,2019,0.5046711097072049
+581,Butch Davis,Specialist Coach,Tampa Bay Buccaneers,2013,0.5037249088313654
+1111,Dirk Koetter,Coordinator,Atlanta Falcons,2020,0.5033433787229273
+288,Dick Vermeil,Head Coach,Kansas City Chiefs,2005,0.5022174879002882
+95,Ray Perkins,Position Coach - Offense,Cleveland Browns,2000,0.502077726423364
+535,Rob Chudzinski,Coordinator,Indianapolis Colts,2017,0.5016737098039991
+41,Jim L. Mora,Position Coach - Defense,Seattle Seahawks,2008,0.5005574291486115
+460,Todd Haley,Coordinator,Cleveland Browns,2018,0.49924892797677844
+360,Ken Whisenhunt,Coordinator,Los Angeles Chargers,2018,0.49787511970497383
+113,Gregg Williams,Position Coach - Defense,Los Angeles Rams,2025,0.4975657008351999
+805,Rick Dennison,Coordinator,Seattle Seahawks,2025,0.49742663037807716
+352,Chuck Knox,Head Coach,Los Angeles Rams,1994,0.49740764531579656
+612,Dean Pees,Coordinator,Atlanta Falcons,2022,0.49626577048814907
+2127,Jon Robinson,Head Coach,Los Angeles Rams,1991,0.49596260082985033
+153,Bruce Coslet,Coordinator,Dallas Cowboys,2002,0.4956518364654432
+486,Hue Jackson,Head Coach,Cleveland Browns,2018,0.49488832734046917
+669,Forrest Gregg,Head Coach,Green Bay Packers,1987,0.4948598992050209
+1307,Todd Wash,Position Coach - Defense,Carolina Panthers,2025,0.49308258612433714
+272,Paul Hackett,Position Coach - Offense,Las Vegas Raiders,2010,0.4929376824446929
+1119,Jerome Henderson,Position Coach - Defense,Indianapolis Colts,2025,0.491905690336698
+1141,Pat Shurmur,Coordinator,Denver Broncos,2021,0.49172513511880656
+429,Bill Muir,Coordinator,Kansas City Chiefs,2011,0.4910216722726679
+424,Dennis Green,Head Coach,Arizona Cardinals,2006,0.4900312237969242
+331,Jerry Burns,Head Coach,Minnesota Vikings,1991,0.48971039389206683
+1294,Bill Callahan,Position Coach - Offense,Tennessee Titans,2024,0.48911262702415464
+1709,Josh McDaniels,Coordinator,New England Patriots,2025,0.48859144199056076
+371,Ray Rhodes,Specialist Coach,Cleveland Browns,2012,0.48843530936639573
+1156,Mike Smith,Position Coach - Defense,New England Patriots,2025,0.4883250772387984
+454,Todd Bowles,Head Coach,Tampa Bay Buccaneers,2025,0.4879920339401702
+156,Jim Fassel,Coordinator,Baltimore Ravens,2005,0.4866700883784172
+724,Ben McAdoo,Specialist Coach,New England Patriots,2025,0.48570589679577786
+572,George Edwards,Position Coach - Defense,Tampa Bay Buccaneers,2024,0.4848917650485171
+289,Herman Edwards,Head Coach,Kansas City Chiefs,2008,0.48450472596556543
+990,Frank Reich,Head Coach,Carolina Panthers,2023,0.4841607002113293
+1133,Sean McDermott,Head Coach,Buffalo Bills,2025,0.48295278484970233
+2261,Chip Kelly,Head Coach,San Francisco 49ers,2016,0.48207780184921417
+549,Dave Campo,Position Coach - Defense,Dallas Cowboys,2010,0.48188607913013176
+619,Cam Cameron,Coordinator,Baltimore Ravens,2012,0.48137580969599947
+603,Marv Levy,Head Coach,Buffalo Bills,1996,0.4783186144282539
+226,Terry Robiskie,Position Coach - Offense,Jacksonville Jaguars,2020,0.4774684251383406
+870,Jim Schwartz,Coordinator,Cleveland Browns,2025,0.47707871729683293
+415,Richard Smith,Position Coach - Defense,Chicago Bears,2025,0.4761745481318263
+434,Buddy Ryan,Head Coach,Arizona Cardinals,1995,0.47559715658303436
+1146,Steve Spagnuolo,Coordinator,Kansas City Chiefs,2025,0.47435266491784417
+247,Al Saunders,Specialist Coach,Cleveland Browns,2017,0.47403351835039215
+110,Dennis Allen,Coordinator,Chicago Bears,2025,0.4729213819324098
+457,Bob Sutton,Specialist Coach,Jacksonville Jaguars,2023,0.4725261881874014
+1892,Robert Saleh,Coordinator,San Francisco 49ers,2025,0.47196135257955235
+835,Dick Jauron,Coordinator,Cleveland Browns,2012,0.4711767195550107
+841,Greg Olson,Position Coach - Offense,Las Vegas Raiders,2025,0.47092363423062894
+867,Scott Linehan,Specialist Coach,New Orleans Saints,2025,0.4707645043617292
+364,Chan Gailey,Coordinator,Miami Dolphins,2020,0.4702395987857911
+1500,Bill Musgrave,Position Coach - Offense,Cleveland Browns,2025,0.46988884081558174
+1136,Matt Nagy,Coordinator,Kansas City Chiefs,2025,0.4679622485629871
+295,Floyd Peters,Position Coach - Defense,Las Vegas Raiders,1995,0.46729984502503297
+571,Pete Carmichael,Specialist Coach,Denver Broncos,2025,0.4670099089550121
+721,Tom Rossley,Coordinator,Green Bay Packers,2005,0.4658418931721673
+348,Lovie Smith,Head Coach,Houston Texans,2022,0.46541847938165537
+525,Leslie Frazier,Coordinator,Buffalo Bills,2022,0.46472287166359233
+442,Ted Marchibroda,Head Coach,Baltimore Ravens,1998,0.46470683647923683
+265,Ernie Zampese,Specialist Coach,Washington Commanders,2004,0.46410364347834093
+746,Ron Meyer,Head Coach,Indianapolis Colts,1990,0.46384069049101745
+370,Dick LeBeau,Coordinator,Tennessee Titans,2017,0.4629982310814558
+60,Tom Moore,Specialist Coach,Tampa Bay Buccaneers,2025,0.4628128151347495
+23,Bum Phillips,Head Coach,New Orleans Saints,1985,0.46278967129882925
+382,Sam Wyche,Position Coach - Offense,Buffalo Bills,2005,0.46226377943491653
+772,Clyde Christensen,Position Coach - Offense,Tampa Bay Buccaneers,2022,0.46124941319041257
+1014,Rex Ryan,Head Coach,Buffalo Bills,2015,0.4609442468018161
+494,Eric Mangini,Coordinator,San Francisco 49ers,2015,0.460877982784799
+266,Joe Gibbs,Head Coach,Washington Commanders,2006,0.45796908808706127
+877,Leeman Bennett,Head Coach,Tampa Bay Buccaneers,1986,0.4570130342898142
+471,Joe Pendry,Coordinator,Houston Texans,2005,0.45680549331871406
+278,Brian Schottenheimer,Head Coach,Dallas Cowboys,2025,0.4552832037561456
+208,Bobby Ross,Head Coach,Detroit Lions,2000,0.4540483490688938
+393,Kirby Wilson,Position Coach - Offense,Las Vegas Raiders,2020,0.4533006912434285
+309,Mike Shula,Specialist Coach,Buffalo Bills,2023,0.4523815439201357
+440,Marion Campbell,Head Coach,Atlanta Falcons,1989,0.4522655178520882
+1052,Steve Spurrier,Head Coach,Washington Commanders,2002,0.45161898252364
+93,Chris Palmer,Specialist Coach,Buffalo Bills,2015,0.4514973707855828
+80,Jimmy Raye,Specialist Coach,Tampa Bay Buccaneers,2013,0.45148100635417315
+1036,Matt LaFleur,Head Coach,Green Bay Packers,2025,0.4514239105001427
+207,Tom Flores,Head Coach,Seattle Seahawks,1994,0.45090874379358475
+472,Lindy Infante,Head Coach,Indianapolis Colts,1997,0.4502719054138999
+324,Chuck Studley,Position Coach - Defense,Cincinnati Bengals,1991,0.44943004947227494
+246,Kevin Gilbride,Position Coach - Offense,Carolina Panthers,2022,0.4492069342153174
+1532,DeWayne Walker,Position Coach - Defense,Cleveland Browns,2019,0.4486553432483411
+638,Hank Bullough,Coordinator,Detroit Lions,1993,0.44816908582714454
+179,Doug Marrone,Position Coach - Offense,New England Patriots,2025,0.44816825389546117
+939,Rod Marinelli,Position Coach - Defense,Las Vegas Raiders,2021,0.4474402805702236
+473,Paul Guenther,Coordinator,Dallas Cowboys,2024,0.44743347648376036
+39,Mike Ditka,Head Coach,New Orleans Saints,1999,0.44733344261593905
+1080,Dowell Loggains,Coordinator,New York Jets,2020,0.44729670787986714
+155,Rod Dowhower,Coordinator,Philadelphia Eagles,2001,0.44649460519851286
+763,Vance Joseph,Coordinator,Denver Broncos,2025,0.4462411057558573
+1891,Daniel Bullocks,Specialist Coach,San Francisco 49ers,2025,0.4453533897065524
+66,John Pagano,Specialist Coach,Washington Commanders,2025,0.44530687737756436
+1246,Aaron Whitecotton,Position Coach - Defense,Dallas Cowboys,2025,0.4446094037422166
+395,Harold Goodwin,Coordinator,Carolina Panthers,2025,0.44445712138614035
+58,John Matsko,Position Coach - Offense,Washington Commanders,2022,0.4440587017614384
+1893,Scottie Hazelton,Position Coach - Defense,Jacksonville Jaguars,2016,0.443889240324338
+138,Ron Erhardt,Coordinator,New York Jets,1996,0.4432733886940819
+1023,Raheem Morris,Head Coach,Atlanta Falcons,2025,0.44232321751388093
+251,Joe Bugel,Position Coach - Offense,Washington Commanders,2009,0.4413778462564167
+532,Mike Sullivan,Specialist Coach,Pittsburgh Steelers,2024,0.44078238461931973
+671,Dave McGinnis,Position Coach - Defense,Tennessee Titans,2010,0.4407432008857966
+965,Joe Barry,Coordinator,Miami Dolphins,2025,0.4406058157652888
+589,Tony Sparano,Position Coach - Offense,Jacksonville Jaguars,2018,0.44017773414131733
+1007,Curtis Modkins,Coordinator,Minnesota Vikings,2025,0.4400398789839038
+1493,Kris Richard,Position Coach - Defense,Jacksonville Jaguars,2024,0.43979526343912384
+639,Kay Stephenson,Head Coach,Buffalo Bills,1985,0.43964019925280734
+159,Foge Fazio,Coordinator,Cleveland Browns,2002,0.43960643743528327
+702,Gil Haskell,Coordinator,Seattle Seahawks,2008,0.43905677806381016
+158,Ed Donatell,Coordinator,Minnesota Vikings,2022,0.43817435447721903
+411,Matt Cavanaugh,Specialist Coach,New York Jets,2021,0.43799527838389
+72,Rod Rust,Specialist Coach,New York Giants,2002,0.4377068189089997
+264,Jack Pardee,Head Coach,Tennessee Titans,1994,0.437600457295192
+165,Rich Kotite,Head Coach,New York Jets,1996,0.4374759484612509
+1810,Nick Sirianni,Head Coach,Philadelphia Eagles,2025,0.4371279411149986
+987,Fritz Shurmur,Coordinator,Seattle Seahawks,1999,0.43706638913669055
+94,Charlie Weis,Coordinator,Kansas City Chiefs,2010,0.4370582336957529
+748,Frank Kush,Head Coach,Indianapolis Colts,1984,0.43668907541186547
+1243,Brian Daboll,Head Coach,New York Giants,2025,0.43633517479641903
+1769,Mike Vrabel,Head Coach,New England Patriots,2025,0.4362579716998119
+413,Dwaine Board,Position Coach - Defense,Seattle Seahawks,2017,0.43579726898759436
+232,Richard Williamson,Position Coach - Offense,Carolina Panthers,2009,0.43561425698473205
+311,Don Shula,Head Coach,Miami Dolphins,1994,0.43505540494738265
+687,John Shoop,Position Coach - Offense,Las Vegas Raiders,2005,0.43486178518907453
+1685,Matt Patricia,Specialist Coach,Philadelphia Eagles,2023,0.43454517341635635
+390,Bob Bratkowski,Position Coach - Offense,Tennessee Titans,2016,0.434377675313379
+305,Jim Hanifan,Position Coach - Offense,Los Angeles Rams,2001,0.4343341877940143
+292,Richard Mann,Position Coach - Offense,Pittsburgh Steelers,2017,0.43432183338373337
+235,John Mackovic,Head Coach,Kansas City Chiefs,1986,0.43381138747066766
+254,Ron Lynn,Position Coach - Defense,Las Vegas Raiders,2003,0.4333839344279377
+350,Ken Zampese,Specialist Coach,Atlanta Falcons,2025,0.4326569922495844
+921,Teryl Austin,Coordinator,Pittsburgh Steelers,2025,0.4325851750053659
+1158,Mike Tice,Position Coach - Offense,Las Vegas Raiders,2017,0.4320098336170966
+811,Mike Heimerdinger,Coordinator,Tennessee Titans,2010,0.43187797091503316
+406,John Marshall,Coordinator,Las Vegas Raiders,2010,0.4318718895626177
+527,Anthony Lynn,Coordinator,Washington Commanders,2025,0.4318139968910917
+715,Joe Philbin,Specialist Coach,Las Vegas Raiders,2025,0.43160956399100786
+611,Ted Monachino,Position Coach - Defense,Atlanta Falcons,2022,0.4312584921115398
+229,Gunther Cunningham,Specialist Coach,Detroit Lions,2017,0.43122306648199515
+1978,Jim Harbaugh,Head Coach,Los Angeles Chargers,2025,0.4311941084391338
+1360,Art Valero,Position Coach - Offense,Tennessee Titans,2011,0.430829703317259
+649,Brett Maxie,Position Coach - Defense,Tampa Bay Buccaneers,2018,0.4308293585000835
+160,Greg Robinson,Coordinator,Kansas City Chiefs,2003,0.43067454718814413
+833,Mike McDaniel,Head Coach,Miami Dolphins,2025,0.4305358628400328
+198,Don Coryell,Head Coach,Los Angeles Chargers,1985,0.43048136407498555
+732,Edgar Bennett,Position Coach - Offense,Jacksonville Jaguars,2025,0.4302863978374499
+1507,Kevin Stefanski,Head Coach,Cleveland Browns,2025,0.43018475009877766
+970,Jack Patera,Head Coach,Seattle Seahawks,1982,0.430052353729182
+819,Frank Bush,Position Coach - Defense,Tennessee Titans,2025,0.430037684877776
+384,Woody Widenhofer,Position Coach - Defense,Cleveland Browns,1994,0.42996152336007487
+464,Don Breaux,Coordinator,Washington Commanders,2006,0.4298929356901648
+1433,Mike Singletary,Specialist Coach,Los Angeles Rams,2016,0.42954781232519745
+7,Carl Smith,Specialist Coach,Houston Texans,2020,0.4294210928150441
+149,Bud Carson,Coordinator,Philadelphia Eagles,1994,0.429170882543112
+211,Sylvester Croom,Position Coach - Offense,Tennessee Titans,2017,0.4288975271611741
+115,Aaron Kromer,Position Coach - Offense,Buffalo Bills,2025,0.4286860203323015
+221,Art Shell,Position Coach - Offense,Atlanta Falcons,2000,0.4286576658491827
+1494,Ken Norton Jr.,Position Coach - Defense,Washington Commanders,2025,0.4285242320958785
+1655,Dan Campbell,Head Coach,Detroit Lions,2025,0.428284869012745
+593,Billy Davis,Position Coach - Defense,Houston Texans,2025,0.428129526138429
+112,Bill Johnson,Specialist Coach,Chicago Bears,2025,0.4280401082230923
+6,Jim Skipper,Position Coach - Offense,Carolina Panthers,2018,0.4280387957053465
+982,Dennis Erickson,Head Coach,San Francisco 49ers,2003,0.4276016678687445
+103,Raymond Berry,Position Coach - Offense,Denver Broncos,1992,0.4275845208901661
+650,Emmitt Thomas,Position Coach - Defense,Kansas City Chiefs,2018,0.42742112762849
+1061,Greg Manusky,Position Coach - Defense,Denver Broncos,2024,0.42738587760828645
+803,Bobby Turner,Position Coach - Offense,San Francisco 49ers,2024,0.4271485427711727
+667,Vince Tobin,Coordinator,Detroit Lions,2001,0.4271371881989821
+1545,Mark Hutson,Position Coach - Offense,Cleveland Browns,2018,0.42711188987983834
+642,Jerry Glanville,Head Coach,Atlanta Falcons,1993,0.4269547853764875
+1608,Jim Bob Cooter,Coordinator,Indianapolis Colts,2025,0.42689928759823953
+275,Kurt Schottenheimer,Coordinator,San Francisco 49ers,2010,0.42636976376959557
+90,Maurice Carthon,Position Coach - Offense,Arizona Cardinals,2007,0.42634282298218035
+163,Larry Beightol,Position Coach - Offense,Green Bay Packers,2005,0.4262710176316546
+1389,Matt Eberflus,Coordinator,Dallas Cowboys,2025,0.4261287235031533
+308,Mike Martz,Coordinator,Chicago Bears,2011,0.4257584229563987
+520,Dave Shula,Head Coach,Cincinnati Bengals,1996,0.4256385105607004
+1169,George Godsey,Position Coach - Offense,Baltimore Ravens,2025,0.4255896667903167
+942,Ed Biles,Head Coach,Tennessee Titans,1983,0.4254212544372233
+368,Keith Butler,Coordinator,Pittsburgh Steelers,2021,0.42536330347771667
+1192,Don Martindale,Coordinator,New York Giants,2023,0.42505949603884036
+789,Wayne Fontes,Head Coach,Detroit Lions,1996,0.42465335232578055
+407,Ray Sherman,Position Coach - Offense,Pittsburgh Steelers,2019,0.42454921938126566
+1610,Ron Turner,Position Coach - Offense,Tampa Bay Buccaneers,2012,0.42446951632496743
+446,Hal Hunter,Position Coach - Offense,Houston Texans,2022,0.42440572945189636
+89,Al Groh,Head Coach,New York Jets,2000,0.4241088003593372
+546,Greg Seamon,Position Coach - Offense,Cleveland Browns,2018,0.4239248690049468
+1561,Shane Steichen,Head Coach,Indianapolis Colts,2025,0.42377515731596144
+1227,Rob Boras,Position Coach - Offense,Buffalo Bills,2025,0.42369200899493115
+373,Bill McPherson,Specialist Coach,San Francisco 49ers,1997,0.4234887093782556
+269,Alex Gibbs,Specialist Coach,Denver Broncos,2013,0.42318646577338154
+607,Don Lawrence,Position Coach - Offense,Arizona Cardinals,2000,0.4230772993172449
+683,Greg Roman,Coordinator,Los Angeles Chargers,2025,0.42296414770789087
+984,Rich Olson,Position Coach - Offense,Minnesota Vikings,2005,0.4229628217105866
+1280,Jim O'Neil,Specialist Coach,Detroit Lions,2025,0.4228032802773271
+1279,Mike Pettine,Position Coach - Defense,Minnesota Vikings,2024,0.4226857821287477
+861,Bart Starr,Head Coach,Green Bay Packers,1983,0.42267303142301665
+1556,Kevin O'Connell,Head Coach,Minnesota Vikings,2025,0.422664689905867
+578,Nick Saban,Head Coach,Miami Dolphins,2006,0.4221617805558356
+104,Jeff Davidson,Position Coach - Offense,Detroit Lions,2019,0.42199221253751734
+648,Ray Prochaska,Coordinator,Seattle Seahawks,1985,0.42166994326294716
+654,Jeff Jagodzinski,Coordinator,Green Bay Packers,2006,0.4213426748543734
+1436,Mike Groh,Position Coach - Offense,New York Giants,2025,0.4213183951776249
+75,Dale Lindsey,Position Coach - Defense,Washington Commanders,2006,0.4213074356938609
+410,Larry Kirksey,Position Coach - Offense,Houston Texans,2013,0.421223660147443
+394,Ray Horton,Position Coach - Defense,Washington Commanders,2019,0.42080684173315647
+1138,Juan Castillo,Coordinator,Washington Commanders,2023,0.4206892180679451
+771,Chris Foerster,Position Coach - Offense,San Francisco 49ers,2025,0.4206678533882415
+596,Bob Slowik,Coordinator,Miami Dolphins,2025,0.42051761542285765
+698,Jerry Gray,Coordinator,Green Bay Packers,2022,0.420202442817082
+496,Jim Bates,Coordinator,Tampa Bay Buccaneers,2009,0.42012746157119807
+261,Ted Tollner,Coordinator,Las Vegas Raiders,2010,0.4200677172241245
+439,Tommy Brasher,Position Coach - Defense,Kansas City Chiefs,2015,0.4197643214146254
+739,Pat Ruel,Position Coach - Offense,Seattle Seahawks,2020,0.4194125293374682
+1346,Perry Fewell,Position Coach - Defense,Carolina Panthers,2019,0.4193281073193987
+765,Kliff Kingsbury,Coordinator,Washington Commanders,2025,0.41906584023299903
+823,Kacy Rodgers,Coordinator,Detroit Lions,2025,0.41892356807798964
+1549,Aaron Glenn,Head Coach,New York Jets,2025,0.4188340573732123
+1175,Todd Monken,Coordinator,Baltimore Ravens,2025,0.41877872221773754
+1013,Rob Ryan,Specialist Coach,Las Vegas Raiders,2024,0.41872646758554916
+779,Sean Kugler,Coordinator,Arizona Cardinals,2021,0.4186222999626968
+1211,Mike Waufle,Position Coach - Defense,Buffalo Bills,2017,0.418560946915
+346,Ron Meeks,Position Coach - Defense,Los Angeles Chargers,2012,0.4183717298765192
+99,Ray Hamilton,Position Coach - Defense,Atlanta Falcons,2013,0.41828776737728757
+215,Dave Adolph,Position Coach - Defense,Kansas City Chiefs,1999,0.418181459121358
+1604,Kevin Carberry,Coordinator,Tampa Bay Buccaneers,2025,0.4181758447238497
+120,"Pete Carmichael, Jr.",Coordinator,New Orleans Saints,2014,0.4177874790727509
+4,Paul Boudreau,Position Coach - Offense,Los Angeles Rams,2016,0.41773605033544975
+558,Gene Stallings,Head Coach,Arizona Cardinals,1988,0.4176028371597759
+1605,Wes Phillips,Coordinator,Minnesota Vikings,2025,0.41727503935644855
+363,David Culley,Head Coach,Houston Texans,2021,0.41717360274706206
+817,Brian Pariani,Position Coach - Offense,Minnesota Vikings,2021,0.41676352794980764
+804,Jeremy Bates,Coordinator,New York Jets,2018,0.4165773901802188
+479,Chuck Bresnahan,Coordinator,Las Vegas Raiders,2011,0.41657641840863674
+1513,Chad O'Shea,Coordinator,Cleveland Browns,2025,0.4164937660372376
+1181,Chris Hewitt,Coordinator,Indianapolis Colts,2025,0.41643593200606244
+152,Zeke Bratkowski,Coordinator,New York Jets,1995,0.4162301393947929
+21,Rick Venturi,Position Coach - Defense,Los Angeles Rams,2007,0.41617489842880034
+1299,Dave Canales,Head Coach,Carolina Panthers,2025,0.4160720216564173
+63,Jim Hostler,Specialist Coach,Detroit Lions,2023,0.41605655821375276
+2348,Randy Jordan,Position Coach - Offense,Tennessee Titans,2025,0.4160205775902604
+795,Darryl Rogers,Head Coach,Detroit Lions,1988,0.4159270845285368
+1460,Zac Taylor,Head Coach,Cincinnati Bengals,2025,0.4158459895659002
+933,Mike Munchak,Position Coach - Offense,Denver Broncos,2021,0.4158254527667909
+145,Joe Walton,Coordinator,Pittsburgh Steelers,1991,0.4156539112723159
+2103,Hugh Campbell,Head Coach,Tennessee Titans,1985,0.41557071577220367
+1541,Clyde Simmons,Position Coach - Defense,Cleveland Browns,2018,0.4155453572883499
+1696,Brandon Fisher,Position Coach - Defense,Los Angeles Rams,2016,0.4155303887174924
+1394,Shane Waldron,Coordinator,Jacksonville Jaguars,2025,0.4154169217167674
+576,Clarence Shelmon,Coordinator,Los Angeles Chargers,2011,0.41541472520210587
+344,George Warhop,Position Coach - Offense,Baltimore Ravens,2025,0.4153328013121584
+1057,Ike Hilliard,Position Coach - Offense,Atlanta Falcons,2024,0.4152125347937259
+1361,Stan Parrish,Position Coach - Offense,Tampa Bay Buccaneers,2003,0.4151627229563793
+858,John Meyer,Coordinator,Green Bay Packers,1983,0.41507997423919335
+297,Bishop Harris,Position Coach - Offense,San Francisco 49ers,2007,0.4150657720223654
+999,Jeff Ulbrich,Coordinator,Atlanta Falcons,2025,0.41489954918857835
+54,Larry Kennan,Coordinator,New England Patriots,1997,0.41485807313947887
+679,Mike Trgovac,Specialist Coach,Las Vegas Raiders,2019,0.41480879654718233
+2246,Jeff Stoutland,Coordinator,Philadelphia Eagles,2025,0.414717626348127
+1064,Arthur Smith,Coordinator,Pittsburgh Steelers,2025,0.4146954466287441
+2066,Bobby Petrino,Head Coach,Atlanta Falcons,2007,0.41440799236262055
+1964,Tom Cable,Position Coach - Offense,Las Vegas Raiders,2021,0.41435233237208124
+300,George Hill,Coordinator,Miami Dolphins,1997,0.41417356969678415
+332,Bud Grant,Head Coach,Minnesota Vikings,1985,0.41404777404099574
+1296,Ejiro Evero,Coordinator,Carolina Panthers,2025,0.4140275173978936
+19,Tom Clements,Position Coach - Offense,Green Bay Packers,2024,0.4140009964400224
+1140,Ted Williams,Position Coach - Offense,Philadelphia Eagles,2014,0.41395528975274315
+279,Mike Solari,Position Coach - Offense,Dallas Cowboys,2024,0.4137805968425357
+1348,Scott Turner,Coordinator,New York Jets,2025,0.4137666719985466
+1359,Michael Christianson,Position Coach - Offense,Tampa Bay Buccaneers,2002,0.41354881255597853
+647,Chick Harris,Position Coach - Offense,Houston Texans,2013,0.4134922491561686
+1590,Kellen Moore,Head Coach,New Orleans Saints,2025,0.41330379935486367
+199,Ralph Friedgen,Coordinator,Los Angeles Chargers,1996,0.41323163434168864
+127,George Sefcik,Coordinator,Atlanta Falcons,2001,0.4130519764526615
+106,Les Steckel,Coordinator,Tampa Bay Buccaneers,2000,0.4130048977636355
+1114,Joe Whitt Jr.,Coordinator,Washington Commanders,2025,0.41297878577480013
+419,Tom Rathman,Position Coach - Offense,Indianapolis Colts,2020,0.4129707762326249
+1002,Jack Burns,Specialist Coach,Washington Commanders,2006,0.4129646945717597
+339,Ray Malavasi,Head Coach,Los Angeles Rams,1982,0.41286127104989206
+1209,Andre Curtis,Coordinator,Dallas Cowboys,2025,0.41262244059781233
+1217,Bob Babich,Coordinator,Buffalo Bills,2025,0.41257790690139234
+1110,Chris Morgan,Position Coach - Offense,Denver Broncos,2025,0.41241256124561004
+84,Carl Mauck,Position Coach - Offense,Los Angeles Chargers,2005,0.41240495055700216
+196,Tom Bass,Coordinator,Los Angeles Chargers,1985,0.4123524405946349
+840,Kevin Higgins,Position Coach - Offense,Detroit Lions,2004,0.41230319321018133
+566,Kay Dalton,Position Coach - Offense,Denver Broncos,1986,0.41230137123469496
+905,James Bettcher,Position Coach - Defense,Indianapolis Colts,2025,0.41225429463896063
+600,Ted Cottrell,Coordinator,Minnesota Vikings,2005,0.41220762817001466
+1372,Ben Johnson,Head Coach,Chicago Bears,2025,0.4121503212280346
+236,Bill Arnsparger,Specialist Coach,Washington Commanders,2001,0.41209932063789373
+1737,DeMeco Ryans,Head Coach,Houston Texans,2025,0.4120164990932313
+1200,Joe Cullen,Position Coach - Defense,Kansas City Chiefs,2025,0.41196241176200615
+1088,Jon Hoke,Coordinator,Chicago Bears,2024,0.41175230826454023
+2067,Lane Kiffin,Head Coach,Las Vegas Raiders,2007,0.41174933109241624
+1381,Press Taylor,Coordinator,Chicago Bears,2025,0.4117229544957099
+1272,Nathaniel Hackett,Coordinator,New York Jets,2024,0.4117061404376361
+184,Gary Gibbs,Position Coach - Defense,Kansas City Chiefs,2017,0.41156646558888926
+1492,Rocky Seto,Coordinator,Seattle Seahawks,2014,0.41152781133985356
+1237,Ken Dorsey,Specialist Coach,Dallas Cowboys,2025,0.41146460672608237
+205,Lew Erber,Position Coach - Offense,Los Angeles Rams,1985,0.41139848033508675
+617,Wade Harman,Position Coach - Offense,Denver Broncos,2021,0.41137277468366945
+836,Johnny Holland,Position Coach - Defense,San Francisco 49ers,2025,0.4113339268687617
+119,Joe Lombardi,Coordinator,Denver Broncos,2025,0.4110428601444012
+1374,Eric Bieniemy,Position Coach - Offense,Chicago Bears,2025,0.41101101457980677
+166,Dave Brazil,Specialist Coach,New York Giants,2001,0.410982941652358
+949,John McKay,Head Coach,Tampa Bay Buccaneers,1981,0.41094778086927697
+248,Jerry Rhome,Position Coach - Offense,Atlanta Falcons,2000,0.410894895924554
+1139,Tom Melvin,Position Coach - Offense,Kansas City Chiefs,2025,0.41080836404982546
+187,Mike Riley,Position Coach - Defense,New Orleans Saints,2002,0.4107000203557807
+1483,Alex Van Pelt,Specialist Coach,Los Angeles Rams,2025,0.4106707847283777
+1260,Sanjay Lal,Position Coach - Offense,Los Angeles Chargers,2025,0.4106298563385202
+1524,Joe Woods,Coordinator,Las Vegas Raiders,2025,0.4106255589998171
+681,Dave Magazu,Position Coach - Offense,Chicago Bears,2016,0.4105486524385484
+1425,Brandon Staley,Coordinator,New Orleans Saints,2025,0.41036107388326365
+1415,John DeFilippo,Coordinator,Chicago Bears,2021,0.4102947024121176
+613,Greg Mattison,Coordinator,Baltimore Ravens,2010,0.41023759096890994
+2,John Pease,Position Coach - Defense,New Orleans Saints,2005,0.41023358936484583
+497,Jacob Burney,Position Coach - Defense,Cincinnati Bengals,2018,0.41014477450211423
+912,Stump Mitchell,Coordinator,Cleveland Browns,2023,0.4101007169616416
+1305,Peter Hansen,Position Coach - Defense,Carolina Panthers,2025,0.4100775103739754
+1016,Dick Jamieson,Coordinator,Arizona Cardinals,1997,0.41001304759628904
+1877,Brian Flores,Coordinator,Minnesota Vikings,2025,0.4099317946207011
+656,Mike Johnson,Coordinator,San Francisco 49ers,2010,0.4098991530661456
+1448,Jim Mora Jr,Head Coach,Atlanta Falcons,2006,0.4098443906571043
+899,Steve Wilks,Coordinator,San Francisco 49ers,2023,0.40963292726188144
+1298,Jonathan Cooley,Coordinator,Carolina Panthers,2025,0.4096084996918272
+541,Andre Patterson,Position Coach - Defense,New York Giants,2025,0.40950954084987573
+1471,Lou Anarumo,Coordinator,Indianapolis Colts,2025,0.40946421368269875
+1496,Adam Zimmer,Coordinator,Minnesota Vikings,2021,0.4093597259504123
+186,Phil Pettey,Position Coach - Offense,New York Jets,2002,0.40930151856252545
+1269,Mose Rison,Position Coach - Offense,New York Jets,2002,0.40930151856252545
+1045,Pat Flaherty,Position Coach - Offense,Miami Dolphins,2019,0.40920200629502923
+758,Matt Burke,Coordinator,Houston Texans,2025,0.40903273112005323
+703,Eric Studesville,Position Coach - Offense,Miami Dolphins,2025,0.4090156238537561
+1938,Eugene Chung,Position Coach - Offense,Philadelphia Eagles,2018,0.40899051984368834
+130,Joe Vitt,Specialist Coach,Denver Broncos,2025,0.40891913169500654
+328,Bob Hollway,Coordinator,Minnesota Vikings,1985,0.4089042807216792
+462,Larry Coyer,Coordinator,Indianapolis Colts,2010,0.4088910167747947
+717,Tom Lovat,Position Coach - Offense,Seattle Seahawks,2006,0.408701603562059
+488,Mark Duffner,Specialist Coach,Cincinnati Bengals,2024,0.40867946424213936
+173,Bob Wylie,Position Coach - Offense,Cleveland Browns,2018,0.4086683554044311
+539,Todd Grantham,Position Coach - Defense,New Orleans Saints,2024,0.40865807626203865
+1439,Skip Peete,Position Coach - Offense,Tampa Bay Buccaneers,2025,0.4086568843826728
+212,Jack Reilly,Coordinator,Dallas Cowboys,2001,0.40858210363747965
+114,Frank Smith,Coordinator,Miami Dolphins,2025,0.4085794807851917
+618,Jim Zorn,Position Coach - Offense,Kansas City Chiefs,2012,0.40854776783967334
+1127,Bryan Cox,Position Coach - Defense,New York Giants,2024,0.4084541097536836
+1925,Mike Kafka,Head Coach,New York Giants,2025,0.4083473481698794
+881,Bill Lazor,Specialist Coach,Houston Texans,2025,0.40829010814025796
+610,Roy Anderson,Position Coach - Defense,Philadelphia Eagles,2025,0.4082822598096241
+1473,Frank Pollack,Coordinator,Cincinnati Bengals,2024,0.40825701637865236
+989,Deshea Townsend,Coordinator,Detroit Lions,2025,0.4082139675093104
+2175,Bret Bielema,Specialist Coach,New York Giants,2020,0.4081658905061787
+1018,Mike Devlin,Position Coach - Offense,Los Angeles Chargers,2025,0.4081650793917761
+376,Bobb McKittrick,Position Coach - Offense,San Francisco 49ers,1999,0.4081450795080727
+1475,Brian Callahan,Head Coach,Tennessee Titans,2025,0.40813704257820543
+225,Kim Helton,Coordinator,Washington Commanders,2002,0.4080680962347177
+245,Ollie Wilson,Position Coach - Offense,Los Angeles Chargers,2016,0.4079381124683672
+444,Dick Walker,Position Coach - Defense,Pittsburgh Steelers,1981,0.4079319013532878
+1672,Terrell Williams,Coordinator,New England Patriots,2025,0.4079301200695498
+1010,Dennis Thurman,Coordinator,Buffalo Bills,2016,0.40784239204006184
+1126,Keith Carter,Position Coach - Offense,Minnesota Vikings,2025,0.40780227547717246
+1221,Joe Brady,Coordinator,Buffalo Bills,2025,0.4077256932520343
+2173,Greg Schiano,Coordinator,New England Patriots,2019,0.40770392854778276
+1772,Shane Bowen,Coordinator,New York Giants,2024,0.4076714989163957
+1081,Charles London,Position Coach - Offense,New York Jets,2025,0.4076626950325282
+347,Bill Kollar,Position Coach - Defense,Denver Broncos,2021,0.40759255072510453
+1777,Karl Dorrell,Position Coach - Offense,Miami Dolphins,2019,0.40752339434427376
+1067,Dave Ragone,Position Coach - Offense,Los Angeles Rams,2025,0.4075092533330054
+655,George Stewart,Coordinator,Los Angeles Chargers,2019,0.40748305924886447
+1484,Daronte Jones,Coordinator,Minnesota Vikings,2025,0.40742715672080493
+1310,Bert Watts,Position Coach - Defense,Carolina Panthers,2024,0.40740905271902744
+218,Fred Biletnikoff,Position Coach - Offense,Las Vegas Raiders,2005,0.4073415926483326
+595,Clarence Brooks,Specialist Coach,Baltimore Ravens,2016,0.4073094519180051
+359,Russ Grimm,Position Coach - Offense,Tennessee Titans,2017,0.407222623598209
+240,Joe Pascale,Coordinator,Los Angeles Chargers,2001,0.4072158291582258
+2169,Joe Judge,Specialist Coach,New England Patriots,2022,0.4071684153341086
+1161,Brian VanGorder,Position Coach - Defense,New York Jets,2013,0.4071541586754062
+1799,Jeff Saturday,Head Coach,Indianapolis Colts,2022,0.40713869817867404
+56,Wayne Nunnely,Position Coach - Defense,Denver Broncos,2011,0.4071220991747106
+1236,John Butler,Coordinator,Buffalo Bills,2023,0.40708759682322165
+139,Tom Bresnahan,Coordinator,Buffalo Bills,1996,0.40704005535845095
+398,Ken Anderson,Specialist Coach,Detroit Lions,2017,0.4070069986496137
+2010,Mike LaFleur,Coordinator,Los Angeles Rams,2025,0.40699246612696666
+1554,Jeff Hafley,Coordinator,Green Bay Packers,2025,0.40697983259882187
+1320,Thomas Brown,Coordinator,New England Patriots,2025,0.4069632072464438
+1184,Anthony Weaver,Coordinator,Miami Dolphins,2025,0.40695461870192046
+397,Randy Fichtner,Coordinator,Pittsburgh Steelers,2020,0.4069155601841352
+574,Hudson Houck,Coordinator,Dallas Cowboys,2011,0.406885411430932
+210,Jerry Sullivan,Specialist Coach,Arizona Cardinals,2019,0.4068729984537627
+808,Red Miller,Head Coach,Denver Broncos,1980,0.4068449713922721
+293,Al Lavan,Position Coach - Offense,Kansas City Chiefs,2000,0.4068293868887724
+710,Greg Blache,Coordinator,Washington Commanders,2009,0.4068146965629463
+522,Dana Bible,Coordinator,Philadelphia Eagles,1998,0.4067266372435603
+2380,Earle Mosley,Position Coach - Offense,Chicago Bears,2003,0.40672164678411166
+357,Tim Lewis,Position Coach - Defense,San Francisco 49ers,2015,0.4066938201974692
+726,Scott McCurley,Position Coach - Defense,Pittsburgh Steelers,2025,0.40663044770324624
+484,Jim Shofner,Position Coach - Offense,Buffalo Bills,1996,0.4065695313245789
+1017,Ron Milus,Position Coach - Defense,Jacksonville Jaguars,2025,0.40655890609051704
+1842,Liam Coen,Head Coach,Jacksonville Jaguars,2025,0.406499372785806
+341,Rich Brooks,Coordinator,Atlanta Falcons,2000,0.406490955473225
+167,Johnnie Lynn,Position Coach - Defense,Denver Broncos,2017,0.406451003290377
+1654,Kelvin Sheppard,Coordinator,Detroit Lions,2025,0.40644993519319333
+848,Todd Downing,Position Coach - Offense,New England Patriots,2025,0.4064428970065135
+12,Walt Corey,Position Coach - Defense,New Orleans Saints,1999,0.4063900000552536
+531,Mel Tucker,Coordinator,Chicago Bears,2014,0.40636529491921003
+668,Dick Modzelewski,Position Coach - Defense,Detroit Lions,1989,0.40636012343549827
+677,Ken Flajole,Position Coach - Defense,Kansas City Chiefs,2023,0.4063476495382545
+1856,Nick Holz,Coordinator,Tennessee Titans,2025,0.40633182872317425
+588,Jerry Holmes,Position Coach - Defense,Los Angeles Chargers,2003,0.4063158557183491
+778,Dan Daniel,Coordinator,Kansas City Chiefs,1985,0.4063025168560012
+1701,Patrick Graham,Coordinator,Las Vegas Raiders,2025,0.406263498254052
+737,Jay Norvell,Position Coach - Offense,Las Vegas Raiders,2003,0.4062409503937769
+934,Sherman Smith,Position Coach - Offense,Seattle Seahawks,2016,0.406239152142865
+250,Charlie Joiner,Position Coach - Offense,Los Angeles Chargers,2012,0.4062296826809126
+1255,Jason Vrable,Coordinator,Green Bay Packers,2024,0.40620194244121194
+13,Zaven Yaralian,Specialist Coach,Denver Broncos,2001,0.4061728757051725
+713,Jethro Franklin,Position Coach - Defense,Seattle Seahawks,2019,0.40616472158399625
+1504,Duce Staley,Position Coach - Offense,Cleveland Browns,2025,0.40614076038487296
+792,Bob Baker,Coordinator,Detroit Lions,1988,0.4061209390052298
+831,Tim Brewster,Position Coach - Offense,Denver Broncos,2006,0.40607209615335055
+111,Travis Jones,Position Coach - Defense,Atlanta Falcons,2019,0.40606883389185494
+887,Larry Marmie,Specialist Coach,Tampa Bay Buccaneers,2014,0.4060605550224201
+92,Mike Pope,Position Coach - Offense,Dallas Cowboys,2016,0.4060439113279329
+1137,James Urban,Position Coach - Offense,Baltimore Ravens,2022,0.4060164865008226
+1438,Reggie Herring,Position Coach - Defense,Denver Broncos,2021,0.4059810984282799
+1044,Pete Hoener,Position Coach - Offense,Washington Commanders,2021,0.40594530920833427
+249,Bobby Jackson,Position Coach - Offense,Miami Dolphins,2007,0.4059398076629008
+1228,Ronald Curry,Position Coach - Offense,Buffalo Bills,2025,0.40588051254477436
+822,Paul Pasqualoni,Coordinator,Detroit Lions,2019,0.40587463489150105
+67,Willie Shaw,Coordinator,Minnesota Vikings,2002,0.405850946555322
+448,Ronnie Jones,Coordinator,Arizona Cardinals,1995,0.40584155555004514
+1443,Shane Day,Position Coach - Offense,Los Angeles Chargers,2025,0.4058171541341456
+192,John Morton,Coordinator,Detroit Lions,2025,0.4057846781100623
+519,Larry Peccatiello,Coordinator,Detroit Lions,2000,0.4057314711626558
+30,Winston Moss,Position Coach - Defense,Green Bay Packers,2017,0.4057195426995559
+1034,Jon Embree,Position Coach - Offense,Miami Dolphins,2025,0.40570231066745394
+1760,John Perry,Position Coach - Offense,Houston Texans,2020,0.40569348416221823
+1447,Jim Tomsula,Position Coach - Defense,Dallas Cowboys,2020,0.4056819149688113
+2132,James Lofton,Position Coach - Offense,Los Angeles Chargers,2005,0.40561778378778585
+1515,Andy Dickerson,Position Coach - Offense,Las Vegas Raiders,2025,0.4056128987982976
+1758,Tim Kelly,Coordinator,New York Giants,2025,0.40560295883588426
+680,Mike Maser,Position Coach - Offense,Miami Dolphins,2008,0.4055767100299777
+637,Jim Ringo,Coordinator,Buffalo Bills,1988,0.40555762380938054
+1315,Tem Lukabu,Position Coach - Defense,Jacksonville Jaguars,2025,0.405548614674542
+894,Byron Leftwich,Coordinator,Tampa Bay Buccaneers,2022,0.4055307697125213
+991,John McNulty,Position Coach - Offense,Los Angeles Chargers,2017,0.4055158729739808
+1738,Danny Barrett,Position Coach - Offense,Houston Texans,2025,0.40550995363335485
+672,Alvin Reynolds,Position Coach - Defense,Atlanta Falcons,2011,0.4055048980992457
+1776,John Benton,Position Coach - Offense,Seattle Seahawks,2025,0.40548742067696403
+1714,Adam Stenavich,Coordinator,Green Bay Packers,2025,0.4054600887570072
+1813,Dave DeGuglielmo,Position Coach - Offense,New York Giants,2020,0.4054356555971963
+1065,Justin Peelle,Position Coach - Offense,Tampa Bay Buccaneers,2025,0.4053901229729373
+1719,Vince Oghobaase,Position Coach - Defense,Green Bay Packers,2025,0.4053710509364836
+2388,Barry Switzer,Head Coach,Dallas Cowboys,1995,0.4053628530033678
+1955,Antonio Pierce,Head Coach,Las Vegas Raiders,2024,0.40535697365954443
+774,Rod Dowhower / Ron Meyer,Head Coach,Indianapolis Colts,1986,0.4053040618219675
+443,John Becker,Coordinator,Seattle Seahawks,1991,0.40530403392102454
+1222,Kelly Skipper,Position Coach - Offense,Buffalo Bills,2025,0.4053024383445072
+704,Tyke Tolbert,Position Coach - Offense,Tennessee Titans,2025,0.40529381162442873
+2097,Robert Rodriguez,Position Coach - Defense,Minnesota Vikings,2019,0.40528650360740653
+674,Geep Chryst,Position Coach - Offense,Denver Broncos,2018,0.4052717777235138
+285,Keith Rowen,Position Coach - Offense,Atlanta Falcons,2007,0.40526772695706303
+148,Jim Vechiarella,Position Coach - Defense,Los Angeles Chargers,2001,0.4052173722992241
+1107,Bernie Parmalee,Position Coach - Offense,Carolina Panthers,2025,0.4052158467791563
+294,Bob Sanders,Position Coach - Defense,Tampa Bay Buccaneers,2022,0.4051892828002102
+1815,Brendan Daly,Position Coach - Defense,Kansas City Chiefs,2025,0.405174444447878
+769,Alan Williams,Coordinator,Chicago Bears,2022,0.40513495922474335
+2118,Gene Stallings  Hank Kuhlmann,Head Coach,Arizona Cardinals,1989,0.4050930865347852
+174,Kippy Brown,Position Coach - Offense,Seattle Seahawks,2014,0.4050843667078414
+1560,Aubrey Pleasant,Coordinator,Los Angeles Rams,2025,0.4050793038935692
+117,Curtis Johnson,Specialist Coach,New Orleans Saints,2021,0.40505308322541916
+1386,Chad Morton,Position Coach - Offense,Jacksonville Jaguars,2025,0.40505284589589646
+417,Patrick Morris,Position Coach - Offense,San Francisco 49ers,2003,0.40503679099632434
+1428,Jeremiah Washburn,Position Coach - Defense,Philadelphia Eagles,2025,0.4050201530685074
+1371,Dan Roushar,Position Coach - Offense,Chicago Bears,2025,0.4049413850100952
+1287,Kevin Patullo,Coordinator,Philadelphia Eagles,2025,0.404931781948994
+1212,Sean Ryan,Specialist Coach,Miami Dolphins,2025,0.40492030519985445
+2032,Joe Bowden,Position Coach - Defense,San Francisco 49ers,2016,0.40491610531604744
+299,Mel Phillips,Position Coach - Defense,Miami Dolphins,2007,0.4049143275425666
+781,Ron Meyer / Rick Venturi,Head Coach,Indianapolis Colts,1991,0.40490884147643813
+1312,DeAngelo Hall,Position Coach - Defense,Carolina Panthers,2024,0.4048840694315577
+2016,David Gibbs,Position Coach - Defense,Houston Texans,2010,0.40485560253452907
+920,Steve Moore,Position Coach - Offense,Los Angeles Rams,1994,0.4048541397347844
+256,Dave Levy,Coordinator,Detroit Lions,1991,0.40476668754155504
+124,Pete Mangurian,Position Coach - Offense,Tampa Bay Buccaneers,2010,0.40474522202921426
+1035,Keenan McCardell,Position Coach - Offense,Minnesota Vikings,2025,0.4047293671617369
+227,Mike White,Specialist Coach,Los Angeles Rams,1999,0.4046428623666018
+543,Clancy Pendergast,Position Coach - Defense,San Francisco 49ers,2015,0.4046424487258567
+1446,Pep Hamilton,Coordinator,Houston Texans,2022,0.4046421270668343
+1808,Marcus Brady,Coordinator,Los Angeles Chargers,2025,0.4046320681230336
+125,James Daniel,Position Coach - Offense,Pittsburgh Steelers,2020,0.4045916316143916
+1697,Dick MacPherson,Head Coach,New England Patriots,1992,0.4045772965406394
+1333,Jason Simmons,Coordinator,Washington Commanders,2025,0.40457527168123836
+814,Jim Eddy,Coordinator,Detroit Lions,1996,0.4045731847944199
+1861,Urban Meyer,Head Coach,Jacksonville Jaguars,2021,0.40455580283801235
+2181,Joel Thomas,Position Coach - Offense,New Orleans Saints,2025,0.4045458659908341
+20,Danny Abramowicz,Coordinator,New Orleans Saints,1999,0.4045391871345095
+1763,Anthony Midget,Position Coach - Defense,Pittsburgh Steelers,2025,0.40451377011125705
+653,Clancy Barone,Position Coach - Offense,New Orleans Saints,2024,0.4044961082933225
+959,Maxie Baughan,Position Coach - Defense,Baltimore Ravens,1998,0.40444749775266414
+2262,Jerry Azzinaro,Position Coach - Defense,San Francisco 49ers,2016,0.40440816069700086
+927,Bob Casullo,Position Coach - Offense,Tampa Bay Buccaneers,2008,0.4043774857810949
+1368,Al Harris,Coordinator,Chicago Bears,2025,0.4043168833795577
+783,Joel Collier,Position Coach - Defense,New England Patriots,2007,0.40429800398508475
+1270,Donnie Henderson,Position Coach - Defense,Buffalo Bills,2014,0.4042752660185987
+36,Mike Sheppard,Position Coach - Offense,Jacksonville Jaguars,2011,0.4042548114186464
+87,Dante Scarnecchia,Position Coach - Offense,New England Patriots,2019,0.40425233120746284
+1670,Tanner Engstrand,Coordinator,New York Jets,2025,0.40424123091268677
+1694,Ivan Fears,Position Coach - Offense,New England Patriots,2021,0.40423616939064183
+396,Larry Zierlein,Position Coach - Offense,Arizona Cardinals,2017,0.40422034531601136
+1946,Ryan Paganetti,Head Coach,Las Vegas Raiders,2025,0.404211324022342
+825,Freddie Kitchens,Specialist Coach,New York Giants,2021,0.40414262023428443
+651,Chris Beake,Position Coach - Defense,Los Angeles Rams,2025,0.40409668374122565
+901,Larry Foote,Coordinator,Tampa Bay Buccaneers,2025,0.4040843570001648
+1757,Bobby King,Position Coach - Defense,Philadelphia Eagles,2025,0.40406783036128324
+287,Terry Shea,Position Coach - Offense,Miami Dolphins,2007,0.4040151757582912
+977,Greg McMackin,Position Coach - Defense,San Francisco 49ers,2003,0.4039870390835838
+1766,Andre Johnson,Head Coach,Houston Texans,2019,0.4039811508708873
+1457,Jerry Montgomery,Coordinator,Cincinnati Bengals,2025,0.4039600034220851
+1282,Bob Bicknell,Position Coach - Offense,New England Patriots,2024,0.4039557013046878
+77,Rod Humenuik,Position Coach - Offense,New England Patriots,1992,0.40393723835104395
+844,Bob Schnelker,Coordinator,Minnesota Vikings,1990,0.40392062008940166
+476,Kevin Coyle,Position Coach - Defense,Cincinnati Bengals,2016,0.40391754478537206
+1665,Shaun Dion Hamilton,Position Coach - Defense,Detroit Lions,2025,0.4039153038279745
+1673,Brian Duker,Coordinator,Miami Dolphins,2025,0.4039083754120935
+1890,Dan Shamash,Position Coach - Offense,Los Angeles Rams,2025,0.40387639474823267
+2317,Micheal Barrow,Position Coach - Defense,Seattle Seahawks,2017,0.4038171638470949
+281,Jimmy Raye III,Coordinator,Washington Commanders,2001,0.4038004565835089
+1401,Luke Getsy,Coordinator,Las Vegas Raiders,2024,0.40378880013992546
+735,Mike Murphy,Coordinator,Indianapolis Colts,2011,0.40378551471219004
+802,Jedd Fisch,Position Coach - Offense,New England Patriots,2020,0.40378539268484864
+1630,Christian Parker,Coordinator,Philadelphia Eagles,2025,0.4037192333077664
+286,James Saxon,Position Coach - Offense,Arizona Cardinals,2021,0.40371903040980234
+834,Troy Calhoun,Coordinator,Houston Texans,2006,0.403700585645239
+684,George Catavolos,Position Coach - Defense,Buffalo Bills,2012,0.4036814497110445
+1410,Sean Desai,Specialist Coach,Cincinnati Bengals,2025,0.4036307563309733
+1691,Bill Sheridan,Specialist Coach,Jacksonville Jaguars,2025,0.4036174722221577
+116,Terry Malone,Position Coach - Offense,New Orleans Saints,2014,0.4036016511040317
+2227,Ricky Manning Jr.,Specialist Coach,New York Jets,2022,0.40356128956019854
+129,George Henshaw,Position Coach - Offense,Tennessee Titans,2013,0.4035464309919221
+659,Herb Paterra,Coordinator,Detroit Lions,1995,0.40353899334175963
+911,Rick Christophel,Specialist Coach,Tampa Bay Buccaneers,2022,0.4035130984506241
+1300,Joe Gilbert,Position Coach - Offense,Carolina Panthers,2025,0.40347082714887367
+1669,Cameron Davis,Position Coach - Defense,New York Jets,2025,0.40346577865078564
+367,Darren Perry,Position Coach - Defense,Green Bay Packers,2017,0.4034517740492319
+469,Howard Mudd,Specialist Coach,Indianapolis Colts,2019,0.40344533809746386
+1675,John Scott Jr.,Position Coach - Defense,Detroit Lions,2023,0.40343863712033934
+1025,Zac Robinson,Coordinator,Atlanta Falcons,2025,0.4034369870630134
+1005,Rennie Simmons,Position Coach - Offense,Washington Commanders,2006,0.4034278737564423
+168,Tom Olivadotti,Position Coach - Defense,Houston Texans,2005,0.4034042924624077
+2318,Lofa Tatupu,Position Coach - Defense,Seattle Seahawks,2016,0.4034009028565782
+846,Tim Walton,Position Coach - Defense,Jacksonville Jaguars,2021,0.4033518933041374
+1185,Mike Macdonald,Coordinator,Seattle Seahawks,2025,0.4033396910574365
+888,Zerick Rollins,Position Coach - Defense,Seattle Seahawks,2009,0.4033376761719223
+709,Gene Huey,Position Coach - Offense,Indianapolis Colts,2010,0.4032863995665068
+1058,Jay Rodgers,Position Coach - Defense,Atlanta Falcons,2024,0.40326012856432375
+1331,Brian Angelichio,Coordinator,Minnesota Vikings,2025,0.40324793034624973
+707,O'Neill Gilbert,Position Coach - Defense,Buffalo Bills,2002,0.40324241597927646
+1198,Andy Bischoff,Coordinator,Los Angeles Chargers,2025,0.40323502684218937
+1286,Giff Smith,Coordinator,Los Angeles Rams,2025,0.4032306999034185
+645,Tom Catlin,Specialist Coach,Seattle Seahawks,1995,0.4032232539807497
+826,George Dyer,Position Coach - Defense,Detroit Lions,2003,0.40319861334974144
+1423,Mark Helfrich,Coordinator,Chicago Bears,2019,0.40317959644356577
+898,Jason Michael,Position Coach - Offense,Philadelphia Eagles,2025,0.40317124518493935
+906,Darryl Drake,Position Coach - Offense,Pittsburgh Steelers,2018,0.40312758241196134
+169,Denny Marcin,Position Coach - Defense,New York Jets,2006,0.40311638773848957
+1063,Ryan Nielsen,Specialist Coach,Buffalo Bills,2025,0.40311538450079604
+1918,Joe Bleymaier,Coordinator,Kansas City Chiefs,2025,0.4031018412422059
+270,Steve Shafer,Position Coach - Defense,Baltimore Ravens,2001,0.4030757574681523
+1637,Klint Kubiak,Coordinator,Seattle Seahawks,2025,0.40305272629818245
+307,Wilbert Montgomery,Position Coach - Offense,Cleveland Browns,2015,0.40304229872778213
+358,Mike Miller,Coordinator,Arizona Cardinals,2012,0.40303642664443345
+745,Leon Burtnett,Coordinator,Indianapolis Colts,1991,0.40300029527844144
+801,Pat McPherson,Position Coach - Offense,Carolina Panthers,2025,0.40298007479771897
+1365,Earnest Byner,Position Coach - Offense,Tampa Bay Buccaneers,2013,0.40297261019018865
+1674,Dré Bly,Position Coach - Defense,New York Jets,2025,0.40296069263328055
+529,Cory Undlin,Coordinator,Houston Texans,2025,0.40296053513096375
+1426,Ben McDaniels,Coordinator,Houston Texans,2025,0.4029600754014549
+298,Fred Pagac,Position Coach - Defense,Denver Broncos,2017,0.4029530919939555
+2184,T. J. Paganetti,Coordinator,New Orleans Saints,2025,0.40294938282452347
+1314,Nate Carroll,Position Coach - Offense,Las Vegas Raiders,2025,0.40293074101844795
+751,Chuck Weber,Position Coach - Defense,Los Angeles Chargers,1985,0.4029201272184341
+824,David Lee,Position Coach - Offense,Cleveland Browns,2017,0.40290223742928033
+109,Tony Oden,Coordinator,Tennessee Titans,2025,0.4028661938146159
+441,Frank Gansz,Coordinator,Jacksonville Jaguars,2001,0.40279850454641214
+290,Peter Giunta,Specialist Coach,New Orleans Saints,2025,0.4027727474517768
+567,Barney Chavous,Position Coach - Offense,Denver Broncos,1999,0.4027691426969213
+662,Jim Wagstaff,Position Coach - Defense,Los Angeles Chargers,1985,0.40276715801113117
+705,Steve Sabo,Position Coach - Defense,Buffalo Bills,2005,0.4027632962462664
+284,Irv Eatman,Position Coach - Offense,Kansas City Chiefs,2005,0.4027571716009642
+1647,Lucious Selmon,Position Coach - Defense,Jacksonville Jaguars,2002,0.40275692527559775
+762,Shawn Jefferson,Position Coach - Offense,New York Jets,2025,0.40274808362289427
+664,Charlie Bullen,Position Coach - Defense,New York Giants,2025,0.40273390482024934
+660,Joe Faragalli,Position Coach - Offense,Buffalo Bills,1986,0.4027281921526514
+1073,Stan Hixon,Position Coach - Offense,Houston Texans,2015,0.4027002106026889
+1881,Tony Wise,Position Coach - Offense,New York Jets,2007,0.40270000557567487
+1121,Marquand Manuel,Coordinator,New York Giants,2025,0.4026827814558987
+1187,Joe D'Alessandris,Position Coach - Offense,Baltimore Ravens,2023,0.40268196305909837
+1430,Clint Hurtt,Specialist Coach,Philadelphia Eagles,2025,0.4026680469803075
+738,Rusty Tillman,Coordinator,Minnesota Vikings,2005,0.402665842185667
+178,Turk Schonert,Coordinator,Buffalo Bills,2008,0.4025933232935219
+2002,Chris Harris,Position Coach - Defense,New York Jets,2025,0.4025801110541321
+1019,Mike Rutenberg,Coordinator,Atlanta Falcons,2025,0.4025733105795221
+787,Rex Norris,Position Coach - Defense,Chicago Bears,2002,0.40256009745673166
+465,Bob Valesente,Position Coach - Defense,Carolina Panthers,1999,0.4025591126612165
+253,Mike Haluchak,Position Coach - Defense,Las Vegas Raiders,2010,0.4025502264854486
+222,Jack Stanton,Position Coach - Defense,Las Vegas Raiders,1994,0.4025484251219868
+1591,Leon Lett,Position Coach - Defense,Dallas Cowboys,2022,0.40253116154095364
+616,Andy Moeller,Position Coach - Offense,Cleveland Browns,2015,0.40252887462119263
+1306,Renaldo Hill,Position Coach - Defense,Carolina Panthers,2025,0.4025189769184027
+2381,Gary Crowton,Coordinator,Chicago Bears,2000,0.40249863466413105
+591,John Hufnagel,Coordinator,New York Giants,2006,0.4024885158559044
+1301,Brad Idzik,Coordinator,Carolina Panthers,2025,0.40248522702256295
+838,Larry Brooks,Position Coach - Defense,Arizona Cardinals,2006,0.4024685559282444
+960,Mike Caldwell,Position Coach - Defense,Tampa Bay Buccaneers,2025,0.4024678910146639
+1597,Kyle Valero,Position Coach - Offense,New Orleans Saints,2025,0.4024661887698094
+381,Billie Matthews,Position Coach - Offense,Detroit Lions,1994,0.40245960910577433
+405,Bob Zeman,Specialist Coach,Seattle Seahawks,1999,0.40245492005278466
+839,Pat Morris,Position Coach - Offense,Buffalo Bills,2014,0.4024543140410884
+1878,Bill Lewis,Position Coach - Defense,Miami Dolphins,2004,0.40243997586908614
+1220,Jason Rebrovich,Position Coach - Defense,Buffalo Bills,2025,0.402435120671046
+1778,Perry Carter,Position Coach - Defense,Houston Texans,2013,0.40242990072648355
+1241,Bobby Johnson,Position Coach - Offense,Washington Commanders,2025,0.4024295478255333
+979,Eric Yarber,Position Coach - Offense,Los Angeles Rams,2025,0.40241423730882947
+183,Marion Hobby,Position Coach - Defense,Cincinnati Bengals,2024,0.4023687231284929
+1564,Gary Brown,Position Coach - Offense,Dallas Cowboys,2019,0.4023540560054662
+418,Tom Batta,Position Coach - Offense,San Francisco 49ers,2002,0.4023347356743217
+362,Dick Hoak,Position Coach - Offense,Pittsburgh Steelers,2006,0.4022987873765973
+1533,Jeff Blasko,Position Coach - Offense,New York Jets,2025,0.4022912592833214
+1031,Kirk Olivadotti,Position Coach - Defense,Seattle Seahawks,2025,0.40228488687912695
+1143,Brian Stewart,Position Coach - Defense,Detroit Lions,2019,0.40227789831925254
+1950,Brennan Carroll,Coordinator,Las Vegas Raiders,2025,0.40224860422974
+2124,Robb Akey,Position Coach - Defense,Washington Commanders,2016,0.40217454193687
+2253,Tracy Rocker,Position Coach - Defense,Tennessee Titans,2025,0.40217344698668445
+692,Martin Bayless,Position Coach - Defense,Houston Texans,2007,0.40216405245667336
+1134,Bill Shuey,Position Coach - Defense,Jacksonville Jaguars,2024,0.40216246321779453
+935,Chuck Cecil,Specialist Coach,Los Angeles Rams,2016,0.40214213388910053
+1624,Zach Strief,Coordinator,Denver Broncos,2025,0.4021411501698447
+1123,Steve Sarkisian,Coordinator,Atlanta Falcons,2018,0.40213823275091265
+770,Ricky Thomas,Position Coach - Offense,Indianapolis Colts,2011,0.40211800163098704
+1434,Bo Hardegree,Position Coach - Offense,Tennessee Titans,2025,0.4020916366069032
+936,Jim Washburn,Specialist Coach,Miami Dolphins,2016,0.40207629118407434
+361,Kenny Jackson,Position Coach - Offense,Pittsburgh Steelers,2003,0.4020562091742008
+1170,Greg Lewis,Position Coach - Offense,Baltimore Ravens,2025,0.40203515226822645
+1288,Pete Metzelaars,Position Coach - Offense,Los Angeles Chargers,2015,0.4020284036782633
+1186,Dennard Wilson,Coordinator,Tennessee Titans,2025,0.4019635277784419
+1106,Aden Durde,Coordinator,Seattle Seahawks,2025,0.40194709387507466
+35,Dave Atkins,Specialist Coach,Cleveland Browns,2008,0.40194583564002384
+28,Greg Brown,Specialist Coach,New Orleans Saints,2005,0.40191064097402257
+1224,Marc Lubick,Specialist Coach,Buffalo Bills,2025,0.4019092758943022
+1274,Rob Moore,Position Coach - Offense,Carolina Panthers,2025,0.40189888435026844
+889,Jim Lind,Position Coach - Offense,Seattle Seahawks,2008,0.4018856659273324
+1155,Joe Danna,Position Coach - Defense,Buffalo Bills,2025,0.4018790819432916
+1077,Tim Hauck,Position Coach - Defense,Philadelphia Eagles,2020,0.40184659377126275
+1601,Derek Dooley,Position Coach - Offense,New York Giants,2021,0.4018214931702357
+1660,Hank Fraley,Coordinator,Detroit Lions,2025,0.40179221072991994
+1962,Mick Lombardi,Position Coach - Offense,San Francisco 49ers,2025,0.40178947786923686
+685,Kevin Steele,Position Coach - Defense,Carolina Panthers,1998,0.4017376280183222
+981,Scottie Montgomery,Position Coach - Offense,Detroit Lions,2025,0.4017318449380353
+1210,David Merritt,Position Coach - Defense,New York Giants,2015,0.40167217427095925
+162,Paul Alexander,Position Coach - Offense,Cincinnati Bengals,2017,0.4016678856719938
+2274,Matt Canada,Coordinator,Pittsburgh Steelers,2023,0.40166246794114935
+2251,Brian Johnson,Coordinator,Washington Commanders,2025,0.40164233036777924
+1421,Harry Hiestand,Position Coach - Offense,Chicago Bears,2019,0.4016349014111193
+1026,Nate Ollie,Position Coach - Defense,Atlanta Falcons,2025,0.40163460297018067
+1519,Roy Istvan,Position Coach - Offense,Cleveland Browns,2024,0.401632856517341
+699,Steve Jackson,Position Coach - Defense,Atlanta Falcons,2023,0.4015923680591054
+1048,John Hunt,Position Coach - Offense,Washington Commanders,2002,0.40158591256614035
+1049,Lawson Holland,Position Coach - Offense,Washington Commanders,2002,0.40158591256614035
+1050,Steve Spurrier Jr.,Position Coach - Offense,Washington Commanders,2002,0.40158591256614035
+1051,Noah Brindise,Position Coach - Offense,Washington Commanders,2002,0.40158591256614035
+548,Wade Wilson,Position Coach - Offense,Dallas Cowboys,2017,0.40157321628824066
+1931,Richie Anderson,Position Coach - Offense,Kansas City Chiefs,2011,0.40154144389611
+1943,Pat Perles,Position Coach - Offense,Kansas City Chiefs,2011,0.40154144389611
+252,June Jones,Position Coach - Offense,Los Angeles Chargers,1998,0.4015331374901885
+673,Sam Mills,Position Coach - Defense,Carolina Panthers,2004,0.40151784780025873
+82,Jim Erkenbeck,Position Coach - Offense,Las Vegas Raiders,2001,0.40151517235077727
+2004,Chris Shula,Coordinator,Los Angeles Rams,2025,0.40151432742901355
+508,Jonathan Gannon,Coordinator,Arizona Cardinals,2025,0.40150120062752653
+1476,Robert Livingston,Position Coach - Defense,Cincinnati Bengals,2023,0.401500615991955
+1773,Anthony Pleasant,Specialist Coach,Houston Texans,2015,0.4014973397678716
+871,Glenn Pires,Position Coach - Defense,Chicago Bears,2018,0.4014911690230945
+1432,Sam Garnes,Position Coach - Defense,Chicago Bears,2016,0.4014909491979177
+533,Alfredo Roberts,Position Coach - Offense,Pittsburgh Steelers,2025,0.40146240071582967
+1609,Ron Prince,Position Coach - Offense,Detroit Lions,2017,0.4014545043855578
+1053,Tim Berbenich,Specialist Coach,Atlanta Falcons,2025,0.40144998024831374
+2046,Ryan Crow,Position Coach - Defense,Miami Dolphins,2024,0.40144182077352514
+71,King Hill,Coordinator,New Orleans Saints,1985,0.4014228451953903
+1183,Mark DeLeone,Position Coach - Offense,Kansas City Chiefs,2025,0.4014138926487671
+1973,Ted Gilmore,Position Coach - Offense,Las Vegas Raiders,2014,0.40139517344390113
+219,Joe Scannella,Position Coach - Offense,Las Vegas Raiders,1993,0.4013938227569422
+1193,Bobby Engram,Position Coach - Offense,Washington Commanders,2025,0.40138944953719297
+902,Ray Brown,Position Coach - Defense,San Francisco 49ers,2025,0.4013694414246522
+1262,Tony Sparano Jr.,Position Coach - Offense,Indianapolis Colts,2025,0.40136295177898473
+1337,Matt Rhule,Head Coach,Carolina Panthers,2021,0.40134801203107284
+584,Fred Graves,Specialist Coach,Los Angeles Chargers,2016,0.40134555952609574
+380,Milt Jackson,Position Coach - Offense,Baltimore Ravens,2000,0.40134431025510214
+1783,Cato June,Position Coach - Defense,Indianapolis Colts,2025,0.40134215148049396
+1232,Scott Booker,Position Coach - Defense,New England Patriots,2025,0.4013413196759706
+1631,Marcus Dixon,Position Coach - Defense,Minnesota Vikings,2025,0.40133468273527484
+2147,Zak Kuhr,Position Coach - Defense,New England Patriots,2025,0.4013275598918458
+1623,Davis Webb,Coordinator,Denver Broncos,2025,0.40132251529033486
+1797,Mike Mitchell,Position Coach - Defense,Indianapolis Colts,2023,0.4013182385448031
+1479,Jemal Singleton,Position Coach - Offense,Philadelphia Eagles,2025,0.4013086159169432
+428,Dale Haupt,Position Coach - Defense,Philadelphia Eagles,1994,0.4013009401201506
+1059,Richie Petitbon,Coordinator,Washington Commanders,1987,0.4012894145146315
+1405,Austin King,Position Coach - Offense,Denver Broncos,2025,0.4012878978602465
+1234,Eric Washington,Position Coach - Defense,New York Jets,2025,0.40127417853681124
+1517,Callie Brownson,Position Coach - Offense,Cleveland Browns,2024,0.40126959373378757
+562,Tom Landry,Head Coach,Dallas Cowboys,1985,0.4012669724596638
+570,Charlie Waters,Coordinator,Denver Broncos,1994,0.4012638086873579
+1991,Brendan Nugent,Position Coach - Offense,New Orleans Saints,2025,0.4012508625849007
+1157,Mark Collins,Position Coach - Defense,Jacksonville Jaguars,2020,0.4012404286914715
+849,George Yarno,Position Coach - Offense,Jacksonville Jaguars,2014,0.40122727866112357
+1634,Jake Moreland,Position Coach - Offense,Houston Texans,2025,0.40122559360571036
+436,Dick Coury,Specialist Coach,Tennessee Titans,1996,0.40121388600986047
+126,Dick Rehbein,Position Coach - Offense,New England Patriots,2001,0.4012058644810974
+1275,Samson Brown,Position Coach - Defense,Denver Broncos,2016,0.40120526414206364
+1056,Jimmy Lake,Specialist Coach,Los Angeles Rams,2025,0.40119372143769166
+2048,Josh Grizzard,Coordinator,Tampa Bay Buccaneers,2025,0.40118111151531255
+1598,Marc Colombo,Position Coach - Offense,Dallas Cowboys,2019,0.4011623898954619
+65,Frank Cignetti Jr.,Position Coach - Offense,Green Bay Packers,2018,0.4011549722974002
+693,Steve Fairchild,Specialist Coach,Los Angeles Chargers,2012,0.4011193572679616
+239,Rod Perry,Specialist Coach,Indianapolis Colts,2011,0.4011170449416494
+978,Jason Tarver,Position Coach - Defense,Cleveland Browns,2025,0.40111625132474676
+1204,Thomas Hammock,Position Coach - Offense,Baltimore Ravens,2018,0.40109921029216733
+847,Kris Kocurek,Position Coach - Defense,San Francisco 49ers,2025,0.40109798951822945
+1452,Tim Holt,Position Coach - Offense,Las Vegas Raiders,2017,0.40109433180811727
+1130,Jeff Nixon,Position Coach - Offense,New York Giants,2023,0.4010865820545395
+342,Brian Baker,Position Coach - Defense,Indianapolis Colts,2021,0.40108159841425367
+1197,Richard Angulo,Position Coach - Offense,Jacksonville Jaguars,2025,0.4010800048704514
+1863,Chris Ash,Position Coach - Defense,Las Vegas Raiders,2023,0.40105318062347667
+1293,A.C. Carter,Position Coach - Defense,Carolina Panthers,2025,0.40103183685492255
+1177,Travis Switzer,Coordinator,Baltimore Ravens,2025,0.40103143530585755
+1453,Tim Spencer,Position Coach - Offense,Tampa Bay Buccaneers,2018,0.4009880917452562
+695,Ted Gill,Position Coach - Defense,Carolina Panthers,1998,0.40097591086181256
+757,Marcus Robertson,Position Coach - Defense,Las Vegas Raiders,2025,0.4009647580543059
+1708,Nick Caserio,Position Coach - Offense,New England Patriots,2007,0.400957955055463
+2081,Imarjaye Albury,Specialist Coach,Minnesota Vikings,2024,0.40094647772587155
+29,Joe Baker,Position Coach - Defense,Dallas Cowboys,2017,0.40093689890871126
+652,Robert Prince,Position Coach - Offense,Miami Dolphins,2025,0.40093684715401
+1858,Tony Gilbert,Position Coach - Defense,Jacksonville Jaguars,2023,0.4009221529729175
+1427,Ben Wilkerson,Position Coach - Offense,Cleveland Browns,2025,0.4009180222176316
+813,Howard Tippett,Specialist Coach,Los Angeles Rams,2000,0.40090956881615214
+280,Lionel James,Position Coach - Offense,Kansas City Chiefs,1998,0.40089029509878
+40,Nick Nicolau,Position Coach - Offense,Jacksonville Jaguars,1996,0.40088976322413467
+1468,Scott Peters,Position Coach - Offense,Cincinnati Bengals,2025,0.4008879439816109
+1651,James Cregg,Position Coach - Offense,San Francisco 49ers,2023,0.4008873094470499
+1304,Mayur Chaudhari,Position Coach - Defense,Carolina Panthers,2025,0.40087661022395754
+1829,Jim Herrmann,Position Coach - Defense,Indianapolis Colts,2017,0.40086720919233404
+563,Stan Jones,Position Coach - Defense,New England Patriots,1992,0.4008578309456272
+565,Myrel Moore,Position Coach - Defense,New England Patriots,1992,0.4008578309456272
+2264,Ryan Day,Position Coach - Offense,San Francisco 49ers,2016,0.4008557025701731
+1618,Keary Colbert,Position Coach - Offense,Denver Broncos,2025,0.4008344787870701
+1620,Lou Ayeni,Position Coach - Offense,Denver Broncos,2025,0.4008344787870701
+864,Harry Sydney,Position Coach - Offense,Green Bay Packers,1999,0.40083193714142357
+767,Brentson Buckner,Position Coach - Defense,Jacksonville Jaguars,2023,0.4008085640024209
+501,Steve Crosby,Coordinator,Cleveland Browns,1995,0.4008050757734307
+900,Kevin Garver,Position Coach - Offense,Tampa Bay Buccaneers,2022,0.4007888357637482
+1205,Todd Washington,Position Coach - Offense,Jacksonville Jaguars,2023,0.4007871419852281
+2090,Karl Scott,Coordinator,Seattle Seahawks,2025,0.4007774524863604
+1191,Rob Leonard,Coordinator,Las Vegas Raiders,2025,0.4007756920503301
+1465,Michael Hodges,Position Coach - Defense,Cincinnati Bengals,2025,0.40075864815864465
+481,Jonathan Hayes,Position Coach - Offense,Cincinnati Bengals,2018,0.4007558161837366
+2298,Eric Wolford,Position Coach - Offense,San Francisco 49ers,2016,0.4007533528554145
+1963,Taver Johnson,Position Coach - Defense,Philadelphia Eagles,2023,0.4007357918687753
+1818,Jimmie Johnson,Position Coach - Offense,New York Jets,2018,0.4007356441505234
+1638,Ola Adams,Position Coach - Defense,Denver Broncos,2022,0.4007331358564794
+1393,Chris Beatty,Position Coach - Offense,Las Vegas Raiders,2025,0.4007329614366368
+319,Tom Keane,Position Coach - Defense,Miami Dolphins,1984,0.40072507284962383
+320,Mike Scarry,Position Coach - Defense,Miami Dolphins,1985,0.40072507284962383
+1984,Nick Hardwick,Position Coach - Offense,Los Angeles Chargers,2025,0.40071877754480717
+1981,Kiel McDonald,Position Coach - Offense,Los Angeles Chargers,2025,0.40071877754480717
+580,Todd McNair,Position Coach - Offense,Tampa Bay Buccaneers,2022,0.40071871084869765
+1098,Steve Loney,Position Coach - Offense,Dallas Cowboys,2017,0.40068970277902466
+69,Chip Myers,Position Coach - Offense,Minnesota Vikings,1998,0.4006766944989502
+203,Bob Mischak,Position Coach - Offense,Las Vegas Raiders,1994,0.40066336068967395
+624,Bill Bradley,Position Coach - Defense,New York Jets,2003,0.4006569158632223
+1322,Parks Frazier,Coordinator,Philadelphia Eagles,2025,0.40064748784375004
+182,Tom Hayes,Position Coach - Defense,New Orleans Saints,2007,0.40063627695700643
+1940,Gerald Carr,Position Coach - Offense,Philadelphia Eagles,1998,0.4006345743420141
+1188,Keith Williams,Position Coach - Offense,New Orleans Saints,2025,0.4006344582034136
+1589,Doug Nussmeier,Coordinator,New Orleans Saints,2025,0.40062427761280445
+356,John Mitchell,Position Coach - Defense,Pittsburgh Steelers,2017,0.400619567380143
+422,Bo Pelini,Position Coach - Defense,Green Bay Packers,2002,0.4006174689100676
+2026,Ra'Shaad Samples,Position Coach - Offense,Los Angeles Rams,2022,0.4006065142756918
+1214,Jerald Ingram,Position Coach - Offense,New York Giants,2013,0.4005873276869321
+1373,Declan Doyle,Coordinator,Chicago Bears,2025,0.40057471742242917
+1131,Rory Segrest,Position Coach - Defense,Jacksonville Jaguars,2024,0.40057210917912817
+1831,Lee Hull,Position Coach - Offense,Indianapolis Colts,2016,0.40055316866932894
+1273,Pepper Johnson,Position Coach - Defense,New York Jets,2016,0.40054763026240553
+1739,Nick Caley,Coordinator,Houston Texans,2025,0.40053589733045886
+511,Drew Petzing,Coordinator,Arizona Cardinals,2025,0.400521564879319
+1645,Chris Strausser,Position Coach - Offense,Houston Texans,2024,0.40051121152890173
+560,Ernie Stautner,Position Coach - Defense,Denver Broncos,1993,0.4005100456719899
+2240,Aaron Moorehead,Position Coach - Offense,Philadelphia Eagles,2025,0.40050482445481844
+220,Tom Walsh,Specialist Coach,Las Vegas Raiders,1994,0.4005017373742248
+1521,Ben Bloom,Position Coach - Defense,Tennessee Titans,2025,0.4004904628823021
+2161,Sam Boghosian / Art Shell,Position Coach - Offense,Las Vegas Raiders,1986,0.4004718782202599
+2162,Bo Jackson,Position Coach - Offense,Las Vegas Raiders,1986,0.4004718782202599
+1128,Rich Scangarello,Position Coach - Offense,San Francisco 49ers,2021,0.4004718579403017
+1742,Jerrod Johnson,Position Coach - Offense,Houston Texans,2025,0.4004674433393893
+516,John Teerlinck,Position Coach - Defense,Indianapolis Colts,2011,0.4004499441842539
+1941,Jim Bollman,Position Coach - Offense,Chicago Bears,2000,0.40043977494101196
+1264,Karl Dunbar,Position Coach - Defense,Pittsburgh Steelers,2025,0.40043315590984424
+1215,Adam Henry,Position Coach - Offense,Buffalo Bills,2025,0.4004321299446472
+1581,Jeff Zgonina,Position Coach - Defense,Dallas Cowboys,2024,0.40042606553162274
+1523,T. C. McCartney,Position Coach - Offense,New England Patriots,2024,0.4003999857809662
+514,Drew Terrell,Coordinator,Arizona Cardinals,2025,0.40035135278201434
+980,Jerry Olsavsky,Position Coach - Defense,Pittsburgh Steelers,2022,0.40035127210374116
+431,Dick Wood,Position Coach - Offense,New York Jets,1996,0.40034775802869144
+47,Dick Nolan,Position Coach - Offense,Dallas Cowboys,1985,0.4003413562768738
+315,Gary Stevens,Position Coach - Offense,Atlanta Falcons,2001,0.4003384829906858
+489,John Garrett,Position Coach - Offense,Tampa Bay Buccaneers,2013,0.4003366048795541
+764,Steve Heiden,Position Coach - Offense,New York Jets,2025,0.40033649811462074
+714,Stan Drayton,Position Coach - Offense,Chicago Bears,2016,0.4003364275414163
+68,Everett Withers,Position Coach - Defense,New York Giants,2019,0.4003135863468407
+2250,D.K. McDonald,Position Coach - Defense,Philadelphia Eagles,2023,0.40031098742141163
+478,Jay Hayes,Position Coach - Defense,Tampa Bay Buccaneers,2017,0.4002887619272885
+171,Jim McNally,Position Coach - Offense,New York Giants,2002,0.40028163904615316
+1409,Ronell Williams,Specialist Coach,Philadelphia Eagles,2025,0.4002812250733519
+2244,Tyler Scudder,Specialist Coach,Philadelphia Eagles,2025,0.4002812250733519
+2249,D. J. Eliot,Position Coach - Defense,Philadelphia Eagles,2023,0.4002812250733519
+526,Alex Wood,Coordinator,Arizona Cardinals,2004,0.4002779770899682
+180,Ralph Hawkins,Coordinator,New York Jets,1989,0.40025216257483476
+317,Tony Nathan,Position Coach - Offense,San Francisco 49ers,2008,0.40024719146920157
+1176,Travelle Wharton,Position Coach - Offense,Baltimore Ravens,2025,0.40024287724596075
+2259,Chris Wilson,Position Coach - Defense,Philadelphia Eagles,2018,0.40020795241907153
+1928,Deland McCullough,Position Coach - Offense,Las Vegas Raiders,2025,0.4001919001079868
+32,Bob Palcic,Position Coach - Offense,New Orleans Saints,2005,0.4001891047758861
+482,Jim Anderson,Position Coach - Offense,Cincinnati Bengals,2012,0.4001702890813319
+1004,Don Strock,Position Coach - Offense,Baltimore Ravens,1998,0.40016599191874885
+1527,Kevin Rogers,Specialist Coach,Cleveland Browns,2022,0.4001616253118481
+1817,Jim Hueber,Position Coach - Offense,Minnesota Vikings,2010,0.4001616253118481
+1906,Paul Spicer,Position Coach - Defense,Tampa Bay Buccaneers,2018,0.40016106053841877
+961,Jeff FitzGerald,Position Coach - Defense,Indianapolis Colts,2015,0.4001599590943025
+1821,Ryan Ficken,Coordinator,Los Angeles Chargers,2025,0.40015484453027256
+79,Bobby Grier,Position Coach - Offense,New England Patriots,1992,0.4001487232137257
+1741,Cole Popovich,Coordinator,Houston Texans,2025,0.40013761110205404
+46,Ed Hughes,Position Coach - Defense,Cleveland Browns,1989,0.4001342670913921
+1855,Cody Grimm,Position Coach - Defense,Jacksonville Jaguars,2023,0.40013015619997055
+499,Pat Hill,Position Coach - Offense,Atlanta Falcons,2012,0.40012954040628324
+1843,Grant Udinski,Coordinator,Jacksonville Jaguars,2025,0.4001226418089894
+1250,Andrew Dees,Position Coach - Offense,Buffalo Bills,2018,0.4001212041581584
+537,Rip Scherer,Position Coach - Offense,Los Angeles Chargers,2019,0.4001168961176939
+2149,Jerod Mayo,Head Coach,New England Patriots,2024,0.4001091413927606
+1411,Bill McGovern,Position Coach - Defense,Chicago Bears,2021,0.4001049936046294
+1613,Jim Leonhard,Coordinator,Denver Broncos,2025,0.4000988958083426
+1636,Justin Outten,Specialist Coach,Seattle Seahawks,2025,0.40009017160300325
+1400,Luke Steckel,Position Coach - Offense,Las Vegas Raiders,2025,0.4000847291983602
+2254,Matthew Harper,Position Coach - Offense,Philadelphia Eagles,2020,0.4000794832099697
+2255,Mike Bartrum,Position Coach - Offense,Philadelphia Eagles,2020,0.4000794832099697
+2379,Mike Borich,Position Coach - Offense,Chicago Bears,2000,0.4000750035569633
+1511,Tommy Rees,Coordinator,Cleveland Browns,2025,0.40006583990401756
+1391,Jennifer King,Specialist Coach,Chicago Bears,2024,0.4000610599096148
+2295,Darryl Tapp,Position Coach - Defense,Washington Commanders,2025,0.400059479744535
+447,Tom Bettis,Position Coach - Defense,Tennessee Titans,1994,0.4000537768682581
+1486,Kyle Caskey,Specialist Coach,Jacksonville Jaguars,2021,0.40005317541820323
+1079,John Zernhelt,Position Coach - Offense,Tennessee Titans,2012,0.40004598695564897
+2014,Nathan Scheelhaase,Coordinator,Los Angeles Rams,2025,0.4000343536780005
+590,Jerry Butler,Position Coach - Offense,Cleveland Browns,2000,0.40003131074135595
+1992,Tom Donatell,Position Coach - Defense,Washington Commanders,2025,0.40002334481478624
+1054,T. J. Yates,Coordinator,Atlanta Falcons,2025,0.40001879362235715
+1904,Andy Heck,Position Coach - Offense,Kansas City Chiefs,2025,0.40000265361900283
+1897,Greg Burns,Position Coach - Defense,Tampa Bay Buccaneers,2006,0.39999827890496586
+61,Sam Clancy,Position Coach - Defense,Las Vegas Raiders,2004,0.3999961298628975
+1702,Josh Boyer,Coordinator,Miami Dolphins,2022,0.3999929188424085
+2339,Bob Bostad,Position Coach - Offense,Tennessee Titans,2015,0.39998288412347677
+197,Larrye Weaver,Coordinator,Cleveland Browns,1983,0.39997023976909873
+2322,Kefense Hynson,Coordinator,Tampa Bay Buccaneers,2025,0.39995563811295787
+118,Bret Ingalls,Position Coach - Offense,New Orleans Saints,2015,0.39995164007443645
+1245,Shea Tierney,Coordinator,New York Giants,2025,0.39994379151120435
+1129,Corey Matthaei,Position Coach - Offense,Kansas City Chiefs,2025,0.399932519999393
+731,James Campen,Position Coach - Offense,Carolina Panthers,2023,0.39993214164835283
+193,Carlos Mainord,Position Coach - Defense,Carolina Panthers,2001,0.39993173969771795
+49,John Paul Young,Position Coach - Defense,Denver Broncos,1994,0.39992548683446305
+1526,Jeff Howard,Position Coach - Defense,Seattle Seahawks,2025,0.3999244828668849
+1876,Corwin Brown,Position Coach - Defense,New England Patriots,2010,0.3999035553520161
+1573,Nick Sorensen,Coordinator,Dallas Cowboys,2025,0.39989857435372983
+972,Gregg Smith,Position Coach - Offense,San Francisco 49ers,2003,0.3998953354777847
+312,Dan Sekanovich,Position Coach - Defense,Buffalo Bills,1996,0.39989115352319815
+850,Tim Lappano,Position Coach - Offense,Detroit Lions,2013,0.3998872423983861
+937,Norm Chow,Coordinator,Tennessee Titans,2005,0.3998837178548627
+408,Carl Jackson,Position Coach - Offense,San Francisco 49ers,1996,0.39987947163338733
+1551,Brian Fleury,Coordinator,San Francisco 49ers,2025,0.3998733409658191
+1369,Antwaan Randle El,Position Coach - Offense,Chicago Bears,2025,0.3998520992640715
+1662,Mark Brunell,Position Coach - Offense,Detroit Lions,2025,0.3998520992640715
+1664,Seth Ryan,Position Coach - Offense,Detroit Lions,2025,0.3998520992640715
+1417,Mike Furrey,Position Coach - Offense,Chicago Bears,2021,0.3998442841774536
+1420,Donovan Raiola,Position Coach - Offense,Chicago Bears,2020,0.3998219856402088
+76,Charlie Sumner,Coordinator,New England Patriots,1990,0.399815765273281
+2138,Clint McMillan,Position Coach - Defense,New England Patriots,2025,0.3998060736550066
+1256,Jeff Weeks,Position Coach - Defense,Buffalo Bills,2016,0.39980141579132206
+1261,Tim McDonald,Position Coach - Defense,Buffalo Bills,2016,0.3997884939252589
+1455,Charles Burks,Position Coach - Defense,Cincinnati Bengals,2025,0.3997802591686172
+1461,Jordan Kovacs,Position Coach - Defense,Cincinnati Bengals,2025,0.3997802591686172
+1253,Bobby April III,Position Coach - Defense,Buffalo Bills,2016,0.39976597765528016
+2268,Denzel Martin,Position Coach - Defense,Pittsburgh Steelers,2025,0.3997555464727747
+524,Greg Landry,Position Coach - Offense,Detroit Lions,1996,0.3997521461999827
+1413,Chris Rumph,Position Coach - Defense,Minnesota Vikings,2023,0.3997415315468346
+176,Willy Robinson,Position Coach - Defense,Los Angeles Rams,2006,0.39971563631290774
+678,Sal Sunseri,Position Coach - Defense,Las Vegas Raiders,2017,0.39971555978613266
+1240,Ryan Wendell,Position Coach - Offense,Los Angeles Rams,2025,0.39971518359787006
+1614,Evan Rothstein,Position Coach - Offense,Denver Broncos,2025,0.39970363166894735
+277,Bob Karmelowicz,Position Coach - Defense,Detroit Lions,2009,0.39969950666236526
+62,Ron Zook,Coordinator,Green Bay Packers,2018,0.39969737269264294
+1715,Derrick Ansley,Coordinator,Green Bay Packers,2025,0.39969391928734677
+1254,Ed Reed,Position Coach - Defense,Buffalo Bills,2016,0.3996892153692113
+1257,John Blake,Position Coach - Defense,Buffalo Bills,2016,0.3996892153692113
+711,Lionel Washington,Position Coach - Defense,Green Bay Packers,2008,0.39968427031935555
+1341,Jake Peetz,Coordinator,Seattle Seahawks,2025,0.3996838367941873
+449,Walt Michaels,Head Coach,New York Jets,1981,0.3996832585731395
+1416,Mike Adams,Position Coach - Defense,New York Giants,2025,0.399683179569248
+608,Randy Brown,Position Coach - Defense,New Orleans Saints,2025,0.3996656102837708
+2301,Reggie Davis,Position Coach - Offense,San Francisco 49ers,2014,0.3996623465128588
+1259,Pat Meyer,Position Coach - Offense,Pittsburgh Steelers,2025,0.3996551000169784
+1395,Travis Smith,Coordinator,Tennessee Titans,2025,0.3996537003965186
+561,Jim Myers,Coordinator,Dallas Cowboys,1985,0.3996498893327574
+891,Al Holcomb,Position Coach - Defense,Buffalo Bills,2025,0.39964027773219324
+1569,Derrick Foster,Position Coach - Offense,Dallas Cowboys,2025,0.39963447107873246
+734,Robert Nunn,Position Coach - Defense,New York Jets,2018,0.3996267701968002
+304,Steve Brown,Position Coach - Defense,Tennessee Titans,2015,0.39962147982544466
+523,Gary Moeller,Position Coach - Defense,Chicago Bears,2003,0.3996129979850378
+1930,Brian Ferentz,Position Coach - Offense,New England Patriots,2011,0.3996037141038411
+1164,Zachary Orr,Coordinator,Baltimore Ravens,2025,0.39960338929763833
+2354,Kenechi Udeze,Position Coach - Defense,Tennessee Titans,2021,0.39959066187818354
+1588,Sharrif Floyd,Position Coach - Defense,Washington Commanders,2025,0.39957166979987363
+2366,William Gay,Position Coach - Defense,Washington Commanders,2025,0.39957166979987363
+1748,Zach Yenser,Position Coach - Offense,Houston Texans,2025,0.3995682566753848
+1398,Alan Williams ; resigned on September 20,Coordinator,Chicago Bears,2023,0.3995515962031085
+1722,Anthony Campanile,Coordinator,Jacksonville Jaguars,2025,0.39955064625366665
+154,Walt Harris,Position Coach - Offense,New York Jets,1994,0.39954876453497445
+24,Jack Henry,Coordinator,New Orleans Saints,2005,0.39954095806729945
+354,Lou Spanos,Position Coach - Defense,Tennessee Titans,2017,0.3995249319125708
+260,Ed White,Specialist Coach,Houston Texans,2022,0.3995076285546379
+2287,Klay Kubiak,Coordinator,San Francisco 49ers,2025,0.3994982127592523
+1396,Andrew Janocko,Position Coach - Offense,Seattle Seahawks,2025,0.3994810355497847
+666,Cameron Turner,Position Coach - Offense,Indianapolis Colts,2025,0.3994782198054329
+1029,Dwayne Ledford,Coordinator,Atlanta Falcons,2025,0.39946551251308954
+2188,Kodi Burns,Position Coach - Offense,New Orleans Saints,2023,0.39946411533775633
+74,Don Blackmon,Position Coach - Defense,Kansas City Chiefs,2006,0.39946336923160425
+1099,Robert Ford,Position Coach - Offense,Arizona Cardinals,2004,0.39944356955713783
+1584,Scott Tolzien,Position Coach - Offense,New Orleans Saints,2025,0.39943504920721207
+1954,Gerald Alexander,Position Coach - Defense,Pittsburgh Steelers,2025,0.39942757190862904
+1752,DeNarius McGhee,Position Coach - Offense,New Orleans Saints,2024,0.3994254561486819
+1190,D'Anton Lynn,Position Coach - Defense,Baltimore Ravens,2022,0.39941501182271794
+602,Elijah Pitts,Position Coach - Offense,Buffalo Bills,1996,0.39940734262884786
+1666,Steve Oliver,Position Coach - Offense,Detroit Lions,2025,0.39940519956717413
+1238,Chad Hall,Position Coach - Offense,New York Giants,2025,0.3994033207795143
+1577,Chase Haslett,Position Coach - Offense,New Orleans Saints,2025,0.3994023699164826
+597,Dick Portee,Position Coach - Offense,Cleveland Browns,1999,0.399391836558306
+1392,Kerry Joseph,Coordinator,New Orleans Saints,2025,0.3993900575062976
+1671,J. T. Barrett,Position Coach - Offense,Detroit Lions,2024,0.39938945645416557
+1875,Dave Szott,Position Coach - Offense,New York Jets,2005,0.3993732452340393
+1880,Pat Jones,Position Coach - Defense,Las Vegas Raiders,2005,0.39934755009222406
+175,Joe Daniels,Position Coach - Offense,New York Jets,1991,0.3993304272838704
+416,Andy Sugarman,Specialist Coach,Los Angeles Rams,2015,0.39931670146535353
+688,Blair Bush,Position Coach - Offense,Carolina Panthers,1997,0.3993100691562101
+1456,Al Golden,Coordinator,Cincinnati Bengals,2025,0.399302019391
+2369,Todd Storm,Position Coach - Offense,Washington Commanders,2023,0.39929547679754546
+1168,Donald D'Alesio,Position Coach - Defense,Baltimore Ravens,2025,0.39929312906191855
+2180,Jahri Evans,Position Coach - Offense,New Orleans Saints,2025,0.3992865558100948
+230,Doug Graber,Coordinator,Tampa Bay Buccaneers,1988,0.39927473817343473
+1167,Dennis Johnson,Position Coach - Defense,Baltimore Ravens,2025,0.39926323940676006
+1172,Matt Robinson,Position Coach - Defense,Baltimore Ravens,2025,0.39926323940676006
+258,George O'Leary,Coordinator,Minnesota Vikings,2003,0.3992553630744556
+1074,Matt Pees,Position Coach - Defense,Baltimore Ravens,2025,0.39925506958407775
+1178,Tyler Santucci,Position Coach - Defense,Baltimore Ravens,2025,0.39925506958407775
+2336,Jeff Tedford,Coordinator,Tampa Bay Buccaneers,2014,0.39924232076868416
+1762,Will Lawing,Position Coach - Offense,New England Patriots,2023,0.3992328704056011
+2357,Chet Parlavecchio,Position Coach - Defense,Tennessee Titans,2013,0.3992326428530375
+883,Jim Stanley,Position Coach - Defense,Arizona Cardinals,1995,0.3992311824306325
+2278,Tom Bradley,Position Coach - Defense,Pittsburgh Steelers,2020,0.39922455402935114
+728,Kevin Greene,Position Coach - Defense,New York Jets,2018,0.39921256520852727
+1265,Kurt Anderson,Position Coach - Offense,Buffalo Bills,2015,0.3992124591450781
+323,Bob Matheson,Position Coach - Defense,Miami Dolphins,1986,0.39920941583783187
+1937,Taylor Embree,Position Coach - Offense,New England Patriots,2024,0.3992093293746315
+851,Sam Gash,Position Coach - Offense,Green Bay Packers,2015,0.39920698563797447
+755,Mike McCormack,Head Coach,Indianapolis Colts,1981,0.3992024524164794
+890,Keith Gilbertson,Specialist Coach,Cleveland Browns,2011,0.39919955375055355
+91,Fred Hoaglin,Position Coach - Offense,Jacksonville Jaguars,2001,0.39919742439236855
+164,Johnny Roland,Position Coach - Offense,New Orleans Saints,2005,0.39918774227849924
+897,Don Johnson,Position Coach - Defense,Carolina Panthers,2022,0.39918324112656234
+579,Steve Hagen,Position Coach - Offense,New York Jets,2014,0.3991827969999691
+1116,Tosh Lupoi,Position Coach - Defense,Jacksonville Jaguars,2021,0.3991778682934804
+1290,George Cortez,Position Coach - Offense,Buffalo Bills,2011,0.39917432396816915
+780,Homer Smith,Coordinator,Kansas City Chiefs,1987,0.3991697102663047
+1252,Phil McGeoghan,Position Coach - Offense,Los Angeles Chargers,2020,0.3991691866513942
+1887,Ron Middleton,Position Coach - Offense,New York Jets,2024,0.39915852399319124
+1489,David Lippincott,Position Coach - Defense,Las Vegas Raiders,2020,0.3991458021125587
+5,Steve Walters,Position Coach - Offense,Jacksonville Jaguars,2006,0.3991419385883533
+2085,Dedric Ward,Position Coach - Offense,Kansas City Chiefs,2009,0.39913584414898445
+1251,Gill Byrd,Position Coach - Defense,Buffalo Bills,2017,0.3991276897012426
+2174,Bob Fraser,Specialist Coach,New England Patriots,2019,0.39912077159914944
+820,Mike MacIntyre,Position Coach - Defense,New York Jets,2007,0.39911942432324127
+1967,"Ken Norton, Jr.",Coordinator,Las Vegas Raiders,2017,0.3991052667727095
+2341,P. J. Fleck,Position Coach - Offense,Tampa Bay Buccaneers,2012,0.39910474959431
+869,John Hadl,Position Coach - Offense,Denver Broncos,1983,0.39910392718795173
+2003,Eric Henderson,Coordinator,Los Angeles Rams,2023,0.39910370227665415
+878,David Raih,Position Coach - Offense,Washington Commanders,2025,0.3990943993422536
+663,Brian Natkin,Position Coach - Offense,New York Jets,2025,0.39908506931441434
+1278,Tyrone Wheatley,Position Coach - Offense,Denver Broncos,2022,0.3990783732794985
+1087,Gary Emanuel,Position Coach - Defense,Atlanta Falcons,2022,0.3990767872613734
+896,Dave Merritt,Position Coach - Defense,Kansas City Chiefs,2025,0.3990759350826001
+1929,"Jack Bicknell, Jr.",Position Coach - Offense,Miami Dolphins,2015,0.3990665025295104
+2073,Tracy Simien,Position Coach - Defense,Houston Texans,2006,0.39906253104753425
+1271,Greg Adkins,Position Coach - Offense,Buffalo Bills,2014,0.39905595638035946
+498,John Settle,Position Coach - Offense,Cleveland Browns,2013,0.39905499089680907
+627,Klayton Adams,Coordinator,Dallas Cowboys,2025,0.3990501803706665
+1848,Cory Robinson,Specialist Coach,Jacksonville Jaguars,2024,0.39904894664296386
+1947,John Glenn,Position Coach - Defense,Las Vegas Raiders,2025,0.39904197195159813
+2036,Butch Barry,Position Coach - Offense,Miami Dolphins,2025,0.39902965647282773
+1481,Nick Eason,Position Coach - Defense,Cincinnati Bengals,2020,0.3990196502791974
+2072,Mike London,Position Coach - Defense,Houston Texans,2005,0.3990108948732587
+1367,Warren Belin,Position Coach - Defense,Carolina Panthers,2012,0.3990084312534185
+2329,Mike Bajakian,Position Coach - Offense,Tampa Bay Buccaneers,2018,0.3990020336830023
+885,Peter Badovinac,Position Coach - Offense,Arizona Cardinals,2019,0.39900039755531913
+1629,Michael Wilhoite,Position Coach - Defense,Denver Broncos,2024,0.3989982019018556
+2011,Rob Calabrese,Specialist Coach,Los Angeles Rams,2025,0.39899691398489007
+1687,Brian Picucci,Position Coach - Offense,Tampa Bay Buccaneers,2025,0.39899530821943685
+2319,Bryan McClendon,Position Coach - Offense,Tampa Bay Buccaneers,2025,0.39899530821943685
+2320,Jeff Kastl,Position Coach - Offense,Tampa Bay Buccaneers,2025,0.39899530821943685
+2324,Thad Lewis,Position Coach - Offense,Tampa Bay Buccaneers,2025,0.39899530821943685
+64,Hubbard Alexander,Position Coach - Offense,New Orleans Saints,2003,0.39899326686127434
+513,Matt Feeney,Position Coach - Defense,Arizona Cardinals,2025,0.39898398745765623
+282,Carl Hairston,Position Coach - Defense,Green Bay Packers,2008,0.39898034884716677
+1022,Kevin Koger,Position Coach - Offense,Atlanta Falcons,2025,0.39897861577059235
+355,Mike Archer,Position Coach - Defense,Pittsburgh Steelers,2002,0.39897653257255544
+1487,Marcus Lewis,Position Coach - Defense,Las Vegas Raiders,2024,0.39897611590115195
+1957,Ricky Manning,Position Coach - Defense,Las Vegas Raiders,2024,0.39897611590115195
+1958,Cameron Clemmons,Position Coach - Offense,San Francisco 49ers,2025,0.39897210436418695
+686,Cary Godette,Position Coach - Defense,Arizona Cardinals,2003,0.39896986972551923
+2093,Dave Campo and Dick Nolan,Position Coach - Defense,Dallas Cowboys,1990,0.39896746670125444
+1862,Charlie Strong,Position Coach - Defense,Tampa Bay Buccaneers,2025,0.3989667415460869
+2230,Miles Austin,Position Coach - Offense,New York Jets,2021,0.3989663028353308
+1084,Bobby April,Coordinator,Tennessee Titans,2016,0.3989650702603591
+195,Bill Meyers,Position Coach - Offense,New Orleans Saints,1999,0.39896290987677224
+1657,David Shaw,Coordinator,Detroit Lions,2025,0.3989609282734039
+1024,Michael Pitre,Position Coach - Offense,Atlanta Falcons,2025,0.39895989568233947
+1201,Sterling Lucas,Position Coach - Defense,Jacksonville Jaguars,2021,0.3989588699895825
+1867,Zach Orr,Position Coach - Defense,Jacksonville Jaguars,2021,0.3989588699895825
+1151,Andrew Weidinger,Position Coach - Offense,Tampa Bay Buccaneers,2018,0.39895647562633824
+2047,Joe Kasper,Position Coach - Defense,Philadelphia Eagles,2025,0.3989539275680991
+2151,Charles Coe,Position Coach - Offense,Las Vegas Raiders,2007,0.39894356486189825
+1335,Frank Okam,Position Coach - Defense,Houston Texans,2025,0.39893893519705387
+1225,Marcus West,Position Coach - Defense,Buffalo Bills,2025,0.39893134914581435
+2023,Jim Colletto,Coordinator,Detroit Lions,2008,0.3989246946567784
+349,Henry Ellard,Position Coach - Offense,New Orleans Saints,2014,0.3989228317018434
+2222,Shaq Wilson,Position Coach - Defense,New York Jets,2024,0.39891785032180144
+534,Wes Chandler,Position Coach - Offense,Cleveland Browns,2008,0.3989169648876327
+1649,Phil Rauscher,Position Coach - Offense,Jacksonville Jaguars,2024,0.39890553981610544
+2070,Jordan Traylor,Coordinator,Minnesota Vikings,2025,0.39890084954138544
+1429,Zach Azzanni,Position Coach - Offense,Pittsburgh Steelers,2025,0.39890009222005113
+172,Mike Gillhamer,Position Coach - Defense,Indianapolis Colts,2015,0.39889212910226024
+1965,Lemuel Jeanpierre,Position Coach - Offense,Miami Dolphins,2025,0.39888999080354665
+2035,Austin Clark,Position Coach - Defense,Miami Dolphins,2025,0.39888704937788316
+2040,Mathieu Araujo,Position Coach - Defense,Miami Dolphins,2025,0.39888704937788316
+1970,Rod Woodson,Position Coach - Defense,Las Vegas Raiders,2017,0.3988708842016169
+1572,Lunda Wells,Position Coach - Offense,Dallas Cowboys,2025,0.3988683625138383
+1968,Brent Vieselmeyer,Position Coach - Defense,Las Vegas Raiders,2017,0.39886442326858534
+2375,Tim Rattay,Position Coach - Offense,Washington Commanders,2019,0.3988640275166921
+530,Randy Melvin,Position Coach - Defense,Tampa Bay Buccaneers,2013,0.39886352874540015
+2064,Bruce Matthews,Position Coach - Offense,Tennessee Titans,2013,0.3988632009386719
+2037,DeShawn Shead,Position Coach - Defense,Miami Dolphins,2025,0.39886138914711394
+1616,Jamar Cain,Position Coach - Defense,Denver Broncos,2025,0.3988576792929794
+2039,Kynjee Cotton,Position Coach - Defense,Miami Dolphins,2025,0.3988498077364751
+2391,Kevin Wolthausen,Position Coach - Defense,Atlanta Falcons,2007,0.39884764151934765
+938,Charlie Williams,Position Coach - Offense,Indianapolis Colts,2015,0.3988440601285266
+832,Steve Watson,Position Coach - Offense,Denver Broncos,2006,0.3988311883810595
+1790,Alex Tanney,Coordinator,Indianapolis Colts,2025,0.3988292338508124
+302,John Ramsdell,Specialist Coach,Carolina Panthers,2014,0.39882797370737366
+1704,Ben Sirmans,Position Coach - Offense,Green Bay Packers,2025,0.39882679717515995
+1464,Dan Pitcher,Coordinator,Cincinnati Bengals,2025,0.39882145074129643
+2113,Charley Taylor,Position Coach - Offense,Washington Commanders,1991,0.3988157717142676
+2119,Jim Hanifan and Rennie Simmons,Position Coach - Offense,Washington Commanders,1991,0.3988157717142676
+296,Mike Wilson,Position Coach - Offense,Cleveland Browns,2012,0.3988091898560923
+1710,DeMarcus Covington,Coordinator,Green Bay Packers,2025,0.39880876489124795
+1313,Keli'i Kekuewa,Specialist Coach,Jacksonville Jaguars,2025,0.39880696579262526
+487,Tim Krumrie,Position Coach - Defense,Kansas City Chiefs,2009,0.39879896905036843
+1375,Jeremy Garrett,Position Coach - Defense,Chicago Bears,2025,0.3987939117346973
+326,Floyd Reese,Position Coach - Defense,Tennessee Titans,1989,0.3987926683309549
+952,Doug Shively,Position Coach - Defense,Tennessee Titans,1989,0.3987926404462047
+863,Charlie Baggett,Position Coach - Offense,Los Angeles Rams,2009,0.3987894433829419
+2269,Eddie Faulkner,Position Coach - Offense,Pittsburgh Steelers,2025,0.398784170039149
+2270,Isaac Williams,Position Coach - Offense,Pittsburgh Steelers,2025,0.398784170039149
+1632,Andre Carter,Specialist Coach,Las Vegas Raiders,2024,0.39878302439095314
+929,David Diaz–Infante,Position Coach - Offense,Los Angeles Chargers,2020,0.39877952631033525
+402,Mark Whipple,Position Coach - Offense,Cleveland Browns,2012,0.39877809320040375
+2012,Ron Gould,Position Coach - Offense,Los Angeles Rams,2025,0.3987766942343857
+2015,Zak Kromer,Position Coach - Offense,Los Angeles Rams,2025,0.3987766942343857
+1470,Justin Rascati,Coordinator,Cincinnati Bengals,2025,0.3987754042558758
+636,Bob Leahy,Coordinator,Buffalo Bills,1986,0.3987740839818222
+730,Terry Fontenot,Position Coach - Offense,Green Bay Packers,2015,0.3987724146816954
+1135,Pete Jenkins,Position Coach - Defense,Philadelphia Eagles,2008,0.39877225393823973
+44,Ed Beard,Coordinator,New Orleans Saints,1980,0.3987695457925217
+2280,Carnell Lake,Position Coach - Defense,Pittsburgh Steelers,2017,0.398766069342722
+1324,Mike Siravo,Position Coach - Defense,Minnesota Vikings,2025,0.3987659590151289
+2311,Ryan Grubb,Coordinator,Seattle Seahawks,2024,0.39876370051141047
+185,John Bunting,Position Coach - Defense,New Orleans Saints,2000,0.3987632049122904
+122,Earl Leggett,Position Coach - Defense,Washington Commanders,1999,0.39875657070553827
+1850,Greg Austin,Position Coach - Offense,Philadelphia Eagles,2025,0.39875441132865336
+2234,Daylon McCutcheon,Position Coach - Defense,New York Jets,2017,0.39875051845156967
+2007,George McDonald,Position Coach - Offense,Cleveland Browns,2010,0.39874529917242724
+2013,Scott Huff,Position Coach - Offense,Los Angeles Rams,2025,0.3987440149436563
+500,Kirk Ferentz,Position Coach - Offense,Baltimore Ravens,1997,0.39874015608682417
+727,Safeties – Darren Perry,Position Coach - Defense,Green Bay Packers,2011,0.39873954683854734
+631,Spencer Whipple,Position Coach - Offense,Jacksonville Jaguars,2025,0.398731852468498
+1743,Jerry Schuplinski,Specialist Coach,Houston Texans,2025,0.39873177514248764
+2008,Cris Dishman,Position Coach - Defense,Los Angeles Chargers,2012,0.39872090326314963
+827,Leon Fuller,Position Coach - Defense,Denver Broncos,1994,0.39871898483979634
+1994,Tom Arth,Position Coach - Offense,Pittsburgh Steelers,2025,0.3987146815753162
+1431,John Dunn,Position Coach - Offense,Green Bay Packers,2025,0.3987138183611143
+1159,Paul Dunn,Position Coach - Offense,Houston Texans,2014,0.39871262395172963
+1354,Curtis Fuller,Position Coach - Defense,Carolina Panthers,2017,0.39871210534547646
+283,Jason Verduzco,Position Coach - Offense,Kansas City Chiefs,2005,0.39871197642415757
+1680,Bo Davis,Position Coach - Defense,New Orleans Saints,2025,0.3987055759231466
+1733,Steve Marshall,Position Coach - Offense,Miami Dolphins,2020,0.3987036194502631
+2384,Bob Wiley,Position Coach - Offense,Chicago Bears,2001,0.3986997206005007
+1495,Luke Butkus,Position Coach - Offense,Green Bay Packers,2025,0.398694474021229
+1231,Matt Edwards,Position Coach - Defense,Jacksonville Jaguars,2025,0.39869338804079774
+1966,Marco Coleman,Position Coach - Defense,Las Vegas Raiders,2018,0.3986912353171353
+1378,Kevin Koch,Position Coach - Defense,Chicago Bears,2025,0.3986883175157702
+1380,Matt Giordano,Position Coach - Defense,Chicago Bears,2025,0.3986883175157702
+313,Larry Seiple,Position Coach - Offense,Miami Dolphins,1997,0.39868701761062036
+794,Vic Rapp,Position Coach - Offense,Arizona Cardinals,2000,0.39868701761062036
+2203,Burton Burns,Position Coach - Offense,New York Giants,2021,0.3986854494999325
+1292,Mark Carrier,Position Coach - Defense,Cincinnati Bengals,2015,0.39868333213455714
+16,Dan Neal,Position Coach - Offense,Buffalo Bills,2002,0.39867371404273677
+2179,Brian Young,Position Coach - Defense,New Orleans Saints,2025,0.3986619858737525
+1900,Chris Mosley,Position Coach - Offense,Miami Dolphins,2013,0.3986588110483838
+2332,Nate Kaczor,Coordinator,Washington Commanders,2023,0.39865645108165987
+100,Eddie Khayat,Position Coach - Defense,Tampa Bay Buccaneers,1993,0.39865147577800625
+2178,Adam Gristick,Position Coach - Defense,New Orleans Saints,2025,0.3986489597332488
+2183,Peter Sirmon,Position Coach - Defense,New Orleans Saints,2025,0.3986489597332488
+689,Trent Walters,Position Coach - Defense,Philadelphia Eagles,2007,0.39864400390899096
+150,Dan Radakovich,Position Coach - Offense,Los Angeles Rams,1995,0.39863625703016936
+2122,signed with the Detroit Lions,Position Coach - Defense,Pittsburgh Steelers,2010,0.39863279301574633
+915,Nolan Cromwell,Specialist Coach,Cleveland Browns,2012,0.3986181693442499
+2299,Scott Brown,Position Coach - Defense,San Francisco 49ers,2015,0.3986175514280439
+1104,Dave Brock,Position Coach - Offense,Atlanta Falcons,2021,0.39861468968034103
+625,Derrick LeBlanc,Position Coach - Defense,Jacksonville Jaguars,2025,0.39861149392992684
+1406,David Walker,Position Coach - Offense,Chicago Bears,2022,0.3986082307651422
+2000,Mark Ridgley,Position Coach - Offense,Los Angeles Chargers,2020,0.39860499158276036
+916,Clayton Lopez,Position Coach - Defense,Los Angeles Rams,2011,0.39860403357036195
+1879,Randy Shannon,Position Coach - Defense,Miami Dolphins,2000,0.39859807585135715
+866,Jeff Horton,Position Coach - Offense,Detroit Lions,2009,0.3985980519287092
+577,Doc Urich,Position Coach - Offense,Denver Broncos,1985,0.3985968094160564
+925,Mike Phair,Position Coach - Defense,Carolina Panthers,2020,0.39859448819733845
+1108,Bob Kronenberg,Position Coach - Offense,Atlanta Falcons,2020,0.39859167352013714
+2390,Chris Dalman,Position Coach - Offense,Atlanta Falcons,2006,0.3985878763372428
+2397,Matt Simon,Position Coach - Offense,Baltimore Ravens,2005,0.39858309356119886
+1814,Paul Ferraro,Position Coach - Defense,Los Angeles Rams,2011,0.3985786728217988
+17,Harold Jackson,Position Coach - Offense,New Orleans Saints,1999,0.39857135690807527
+908,Kevin Ross,Position Coach - Defense,Tampa Bay Buccaneers,2025,0.3985702190985136
+1336,Frisman Jackson,Position Coach - Offense,Seattle Seahawks,2025,0.3985673530718064
+865,Mouse Davis,Position Coach - Offense,Atlanta Falcons,1996,0.39856371253907313
+723,Hank Kuhlmann,Position Coach - Offense,Arizona Cardinals,1999,0.39856259707041014
+1594,Greg Jackson,Position Coach - Defense,Houston Texans,2021,0.3985613142695614
+932,Craig Johnson,Position Coach - Offense,New York Giants,2019,0.39855929561561854
+1277,Thad Bogardus,Position Coach - Defense,Minnesota Vikings,2025,0.3985551320783665
+1721,Anthony Perkins,Position Coach - Defense,Jacksonville Jaguars,2025,0.39855450105519763
+1840,Drew Lascari,Position Coach - Defense,Jacksonville Jaguars,2025,0.39855450105519763
+1845,Kevin Wilkins,Position Coach - Defense,Jacksonville Jaguars,2025,0.39855450105519763
+2365,Tavita Pritchard,Position Coach - Offense,Washington Commanders,2025,0.39855293341463005
+1695,Bradford Banta,Coordinator,New Orleans Saints,2018,0.39854992049605165
+1611,Addison Lynch,Position Coach - Defense,Denver Broncos,2025,0.39854519912349534
+34,Jimmy Robinson,Specialist Coach,Dallas Cowboys,2015,0.3985436541647418
+1684,Chris White,Position Coach - Offense,Detroit Lions,2019,0.39854323048612633
+1740,Dino Vasso,Position Coach - Defense,Houston Texans,2025,0.39853871649490497
+188,Deek Pollard,Position Coach - Defense,Arizona Cardinals,2005,0.39853838913791234
+1480,Jim Turner,Position Coach - Offense,Cincinnati Bengals,2020,0.3985375233904966
+301,Joe Greene,Position Coach - Defense,Arizona Cardinals,2003,0.39853227831721255
+2315,Austin Davis,Position Coach - Offense,Seattle Seahawks,2021,0.3985315074959403
+1615,Isaac Shewmaker,Position Coach - Defense,Denver Broncos,2025,0.3985308863856847
+1617,Jeff Schmedding,Position Coach - Defense,Denver Broncos,2025,0.3985308863856847
+2226,Greg Scruggs,Position Coach - Defense,San Francisco 49ers,2025,0.3985288539133421
+2386,Brick Haley,Position Coach - Defense,Chicago Bears,2008,0.3985268035170156
+1761,Matt O'Donnell,Position Coach - Defense,Miami Dolphins,2025,0.3985230148291805
+2207,Rob Sale,Position Coach - Offense,New York Giants,2021,0.398520332090436
+2078,Michael Hutchings,Position Coach - Defense,Minnesota Vikings,2025,0.39852016418183545
+2079,Patrick Hill,Position Coach - Defense,Minnesota Vikings,2025,0.39852016418183545
+812,Richard Selcer,Position Coach - Defense,Detroit Lions,2002,0.39851881262926175
+620,Matt Weiss,Position Coach - Offense,Baltimore Ravens,2020,0.39851856845650085
+86,Bob Trott,Specialist Coach,Cleveland Browns,2008,0.3985164666561683
+993,Ron Aiken,Position Coach - Defense,Arizona Cardinals,2012,0.39851452122483927
+338,Lionel Taylor,Position Coach - Offense,Cleveland Browns,1990,0.3985140909836156
+2061,Ken O'Keefe,Specialist Coach,Miami Dolphins,2015,0.3985105457101193
+706,Danny Smith,Coordinator,Pittsburgh Steelers,2025,0.39851038380079534
+233,Willie Peete,Position Coach - Offense,Chicago Bears,1997,0.3985100599017537
+1247,Bill Teerlinck,Position Coach - Defense,Buffalo Bills,2019,0.39850862592009834
+910,Nick Rapone,Position Coach - Defense,Tampa Bay Buccaneers,2025,0.39850608210076194
+1062,Shawn Flaherty,Position Coach - Offense,Atlanta Falcons,2024,0.39850567777353113
+1213,Robert Nickens,Position Coach - Offense,New York Giants,2008,0.3985051227096166
+1268,Eric Price,Position Coach - Offense,Kansas City Chiefs,2008,0.3985051227096166
+335,Dick Selcer,Position Coach - Defense,Los Angeles Rams,1996,0.39849495007473323
+1387,Dave Borgonzi,Position Coach - Defense,Dallas Cowboys,2025,0.3984943134902225
+1472,Derek Frazier,Position Coach - Offense,Cincinnati Bengals,2024,0.39849365513857754
+1679,Billy Yates,Position Coach - Offense,New England Patriots,2023,0.3984935801034506
+1642,Nathaniel Willingham,Position Coach - Defense,New York Jets,2025,0.3984934998305362
+2009,Joe Coniglio,Position Coach - Defense,Los Angeles Rams,2025,0.3984930339581774
+2190,Leigh Torrence,Position Coach - Defense,New York Jets,2020,0.3984902281435661
+830,Jimmy Spencer,Position Coach - Defense,Denver Broncos,2006,0.3984893746456741
+1450,A.J. Christoff,Position Coach - Defense,San Francisco 49ers,2005,0.39848847527842995
+997,D. J. Williams,Position Coach - Offense,Atlanta Falcons,2025,0.39848365704665917
+1027,Nick Jones,Position Coach - Offense,Atlanta Falcons,2025,0.39848365704665917
+2256,Nathan Ollie,Position Coach - Defense,Philadelphia Eagles,2019,0.3984808926462637
+2257,Phillip Daniels,Position Coach - Defense,Philadelphia Eagles,2019,0.3984808926462637
+1239,Jim Salgado,Position Coach - Defense,Buffalo Bills,2022,0.39848033009811407
+1866,Tyler Brown,Specialist Coach,Philadelphia Eagles,2022,0.3984757350159465
+923,Mike DeBord,Position Coach - Offense,Chicago Bears,2012,0.3984756522368167
+1152,Chris Scelfo,Position Coach - Offense,Atlanta Falcons,2014,0.3984739697518047
+1153,Gerald Brown,Position Coach - Offense,Atlanta Falcons,2014,0.3984739697518047
+1886,Kirby Smart,Position Coach - Defense,Miami Dolphins,2006,0.39846582226888216
+1327,Matt Lombardi,Specialist Coach,Las Vegas Raiders,2023,0.3984657818496004
+1009,Rick Courtright,Position Coach - Defense,Arizona Cardinals,2010,0.3984656878253974
+1538,Ryan Lindley,Position Coach - Offense,Cleveland Browns,2019,0.3984652772575281
+1042,Richard Solomon,Position Coach - Defense,Arizona Cardinals,2006,0.39846275782072427
+1823,Brad White,Position Coach - Defense,Indianapolis Colts,2017,0.39846107172538897
+1801,Scott Milanovich,Position Coach - Offense,Indianapolis Colts,2022,0.3984610031688777
+1927,Britt Reid,Position Coach - Defense,Kansas City Chiefs,2020,0.39846082918983877
+1901,Steve Logan,Position Coach - Offense,San Francisco 49ers,2015,0.398459697326668
+1716,Ryan Mahaffey,Position Coach - Offense,Green Bay Packers,2025,0.39845964843550635
+1683,Tyrone McKenzie,Specialist Coach,Las Vegas Raiders,2025,0.3984591505548168
+1321,Robert Kugler,Position Coach - Offense,New England Patriots,2025,0.3984590506648145
+43,Tom Pratt,Specialist Coach,Arizona Cardinals,2017,0.3984572741397609
+1219,Jahmile Addae,Position Coach - Defense,Buffalo Bills,2025,0.3984572413456697
+2034,Frank Leonard,Position Coach - Offense,Los Angeles Rams,2011,0.39845516607086906
+700,Pat Thomas,Position Coach - Defense,Buffalo Bills,2002,0.39845449381635994
+1800,Kevin Mawae,Position Coach - Offense,Indianapolis Colts,2022,0.3984460345980203
+1132,Otis Smith,Specialist Coach,Kansas City Chiefs,2012,0.39844572868149514
+343,Nick Aliotti,Position Coach - Defense,Los Angeles Rams,1995,0.3984439221650722
+1705,Connor Lewis,Specialist Coach,Green Bay Packers,2025,0.3984439053224978
+2400,Phil Zacharias,Specialist Coach,Baltimore Ravens,2004,0.39844174486380446
+1284,Charles Huff,Position Coach - Offense,Buffalo Bills,2012,0.3984380492421636
+741,James Franklin,Position Coach - Offense,Green Bay Packers,2005,0.3984375075130808
+1870,Dwayne Stukes,Specialist Coach,Jacksonville Jaguars,2020,0.39843671426262656
+1851,Matt House,Specialist Coach,Kansas City Chiefs,2025,0.39843505902196136
+491,Steve Mooshagian,Position Coach - Offense,Cincinnati Bengals,2002,0.39843375457889435
+1846,Shaun Sarrett,Position Coach - Offense,Jacksonville Jaguars,2025,0.3984335071444249
+2385,Lloyd Lee,Position Coach - Defense,Chicago Bears,2008,0.39843088017446476
+2202,Anthony Blevins,Position Coach - Defense,New York Giants,2021,0.3984294150223768
+2206,Kevin Sherrer,Position Coach - Defense,New York Giants,2021,0.3984294150223768
+2209,Sean Spencer,Position Coach - Defense,New York Giants,2021,0.3984294150223768
+1795,Justin Hamilton,Position Coach - Defense,New England Patriots,2025,0.39842885441730735
+1926,Sam Madison,Specialist Coach,Miami Dolphins,2023,0.398426889199279
+257,Jackie Simpson,Position Coach - Defense,Seattle Seahawks,1982,0.3984240730395912
+1576,Tiquan Underwood,Position Coach - Offense,Dallas Cowboys,2025,0.3984205679587511
+2153,Tyler Hughes,Position Coach - Offense,New England Patriots,2024,0.3984205679587511
+2288,Leonard Hankerson,Specialist Coach,San Francisco 49ers,2025,0.3984184998175808
+2293,Brian Griese,Position Coach - Offense,San Francisco 49ers,2024,0.3984184998175808
+1449,Mikal Smith,Position Coach - Defense,Tampa Bay Buccaneers,2015,0.39841703566938586
+2335,Hardy Nickerson,Position Coach - Defense,Tampa Bay Buccaneers,2015,0.39841703566938586
+1008,Thom Kaumeyer,Position Coach - Defense,Jacksonville Jaguars,2011,0.3984162855846444
+53,John Levra,Position Coach - Defense,Buffalo Bills,2002,0.39841435057765134
+701,Miles Aldridge,Position Coach - Defense,Buffalo Bills,2002,0.39841435057765134
+2300,Jim Leavitt,Position Coach - Defense,San Francisco 49ers,2014,0.3984089971415756
+414,Michael Barnes,Position Coach - Defense,San Francisco 49ers,1999,0.39840758438379914
+1330,Phil Snow,Coordinator,Carolina Panthers,2021,0.3984057817548187
+1552,Chuck Driesbach,Position Coach - Defense,Cleveland Browns,2015,0.3984035446765645
+2041,Dick Curl,Position Coach - Offense,Los Angeles Rams,2010,0.398403478606616
+1640,Chris Kuper,Position Coach - Offense,Minnesota Vikings,2025,0.39840227100043424
+433,Doug Scovil,Position Coach - Offense,Philadelphia Eagles,1989,0.39840209437086255
+2031,Paul T Boudreau,Coordinator,Los Angeles Rams,2015,0.3983991926183055
+1894,Tony Sorrentino,Position Coach - Offense,Minnesota Vikings,2025,0.39839426837695885
+995,Chris Miller,Position Coach - Offense,Arizona Cardinals,2011,0.39839341269540424
+1805,John Tice,Position Coach - Offense,Minnesota Vikings,2005,0.3983926542974403
+15,Dick Stanfel,Position Coach - Offense,New Orleans Saints,1998,0.3983902093121852
+401,Matt Raich,Position Coach - Defense,Indianapolis Colts,2025,0.3983901433335844
+1249,Terry Heffernan,Position Coach - Offense,Buffalo Bills,2019,0.398389979287179
+994,Tommie Robinson,Position Coach - Offense,Arizona Cardinals,2012,0.3983875627798567
+1844,John Van Dam,Specialist Coach,Jacksonville Jaguars,2025,0.3983869124477685
+2327,Thaddeus Lewis,Position Coach - Offense,Tampa Bay Buccaneers,2022,0.3983869124477685
+599,Dick Roach,Position Coach - Defense,Seattle Seahawks,2000,0.39838373603819965
+2029,Chris Weinke,Position Coach - Offense,Los Angeles Rams,2016,0.39838274932640566
+2030,Kenan Smith,Position Coach - Offense,Los Angeles Rams,2016,0.39838274932640566
+475,Louie Cioffi,Specialist Coach,Cincinnati Bengals,2024,0.39838040786846834
+1501,Brandon Lynch,Position Coach - Defense,Cleveland Browns,2025,0.39837571920146847
+1089,Mario Jeberaeel,Specialist Coach,Jacksonville Jaguars,2025,0.39837273728560607
+1959,Carmen Bricillo,Position Coach - Offense,New York Giants,2025,0.3983706087221492
+1407,James Rowe,Position Coach - Defense,Chicago Bears,2022,0.39836833055537463
+490,Frank Verducci,Specialist Coach,Cleveland Browns,2008,0.39836338457895426
+1491,Brian Schneider,Coordinator,San Francisco 49ers,2024,0.39836324992067995
+1997,Jim Chaney,Position Coach - Offense,Los Angeles Rams,2007,0.3983607478247723
+1998,Wayne Moses,Position Coach - Offense,Los Angeles Rams,2007,0.3983607478247723
+14,Judd Garrett,Position Coach - Offense,Los Angeles Rams,2007,0.3983607478247723
+1112,Doug Mallory,Position Coach - Defense,Baltimore Ravens,2024,0.3983593092128986
+913,Kasey Dunn,Position Coach - Offense,Seattle Seahawks,2009,0.39835604542958536
+1318,John Lilly,Position Coach - Offense,Carolina Panthers,2023,0.39835473729030396
+517,Bobby DePaul,Specialist Coach,Cincinnati Bengals,1996,0.3983532415512019
+585,Kennedy Polamalu,Position Coach - Offense,Seattle Seahawks,2025,0.3983520574888016
+2393,Mike Summers,Position Coach - Offense,Atlanta Falcons,2007,0.3983520375828356
+2394,Paul Petrino,Position Coach - Offense,Atlanta Falcons,2007,0.3983520375828356
+809,Ryan Slowik,Specialist Coach,Miami Dolphins,2025,0.3983517924368864
+1370,Cannon Matthews,Specialist Coach,Chicago Bears,2025,0.3983513257023476
+1344,Jerricho Cotchery,Position Coach - Offense,Carolina Panthers,2019,0.3983510072549199
+1540,Blake Williams,Position Coach - Defense,Cleveland Browns,2018,0.39834956431010177
+793,John Fontes,Position Coach - Defense,Minnesota Vikings,2000,0.3983491522576971
+1933,"Kevin Gilbride, Jr.",Position Coach - Offense,New York Giants,2015,0.3983466216639114
+1544,Ken Delgado,Position Coach - Defense,Cleveland Browns,2018,0.39834654303988387
+510,Nick Rallis,Coordinator,Arizona Cardinals,2025,0.39834454264017943
+843,Bobby Williams,Position Coach - Offense,Miami Dolphins,2006,0.3983444727979184
+862,Chuck Knox Jr.,Position Coach - Defense,Minnesota Vikings,2004,0.3983443772833799
+2167,Troy Brown,Specialist Coach,New York Giants,2025,0.3983422224780788
+2168,Vinnie Sunseri,Position Coach - Offense,New England Patriots,2023,0.3983422224780788
+1229,Chris Tabor,Coordinator,Buffalo Bills,2025,0.3983387513826562
+135,Lamar Leachman,Position Coach - Defense,Detroit Lions,1994,0.39833825346017404
+1120,Bryant Young,Position Coach - Defense,Atlanta Falcons,2018,0.3983381517674898
+2235,Marcel Shipp,Position Coach - Offense,New York Jets,2016,0.3983379713261989
+2279,Joey Porter,Position Coach - Defense,Pittsburgh Steelers,2018,0.3983379713261989
+2200,Michael Treier,Position Coach - Defense,New York Giants,2024,0.3983373957780593
+2395,Jeff Rutledge,Position Coach - Offense,Arizona Cardinals,2007,0.3983360503590773
+375,Fred von Appen,Coordinator,New York Giants,2001,0.3983353571767696
+2099,Terence Newman,Position Coach - Defense,Minnesota Vikings,2018,0.39833281908465495
+18,Lary Kuharich,Position Coach - Offense,New Orleans Saints,1999,0.3983325659312101
+1226,Mike Pellegrino,Position Coach - Defense,Buffalo Bills,2025,0.3983321141441942
+1525,Chris Kiffin,Position Coach - Defense,Houston Texans,2023,0.39833205503245644
+1342,Marcus Satterfield,Position Coach - Offense,Carolina Panthers,2020,0.398331990626132
+1910,Ron Heller,Position Coach - Offense,New York Jets,2015,0.3983315136777985
+1206,John Egorugwu,Position Coach - Defense,New York Giants,2025,0.3983304016430671
+1309,Will Harriger,Position Coach - Offense,Carolina Panthers,2025,0.39832758777813454
+1731,Alvis Whitted,Position Coach - Offense,Green Bay Packers,2019,0.39832504117354706
+1039,Carl Hargrave,Position Coach - Offense,Arizona Cardinals,2006,0.39832228429750005
+922,Bill Laveroni,Position Coach - Offense,Seattle Seahawks,2007,0.39832099260808507
+1921,Terry Bradden,Position Coach - Defense,Kansas City Chiefs,2024,0.3983205405043329
+2333,Chad Carson,Position Coach - Defense,Tampa Bay Buccaneers,2017,0.3983158062734536
+204,Sam Boghosian,Position Coach - Offense,Las Vegas Raiders,1985,0.39831449632662586
+206,Ray Willsey,Position Coach - Offense,Las Vegas Raiders,1985,0.39831449632662586
+768,Diron Reynolds,Position Coach - Defense,Minnesota Vikings,2013,0.3983133752256491
+2382,Vance Bedford,Position Coach - Defense,Chicago Bears,2003,0.39831198428680503
+306,Lynn Stiles,Position Coach - Offense,Los Angeles Rams,1999,0.39831108161155715
+2192,Mike Neu,Position Coach - Offense,New Orleans Saints,2015,0.39831050228376824
+1911,Alex Whittingham,Position Coach - Defense,Kansas City Chiefs,2025,0.39831048280356524
+1917,Rod Wilson,Position Coach - Defense,Kansas City Chiefs,2025,0.39831048280356524
+1440,Michael Sinclair,Position Coach - Defense,Chicago Bears,2013,0.39830947578391357
+1441,Tim Tibesar,Position Coach - Defense,Chicago Bears,2013,0.39830947578391357
+234,Pete McCulley,Position Coach - Offense,Kansas City Chiefs,1986,0.3983081499854799
+372,Norb Hecker,Position Coach - Defense,San Francisco 49ers,1986,0.3983081499854799
+1242,Jacques Cesaire,Position Coach - Defense,Cleveland Browns,2025,0.39830799274695905
+2377,Torrian Gray,Position Coach - Defense,Washington Commanders,2018,0.3983062526764512
+1442,Andrew Hayes–Stoker,Specialist Coach,San Francisco 49ers,2025,0.3983060606453528
+217,Frank Falks,Position Coach - Offense,Detroit Lions,2000,0.3983025047196749
+1754,Kenyon Jackson,Position Coach - Defense,Las Vegas Raiders,2025,0.3983017647906157
+134,Len Fontes,Position Coach - Defense,Detroit Lions,1991,0.398299903420637
+2326,Lori Locust,Specialist Coach,Tennessee Titans,2025,0.39829882709398645
+209,Dwain Painter,Position Coach - Offense,Los Angeles Chargers,1996,0.39829878217247483
+1388,David Overstreet II,Position Coach - Defense,Dallas Cowboys,2025,0.3982985224056788
+2062,Mike Wahle,Position Coach - Offense,Miami Dolphins,2015,0.3982977085694234
+2334,"Gill Byrd , Larry Marmie",Position Coach - Defense,Tampa Bay Buccaneers,2015,0.3982977085694234
+1113,Jess Simpson,Position Coach - Defense,Atlanta Falcons,2020,0.398296819004422
+1767,Wes Welker,Specialist Coach,Miami Dolphins,2024,0.39829670105522624
+1915,David Girardi,Position Coach - Offense,Kansas City Chiefs,2025,0.3982953000549545
+988,Chad Grimm,Position Coach - Defense,Washington Commanders,2019,0.3982940020978922
+1802,Tyrone Willingham,Position Coach - Offense,Minnesota Vikings,1994,0.3982932912808074
+1459,James Casey,Position Coach - Offense,Cincinnati Bengals,2025,0.39829298002667185
+1999,La'Roi Glover,Position Coach - Defense,Los Angeles Chargers,2020,0.39828987531535914
+1353,Lance Taylor,Position Coach - Offense,Carolina Panthers,2018,0.39828606914128795
+694,Steve Kragthorpe,Position Coach - Offense,Buffalo Bills,2002,0.39828499056936434
+696,Ronnie Vinklarek,Position Coach - Offense,Buffalo Bills,2002,0.39828499056936434
+477,Ricky Hunley,Position Coach - Defense,Las Vegas Raiders,2011,0.3982849835019815
+137,Pat Hodgson,Position Coach - Offense,New York Jets,1996,0.39828463717266116
+141,Bob Lord,Position Coach - Offense,New York Giants,1982,0.39828463717266116
+142,Bill Austin,Position Coach - Offense,New York Jets,1985,0.39828463717266116
+1109,Chad Walker,Position Coach - Defense,Atlanta Falcons,2020,0.3982838313816956
+1038,Mike Kruczek,Position Coach - Offense,Arizona Cardinals,2006,0.3982831407674475
+340,Steve Greatwood,Position Coach - Offense,Los Angeles Rams,1995,0.39828069706010577
+2196,James Ferentz,Position Coach - Offense,New York Giants,2025,0.3982795931099043
+1558,Ryan Downard,Position Coach - Defense,Green Bay Packers,2025,0.3982791016915037
+1806,Dean Dalton,Position Coach - Offense,Minnesota Vikings,2005,0.39827852256894986
+2272,David Corley,Position Coach - Offense,Pittsburgh Steelers,2023,0.39827764103284236
+345,Matt Sheldon,Position Coach - Defense,Minnesota Vikings,2011,0.3982768034836944
+776,Jim Dray,Position Coach - Offense,Chicago Bears,2025,0.398275604711668
+1873,Tim Davis,Position Coach - Offense,Miami Dolphins,2007,0.3982755173690242
+1922,Doug Plank,Position Coach - Defense,New York Jets,2009,0.39827537659654405
+1923,Kerry Locklin,Position Coach - Defense,New York Jets,2009,0.39827537659654405
+1935,Joe Blaymeir,Position Coach - Offense,Kansas City Chiefs,2018,0.3982704858268323
+1826,Derek Mason,Position Coach - Defense,Minnesota Vikings,2009,0.3982684203290638
+1390,Jason Houghtaling,Position Coach - Offense,Chicago Bears,2024,0.39826729444440767
+1469,Troy Walters,Position Coach - Offense,Cincinnati Bengals,2025,0.39826700478121907
+2116,Rudy Feldman,Position Coach - Defense,Arizona Cardinals,1985,0.39826690046343965
+1399,Justin Hinds,Position Coach - Defense,Seattle Seahawks,2025,0.39826474479542995
+2304,Chris Partridge,Position Coach - Defense,Seattle Seahawks,2025,0.39826474479542995
+502,Ben Steele,Position Coach - Offense,Arizona Cardinals,2025,0.39826433517310234
+1505,Ephraim Banda,Position Coach - Defense,Cleveland Browns,2025,0.3982633981486605
+2051,Steve Donatell,Position Coach - Defense,Tennessee Titans,2025,0.39826325346453956
+2197,Ladell Betts,Position Coach - Offense,New York Giants,2025,0.39826325346453956
+1518,Jordan Thomas,Position Coach - Defense,Cleveland Browns,2024,0.39826255169221514
+470,Charlie Davis,Position Coach - Offense,Indianapolis Colts,1997,0.3982620726560844
+1477,Ben Martin,Position Coach - Offense,Cincinnati Bengals,2022,0.39826164738271186
+676,Sam Mills III,Position Coach - Defense,Washington Commanders,2021,0.3982611868356596
+1362,Ricky Proehl,Position Coach - Offense,Carolina Panthers,2016,0.3982611868356596
+829,Kirk Doll,Position Coach - Defense,Denver Broncos,2006,0.39826075957798657
+2063,Blue Adams,Position Coach - Defense,Miami Dolphins,2014,0.3982606428376374
+1681,Steve Gregory,Position Coach - Defense,Miami Dolphins,2022,0.3982591539945424
+2146,Tony Dews,Position Coach - Offense,New England Patriots,2025,0.3982588263555473
+1942,Mike Zordich,Position Coach - Defense,Philadelphia Eagles,2012,0.39825698596845155
+1693,Ryan Silverfield,Position Coach - Offense,Detroit Lions,2015,0.3982569840784112
+385,Ron Blackledge,Position Coach - Offense,Indianapolis Colts,1997,0.3982564372559849
+788,Don Clemons,Specialist Coach,Detroit Lions,2011,0.3982555706699336
+2291,Robert Turner Jr,Position Coach - Offense,San Francisco 49ers,2025,0.3982553819080353
+1924,Noel Mazzone,Position Coach - Offense,New York Jets,2008,0.3982549755235569
+798,Charlie Sanders,Position Coach - Offense,Detroit Lions,1996,0.3982536331177526
+744,Brad Seely,Coordinator,Houston Texans,2019,0.3982530415534126
+1357,Richard Bisaccia,Coordinator,Tampa Bay Buccaneers,2010,0.39825269809010067
+1791,Reggie Wayne,Position Coach - Offense,Indianapolis Colts,2025,0.39825067201539827
+2337,Marcus Arroyo,Position Coach - Offense,Tampa Bay Buccaneers,2014,0.3982479282689971
+2338,Matt Wiegand,Position Coach - Offense,Tampa Bay Buccaneers,2014,0.3982479282689971
+1575,Steve Shimko,Position Coach - Offense,Dallas Cowboys,2025,0.39824711543718877
+985,Paul Moyer,Position Coach - Defense,Seattle Seahawks,1994,0.39824650260854666
+2054,Steve Ferentz,Position Coach - Defense,Miami Dolphins,2022,0.39824539421041777
+2094,Joe Brodsky,Position Coach - Offense,Chicago Bears,1998,0.398244928330959
+1154,Glenn Thomas,Specialist Coach,Pittsburgh Steelers,2023,0.3982441641043191
+1745,Rod Wright,Position Coach - Defense,Houston Texans,2025,0.39824364691533926
+1747,Stephen Adegoke,Position Coach - Defense,Houston Texans,2025,0.39824364691533926
+2216,Aaron Curry,Position Coach - Defense,New York Jets,2025,0.39824364691533926
+1794,Tom Manning,Position Coach - Offense,Indianapolis Colts,2025,0.3982435670160629
+1602,Rich Bisaccia,Coordinator,Green Bay Packers,2025,0.3982432236871167
+1788,DeAndre Smith,Position Coach - Offense,Indianapolis Colts,2025,0.3982432236871167
+1103,Chandler Henley,Specialist Coach,Miami Dolphins,2025,0.39824278497636073
+2342,Ron Cooper,Position Coach - Defense,Tampa Bay Buccaneers,2012,0.39824263706998275
+594,Gary Tranquill,Position Coach - Offense,Cleveland Browns,1992,0.39824221216244077
+2006,Byron Storer,Position Coach - Defense,Los Angeles Chargers,2013,0.3982419269739776
+2340,Robb Smith,Position Coach - Defense,Tampa Bay Buccaneers,2013,0.3982419269739776
+268,Chuck Clausen,Position Coach - Defense,Los Angeles Chargers,1991,0.39824177558900614
+957,Mike DuBose,Position Coach - Defense,Tampa Bay Buccaneers,1988,0.39824177558900614
+854,Virgil Knight,Position Coach - Offense,Green Bay Packers,1991,0.39824163981773747
+855,"Wayne ""Buddy"" Geis",Position Coach - Offense,Green Bay Packers,1991,0.39824163981773747
+1583,Ryan Feder,Position Coach - Offense,Dallas Cowboys,2024,0.3982408318597392
+1166,Daniel Stern,Position Coach - Offense,Baltimore Ravens,2025,0.398240235327383
+1174,Tee Martin,Position Coach - Offense,Baltimore Ravens,2025,0.398240235327383
+1179,Willie Taggart,Position Coach - Offense,Baltimore Ravens,2025,0.398240235327383
+2077,Josh McCown,Position Coach - Offense,Minnesota Vikings,2025,0.398240235327383
+2306,Mack Brown,Position Coach - Offense,Seattle Seahawks,2025,0.398240235327383
+2359,Darnell Stapleton,Position Coach - Offense,Washington Commanders,2025,0.398240235327383
+2360,David Blough,Position Coach - Offense,Washington Commanders,2025,0.398240235327383
+1454,Brad Kragthorpe,Position Coach - Offense,Cincinnati Bengals,2025,0.3982394852129696
+1463,Justin Hill,Position Coach - Offense,Cincinnati Bengals,2025,0.3982394852129696
+1195,Drew Wilkins,Specialist Coach,Los Angeles Rams,2025,0.398239319197921
+1437,Carson Walch,Position Coach - Offense,Philadelphia Eagles,2019,0.398239319197921
+2260,Gunter Brewer,Position Coach - Offense,Philadelphia Eagles,2018,0.398239319197921
+237,George DeLeone,Position Coach - Offense,Cleveland Browns,2015,0.39823930361823884
+506,Cristian Garcia,Position Coach - Defense,Arizona Cardinals,2025,0.39823918694679145
+634,Jim Niblack,Position Coach - Offense,Buffalo Bills,1984,0.3982390663795375
+641,Andy MacDonald,Position Coach - Offense,Buffalo Bills,1984,0.3982390663795375
+643,Al Sandahl,Position Coach - Offense,Buffalo Bills,1983,0.3982390663795375
+1643,Tom McMahon,Coordinator,Las Vegas Raiders,2024,0.3982390292567421
+1868,Chris O'Hara,Specialist Coach,Minnesota Vikings,2025,0.39823876371856876
+941,Bob Gambold,Position Coach - Defense,Tennessee Titans,1982,0.3982380117229743
+2108,Ralph Staub,Position Coach - Defense,Tennessee Titans,1983,0.3982380117229743
+2248,Michael Clay,Coordinator,Philadelphia Eagles,2024,0.3982379149170694
+1412,Chris Jackson,Position Coach - Offense,Jacksonville Jaguars,2022,0.39823789943453597
+601,Chuck Dickerson,Position Coach - Defense,Buffalo Bills,1991,0.3982376861141375
+1291,Brian Smith,Position Coach - Defense,Philadelphia Eagles,2015,0.3982370656961607
+2263,Rick Minter,Position Coach - Defense,Philadelphia Eagles,2015,0.3982370656961607
+2017,Keith Millard,Specialist Coach,Tennessee Titans,2013,0.3982369716964684
+1503,Christian Jones,Position Coach - Offense,Cleveland Browns,2025,0.3982360736250132
+255,Jerry Wampfler,Position Coach - Offense,Detroit Lions,1993,0.398235860269572
+719,Francis Peay,Position Coach - Defense,Indianapolis Colts,1993,0.398235860269572
+515,Patrick Toney,Position Coach - Defense,Arizona Cardinals,2025,0.3982357753588351
+604,Ryan Smith,Position Coach - Defense,Arizona Cardinals,2025,0.3982357753588351
+1787,Chris Watt,Position Coach - Offense,Indianapolis Colts,2025,0.3982357753588351
+1913,Connor Embree,Position Coach - Offense,Kansas City Chiefs,2025,0.3982357753588351
+1919,Todd Pinkston,Position Coach - Offense,Kansas City Chiefs,2025,0.3982357753588351
+1539,Tyler Tettleton,Position Coach - Offense,Jacksonville Jaguars,2025,0.3982353521306125
+1847,Andrew Breiner,Position Coach - Offense,Jacksonville Jaguars,2024,0.3982353521306125
+2233,Tim Atkins,Position Coach - Defense,Tampa Bay Buccaneers,2024,0.3982353521306125
+622,Max Bowman,Position Coach - Offense,Buffalo Bills,2000,0.398235257024988
+33,Danny Langsdorf,Position Coach - Offense,New York Giants,2014,0.3982347732087272
+1895,Frank Scelfo,Specialist Coach,Jacksonville Jaguars,2015,0.3982326692706614
+1896,Jerry Richardson,Position Coach - Offense,Jacksonville Jaguars,2014,0.3982326692706614
+1711,Eddie Gordon,Position Coach - Offense,Green Bay Packers,2025,0.3982320655047005
+1786,Charlie Partridge,Position Coach - Defense,Indianapolis Colts,2025,0.3982320655047005
+2022,Mike Barry,Position Coach - Offense,Detroit Lions,2008,0.3982315640462833
+2024,Pat Carter,Position Coach - Offense,Detroit Lions,2008,0.3982315640462833
+799,Ronnie Bradford,Specialist Coach,Kansas City Chiefs,2009,0.3982315640462833
+2243,Scot Loeffler,Position Coach - Offense,Philadelphia Eagles,2025,0.3982313199355334
+1316,Duce Staley ; fired on November 27,Position Coach - Offense,Carolina Panthers,2023,0.3982313153902872
+1319,Josh McCown ; fired on November 27,Position Coach - Offense,Carolina Panthers,2023,0.3982313153902872
+1349,Steve Russ,Position Coach - Defense,Washington Commanders,2023,0.3982313153902872
+1350,Vincent Rivera,Position Coach - Defense,Washington Commanders,2023,0.3982313153902872
+2362,Ryan Kerrigan,Specialist Coach,Washington Commanders,2025,0.3982313153902872
+2129,Paul Chryst,Position Coach - Offense,Los Angeles Chargers,2001,0.3982309964552832
+2130,Mike Sanford,Position Coach - Offense,Los Angeles Chargers,2001,0.3982309964552832
+1122,Kyle Flood,Position Coach - Offense,Atlanta Falcons,2018,0.39823091279709494
+2265,John Lovett,Position Coach - Defense,Philadelphia Eagles,2014,0.3982306688389883
+2266,Todd Lyght,Position Coach - Defense,Philadelphia Eagles,2014,0.3982306688389883
+2267,Erik Chinander,Position Coach - Defense,Philadelphia Eagles,2013,0.3982306688389883
+242,Bill MacDermott,Position Coach - Offense,Los Angeles Chargers,1998,0.398230609190682
+400,Alan Lowry,Position Coach - Offense,Tennessee Titans,1998,0.398230609190682
+1755,Miles Smith,Position Coach - Defense,Houston Texans,2022,0.39823048207132117
+528,Richard McNutt,Position Coach - Defense,Cleveland Browns,2008,0.39823042532955516
+518,Joe Wessel,Position Coach - Defense,Cincinnati Bengals,1994,0.39822943724695903
+976,Al Simmons,Position Coach - Defense,San Francisco 49ers,2003,0.3982293882321728
+430,Lew Carpenter,Position Coach - Offense,Philadelphia Eagles,1994,0.39822932132470595
+884,Chris Achuff,Position Coach - Defense,Arizona Cardinals,2019,0.39822893184896385
+628,Rob Rodriguez,Position Coach - Defense,Arizona Cardinals,2024,0.3982279038023308
+630,Sam Siefkes,Position Coach - Defense,Arizona Cardinals,2024,0.3982279038023308
+632,William Peagler,Position Coach - Defense,Arizona Cardinals,2024,0.3982279038023308
+1920,Porter Ellett,Position Coach - Offense,Kansas City Chiefs,2024,0.3982279038023308
+214,Dennis Murphy,Specialist Coach,Detroit Lions,2000,0.3982278629693714
+262,Earnel Durden,Position Coach - Offense,Los Angeles Chargers,1985,0.39822763549824947
+777,Marty Galbraith,Position Coach - Offense,Arizona Cardinals,2003,0.39822763549824947
+1535,John Parrella,Position Coach - Defense,Cleveland Browns,2019,0.39822763400309924
+492,Autry Denson,Position Coach - Offense,Arizona Cardinals,2025,0.39822760553615266
+504,Chris Cook,Position Coach - Offense,Arizona Cardinals,2025,0.39822760553615266
+509,Israel Woolfork,Position Coach - Offense,Arizona Cardinals,2025,0.39822760553615266
+1082,Keith Armstrong,Coordinator,Tampa Bay Buccaneers,2023,0.39822749969477805
+1083,Joe Haering,Position Coach - Defense,Atlanta Falcons,1996,0.39822749969477805
+1404,Tim Zetts,Position Coach - Offense,Chicago Bears,2023,0.39822718230793003
+800,Jim Ryan,Position Coach - Offense,Houston Texans,2013,0.3982269533068484
+2193,Wesley McGriff,Position Coach - Defense,New Orleans Saints,2015,0.3982268077770079
+564,Mo Forte,Position Coach - Offense,Detroit Lions,1996,0.3982259254171903
+2018,Roman Phifer,Position Coach - Defense,Denver Broncos,2010,0.39822584592095694
+2164,Jim Michalczik,Position Coach - Offense,Las Vegas Raiders,2010,0.39822584592095694
+329,John Michels,Position Coach - Offense,Minnesota Vikings,1993,0.3982254780009164
+876,John Brunner,Position Coach - Offense,Minnesota Vikings,1991,0.3982254780009164
+966,Kent Johnston,Position Coach - Defense,Tampa Bay Buccaneers,1988,0.3982254780009164
+963,Tim Harkness,Position Coach - Offense,Tampa Bay Buccaneers,1991,0.3982250308786001
+964,Morris Watts,Position Coach - Offense,Tampa Bay Buccaneers,1991,0.3982250308786001
+2155,Robin Ross,Position Coach - Defense,Las Vegas Raiders,2000,0.3982245284548689
+2310,Tyson Prince,Specialist Coach,Seattle Seahawks,2025,0.39822449221437445
+956,Joe Kines,Position Coach - Defense,Tampa Bay Buccaneers,1987,0.39822445015709934
+1986,Steve Clinkscale,Position Coach - Defense,Los Angeles Chargers,2025,0.3982241939481963
+1987,Will Tukuafu,Position Coach - Defense,Los Angeles Chargers,2025,0.3982241939481963
+1982,Mike Elston,Position Coach - Defense,Los Angeles Chargers,2025,0.3982241939481963
+1983,NaVorro Bowman,Position Coach - Defense,Los Angeles Chargers,2025,0.3982241939481963
+996,Barrett Ruud,Position Coach - Defense,Atlanta Falcons,2025,0.3982241939481963
+1000,Jacquies Smith,Position Coach - Defense,Atlanta Falcons,2025,0.3982241939481963
+1021,Justin Hood,Position Coach - Defense,Atlanta Falcons,2025,0.3982241939481963
+1199,Jesse Minter,Coordinator,Los Angeles Chargers,2025,0.3982241939481963
+1804,Randy Hanson,Position Coach - Defense,Las Vegas Raiders,2007,0.39822413979276816
+1216,Austin Gund,Position Coach - Offense,Buffalo Bills,2025,0.39822389568201816
+1376,JT Barrett,Position Coach - Offense,Chicago Bears,2025,0.39822389568201816
+1379,Kyle DeVan,Position Coach - Offense,Chicago Bears,2025,0.39822389568201816
+1498,Adam Morris,Position Coach - Defense,Cleveland Browns,2025,0.39822389568201816
+1667,Tashard Choice,Position Coach - Offense,Detroit Lions,2025,0.39822389568201816
+1668,Tyler Roehl,Position Coach - Offense,Detroit Lions,2025,0.39822389568201816
+1717,Sean Duggan,Position Coach - Defense,Green Bay Packers,2025,0.39822389568201816
+1718,Sean Mannion,Position Coach - Offense,Green Bay Packers,2025,0.39822389568201816
+1735,Ben Bolling,Position Coach - Defense,Houston Texans,2025,0.39822389568201816
+2076,Imarjaye Albury Sr.,Position Coach - Defense,Minnesota Vikings,2025,0.39822389568201816
+1854,Vacant,Position Coach - Offense,Jacksonville Jaguars,2024,0.39822377071997367
+868,Golden Pat Ruel,Position Coach - Offense,Detroit Lions,2000,0.39822374950030354
+1543,Jerod Kruse,Position Coach - Defense,Cleveland Browns,2018,0.3982231211398671
+1771,Pat O'Hara,Specialist Coach,Tennessee Titans,2023,0.3982230337430395
+1041,Bill Khayat,Position Coach - Offense,Washington Commanders,2009,0.39822229922527824
+1070,John Palmero,Position Coach - Defense,Washington Commanders,2009,0.39822229922527824
+1072,Scott Wachenheim,Position Coach - Offense,Washington Commanders,2009,0.39822229922527824
+1864,Jim Reid,Position Coach - Defense,Miami Dolphins,2009,0.39822229922527824
+2148,Brian Belichick,Position Coach - Defense,New England Patriots,2024,0.3982219123531343
+2170,Steve Belichick,Position Coach - Defense,New England Patriots,2022,0.3982219123531343
+1730,Shawn Mennenga,Coordinator,Green Bay Packers,2020,0.3982215262724352
+551,Jeff Uhlenhake,Position Coach - Offense,Cleveland Browns,2006,0.3982213043212539
+552,Ben Coates,Position Coach - Offense,Cleveland Browns,2006,0.3982213043212539
+670,Darrin Simmons,Coordinator,Cincinnati Bengals,2025,0.39822117870951335
+2214,Mike Dawson,Position Coach - Defense,New York Giants,2019,0.39822104323754526
+1553,Frank Edgerly,Position Coach - Offense,Cleveland Browns,2015,0.3982209462833544
+1555,Joker Phillips,Position Coach - Offense,Cleveland Browns,2015,0.3982209462833544
+200,Willie Brown,Specialist Coach,Las Vegas Raiders,2007,0.3982198806205628
+224,Bill Urbanik,Position Coach - Defense,Las Vegas Raiders,1997,0.3982198806205628
+244,Tyrone Dixon,Position Coach - Offense,Los Angeles Chargers,1997,0.3982198806205628
+1995,Will Harris,Position Coach - Defense,Los Angeles Chargers,2023,0.3982197339796485
+1020,John Timu,Specialist Coach,Atlanta Falcons,2025,0.3982197339796485
+1068,Mateo Kambui,Specialist Coach,Pittsburgh Steelers,2025,0.3982197339796485
+1075,Nick Perry,Specialist Coach,Seattle Seahawks,2024,0.3982197339796485
+1397,David Walker ; fired on November 1,Position Coach - Offense,Chicago Bears,2023,0.3982197339796485
+1402,Omar Young; Running backs coach from November 1,Position Coach - Offense,Chicago Bears,2023,0.3982197339796485
+1641,Mike Hiestand,Specialist Coach,Los Angeles Chargers,2025,0.3982197339796485
+1796,Cam Turner,Position Coach - Offense,Indianapolis Colts,2023,0.3982197339796485
+2201,Chris Smith,Position Coach - Offense,New York Giants,2023,0.3982197339796485
+2314,Damione Lewis,Position Coach - Defense,Seattle Seahawks,2023,0.3982197339796485
+2347,Matt Jones,Specialist Coach,Tennessee Titans,2025,0.3982197339796485
+1734,Joel Hilgenberg,Position Coach - Offense,Green Bay Packers,2013,0.3982195290533331
+276,Woodrow Lowe,Specialist Coach,Las Vegas Raiders,2000,0.3982188811391287
+973,Larry Mac Duff,Coordinator,San Francisco 49ers,2006,0.3982187704005911
+2383,Richard Dent,Position Coach - Defense,Chicago Bears,2003,0.3982187704005911
+271,Fred Whittingham,Position Coach - Defense,Las Vegas Raiders,1995,0.39821722063039666
+128,Steve DeBerg,Position Coach - Offense,Atlanta Falcons,1999,0.3982167299892219
+1988,Chris O'Leary,Position Coach - Defense,Los Angeles Chargers,2024,0.39821632239169197
+1385,Brian Bing,Position Coach - Defense,Chicago Bears,2024,0.39821632239169197
+1458,Fredi Knighten,Position Coach - Offense,Cincinnati Bengals,2025,0.39821632239169197
+1841,Fred Walker,Specialist Coach,Jacksonville Jaguars,2025,0.39821632239169197
+1852,Mike Gray,Position Coach - Defense,Jacksonville Jaguars,2024,0.39821632239169197
+1952,Cadillac Williams,Position Coach - Offense,Las Vegas Raiders,2024,0.39821632239169197
+1956,Mitch Singler,Position Coach - Offense,Las Vegas Raiders,2024,0.39821632239169197
+512,Justin Frye,Position Coach - Offense,Arizona Cardinals,2025,0.3982160241255139
+605,Winston DeLattiboudere III,Position Coach - Defense,Arizona Cardinals,2025,0.3982160241255139
+1516,Ashton Grant,Position Coach - Offense,New England Patriots,2025,0.3982160241255139
+1565,Bryan Bing,Position Coach - Defense,Dallas Cowboys,2025,0.3982160241255139
+1567,Darian Thompson,Position Coach - Defense,Dallas Cowboys,2025,0.3982160241255139
+1626,Darren Rizzi,Coordinator,Denver Broncos,2025,0.3982160241255139
+1914,Dan Williams,Position Coach - Offense,Kansas City Chiefs,2025,0.3982160241255139
+1977,Adam Fuller,Position Coach - Defense,Los Angeles Chargers,2025,0.3982160241255139
+2038,Jonathan Krause,Position Coach - Offense,Miami Dolphins,2025,0.3982160241255139
+2060,Jeff Burris,Position Coach - Defense,New York Giants,2025,0.3982160241255139
+2218,Nic McKissic–Luke,Position Coach - Offense,New York Jets,2025,0.3982160241255139
+2223,Brant Boyer,Coordinator,San Francisco 49ers,2025,0.3982160241255139
+2323,Rashad Johnson,Position Coach - Defense,Tampa Bay Buccaneers,2025,0.3982160241255139
+743,Rich McGeorge,Position Coach - Offense,Green Bay Packers,2000,0.3982159510346566
+895,Charlie Harbison,Position Coach - Defense,Arizona Cardinals,2018,0.39821594422623746
+2330,Skyler Fulton,Position Coach - Offense,Tampa Bay Buccaneers,2018,0.39821594422623746
+1311,Bobby Maffei,Specialist Coach,Carolina Panthers,2024,0.39821560089729124
+1326,Joe Dailey,Position Coach - Offense,Carolina Panthers,2022,0.39821560089729124
+1329,Terrance Knighton,Position Coach - Defense,Carolina Panthers,2022,0.39821560089729124
+1356,Thomas McGaughey,Coordinator,Tampa Bay Buccaneers,2025,0.39821560089729124
+1899,Matt Applebaum,Position Coach - Offense,Miami Dolphins,2022,0.39821560089729124
+2027,Skyler Jones,Position Coach - Defense,Los Angeles Rams,2022,0.39821560089729124
+2286,Joe Graves,Specialist Coach,San Francisco 49ers,2025,0.39821560089729124
+1105,Des Kitchings,Position Coach - Offense,Atlanta Falcons,2021,0.3982155854147578
+1382,Richard Hightower,Coordinator,Chicago Bears,2025,0.3982155854147578
+190,Ed Orgeron,Position Coach - Defense,New Orleans Saints,2008,0.39821557682252484
+1124,Bush Hamdan,Position Coach - Offense,Atlanta Falcons,2017,0.39821532948263916
+1819,Darrell Wyatt,Position Coach - Offense,Minnesota Vikings,2006,0.39821493335058533
+1592,Adam Kleffner,Position Coach - Offense,Dallas Cowboys,2019,0.39821464638037285
+1595,Jon Kitna,Position Coach - Offense,Dallas Cowboys,2019,0.39821464638037285
+2213,Henry Baker,Position Coach - Defense,New York Giants,2019,0.39821464638037285
+575,Joe Avezzano,Coordinator,Las Vegas Raiders,2005,0.39821462056942397
+1865,Steve Bush,Position Coach - Offense,Miami Dolphins,2011,0.39821461350204124
+1907,Johnny Cox,Position Coach - Offense,Jacksonville Jaguars,2011,0.39821461350204124
+1974,Greg Biekert,Position Coach - Defense,Las Vegas Raiders,2011,0.39821461350204124
+1976,Steve Wisniewski,Position Coach - Offense,Las Vegas Raiders,2011,0.39821461350204124
+2343,Grady Stretz,Position Coach - Defense,Tampa Bay Buccaneers,2011,0.39821461350204124
+675,Danny Crossman,Coordinator,Miami Dolphins,2024,0.3982145494261821
+177,Jim Pyne,Position Coach - Offense,New Orleans Saints,2005,0.39821452353967834
+1281,Adrian White,Position Coach - Defense,Buffalo Bills,2012,0.3982138999858385
+1289,William Inge,Position Coach - Defense,Buffalo Bills,2012,0.3982138999858385
+2005,Craig Aukerman,Coordinator,Miami Dolphins,2025,0.3982081525690096
+2001,Keith Burns,Coordinator,Los Angeles Chargers,2020,0.3982081525690096
+1989,Jonathan Goodwin,Specialist Coach,Los Angeles Chargers,2024,0.3982081525690096
+1990,Phil Serchia,Specialist Coach,Los Angeles Chargers,2024,0.3982081525690096
+1993,Pat White,Specialist Coach,Los Angeles Chargers,2023,0.3982081525690096
+1996,Cody Cejda,Specialist Coach,Los Angeles Chargers,2022,0.3982081525690096
+2019,Terry Tumey,Specialist Coach,Denver Broncos,2000,0.3982081525690096
+2020,Fred Reed,Specialist Coach,Detroit Lions,2007,0.3982081525690096
+2021,Tim Martz,Specialist Coach,Detroit Lions,2007,0.3982081525690096
+1985,Robert Muschamp,Specialist Coach,Los Angeles Chargers,2025,0.3982081525690096
+2025,Kenneth Black,Specialist Coach,Los Angeles Rams,2022,0.3982081525690096
+1980,Josh Hammond,Specialist Coach,Los Angeles Chargers,2025,0.3982081525690096
+181,John Bonamego,Specialist Coach,Los Angeles Rams,2021,0.3982081525690096
+201,Chet Franklin,Position Coach - Defense,Las Vegas Raiders,1984,0.3982081525690096
+615,Craig Ver Steeg,Position Coach - Offense,Baltimore Ravens,2022,0.3982081525690096
+845,Daron Roberts,Specialist Coach,Cleveland Browns,2013,0.3982081525690096
+872,Charles Haley,Position Coach - Defense,Detroit Lions,2002,0.3982081525690096
+1040,Everett Lindsay,Position Coach - Offense,Arizona Cardinals,2005,0.3982081525690096
+1165,Chuck Smith,Specialist Coach,Baltimore Ravens,2025,0.3982081525690096
+1189,Kerry Dixon,Position Coach - Offense,Baltimore Ravens,2023,0.3982081525690096
+1343,Everette Brown,Position Coach - Defense,Carolina Panthers,2019,0.3982081525690096
+1347,Richard Rodgers,Position Coach - Defense,Carolina Panthers,2019,0.3982081525690096
+1351,Brady Hoke,Position Coach - Defense,Carolina Panthers,2018,0.3982081525690096
+1352,Jeff Imamura,Position Coach - Defense,Carolina Panthers,2018,0.3982081525690096
+1635,Mike Mallory,Coordinator,Denver Broncos,2022,0.3982081525690096
+1692,Devin Fitzsimmons,Position Coach - Offense,Detroit Lions,2015,0.3982081525690096
+1798,Payton McCollum,Position Coach - Offense,Tennessee Titans,2025,0.3982081525690096
+2049,Kenny Baker,Position Coach - Defense,Miami Dolphins,2023,0.3982081525690096
+2082,A'Lique Terry,Position Coach - Defense,Minnesota Vikings,2022,0.3982081525690096
+2325,Jordan Somerville,Position Coach - Offense,Tampa Bay Buccaneers,2024,0.3982081525690096
+2346,Luke Stocker,Position Coach - Offense,Tennessee Titans,2025,0.3982081525690096
+2349,Scott Fuchs,Position Coach - Offense,Tennessee Titans,2025,0.3982081525690096
+2356,Jason Tucker,Position Coach - Offense,Tennessee Titans,2016,0.3982081525690096
+2371,Brent Vieselmeyer and Richard Rodgers Sr.,Position Coach - Defense,Washington Commanders,2022,0.3982081525690096
+2389,Bill Young,Position Coach - Defense,Detroit Lions,2001,0.3982081525690096
+2396,DeMontie Cross,Position Coach - Defense,Buffalo Bills,2010,0.3982081525690096
